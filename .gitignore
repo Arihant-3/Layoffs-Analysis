@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbiviz
+*.pbit
+*.pbix~*
+
+# SQL dump/cache
+*.sql~
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Excel temp files
+~$*
+
+# Ignore sensitive files if any
+.env
