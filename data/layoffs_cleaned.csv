@@ -1,0 +1,1001 @@
+company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised_million_dollars,country,date_added
+F-Secure,"Helsinki,Non-U.S.",70,2023-10-25,NULL,Security,https://yle.fi/a/74-20056883,Post-IPO,NULL,Finland,2023-10-26
+"Included Health","SF Bay Area",NULL,2022-07-25,0.06,Healthcare,https://www.fiercehealthcare.com/digital-health/digital-health-company-included-health-cuts-workforce-part-restructuring-move,"Series E",272,"United States",2022-07-26
+&Open,"Dublin,Non-U.S.",9,2022-11-17,0.09,Marketing,https://www.irishtimes.com/technology/2022/11/17/gifting-platform-open-to-cut-nine-roles-from-global-workforce/,"Series A",35,Ireland,2022-12-01
+#Paid,"Toronto,Non-U.S.",19,2023-01-27,0.17,Marketing,https://betakit.com/as-big-tech-makes-mass-layoffs-recent-canadian-startup-reductions-might-cut-deeper/,"Series B",21,Canada,2023-01-28
+"100 Thieves","Los Angeles",12,2022-07-13,NULL,Consumer,https://www.dexerto.com/esports/100-thieves-layoffs-social-content-teams-1870915/,"Series C",120,"United States",2022-07-18
+"10X Genomics","SF Bay Area",100,2022-08-04,0.08,Healthcare,https://www.genomeweb.com/business-news/10x-genomics-lays-approximately-100-employees#.YuxWk-zMKqV,Post-IPO,242,"United States",2022-08-04
+"1K Kirana","Gurugram,Non-U.S.",600,2023-04-04,0.4,Retail,https://www.moneycontrol.com/news/business/startup/info-edge-ventures-backed-1k-kirana-lays-off-40-workforce-to-restructure-business-10359421.html,"Series B",NULL,India,2023-04-04
+1stdibs,"New York City",70,2020-04-02,0.17,Retail,https://twitter.com/eringriffith/status/1246147841350762497,"Series D",253,"United States",2020-04-08
+23andMe,"SF Bay Area",200,2024-11-11,0.4,Healthcare,https://www.wsj.com/tech/biotech/23andme-to-cut-workforce-by-40-discontinues-therapeutics-pipeline-8c818729,Post-IPO,1100,"United States",2024-11-12
+23andMe,"SF Bay Area",71,2023-08-08,0.11,Healthcare,https://www.streetinsider.com/Corporate+News/23andMe+Holding+%28ME%29+Announces+11%25+Workforce+Cut/22014370.html,Post-IPO,1100,"United States",2023-08-08
+23andMe,"SF Bay Area",75,2023-06-09,0.09,Healthcare,https://www.genomeweb.com/business-news/23andme-laying-9-percent-workforce-cut-operating-costs,Post-IPO,1100,"United States",2023-06-09
+2TM,"Sao Paulo,Non-U.S.",100,2022-09-01,0.15,Crypto,https://finance.yahoo.com/news/second-round-layoffs-brazilian-crypto-212310521.html,Unknown,250,Brazil,2022-09-02
+2TM,"Sao Paulo,Non-U.S.",90,2022-06-01,0.12,Crypto,"https://www.terra.com.br/noticias/tecnologia/2tm-dono-do-mercado-bitcoin-demite-90-funcionarios,9ce67613ba7b79292f03bc2027ceb77e9uw5hy0w.html",Unknown,250,Brazil,2022-06-02
+2U,"Washington D.C.",NULL,2022-07-28,0.2,Education,https://www.insidehighered.com/news/2022/08/01/online-program-enabler-2u-resets-its-pricing-model,Post-IPO,426,"United States",2022-07-30
+54gene,"Washington D.C.",95,2022-08-29,0.3,Healthcare,https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/,"Series B",44,"United States",2022-08-30
+"5B Solar","Sydney,Non-U.S.",NULL,2022-06-03,0.25,Energy,https://www.news.com.au/finance/business/manufacturing/aussie-startup-5b-solar-sacks-25-per-cent-of-staff/news-story/55133297ccce5f1b7d1edf38f117a631,"Series A",12,Australia,2022-06-03
+6sense,"SF Bay Area",150,2022-10-12,0.1,Sales,https://www.moneycontrol.com/news/business/startup/ai-platform-6sense-lays-off-150-employees-globally-including-several-from-india-9327791.html,"Series E",426,"United States",2022-10-14
+7shifts,"Saskatoon,Non-U.S.",30,2023-09-15,0.07,Food,https://www.linkedin.com/feed/update/urn:li:activity:7108084382132801536/,"Series C",131,Canada,2023-09-21
+7Shifts,"Saskatoon,Non-U.S.",68,2024-01-11,0.19,Food,https://betakit.com/7shifts-cuts-19-percent-of-staff-in-new-layoffs-to-start-2024/,"Series C",131,Canada,2024-01-18
+"80 Acres Farms",Cincinnati,NULL,2023-01-18,0.1,Food,https://www.bizjournals.com/cincinnati/inno/stories/news/2023/01/18/80-acres-cuts-jobs-tech-industry-job-loses.html,Unknown,275,"United States",2023-01-19
+8x8,"SF Bay Area",155,2023-01-18,0.07,Support,https://www.channelfutures.com/business-models/8x8-to-reduce-7-of-workforce-significantly-impacting-channel-staff,Post-IPO,253,"United States",2023-01-18
+8x8,"SF Bay Area",200,2022-10-04,0.09,Support,https://www.channelfutures.com/business-models/8x8-lays-off-workers-cites-operational-efficiency,Post-IPO,253,"United States",2023-01-18
+98point6,Seattle,NULL,2022-07-21,0.1,Healthcare,https://www.geekwire.com/2022/health-care-startup-98point6-lays-off-10-of-workforce-but-says-its-still-in-growth-mode/,"Series E",247,"United States",2022-07-22
+99,"Sao Paulo,Non-U.S.",75,2022-09-20,0.02,Transportation,"https://www.terra.com.br/economia/dinheiro-em-dia/meu-negocio/na-onda-dos-layoffs-99-demite-mais-de-75-colaboradores,d2c6d7e70027cb925695c2e6a25956d16jo4jtuj.html",Acquired,244,Brazil,2022-09-21
+Aakash,"New Delhi,Non-U.S.",80,2024-09-18,NULL,Education,https://entrackr.com/2024/09/exclusive-aakash-lays-off-employees-amid-strategic-shift/,Acquired,NULL,India,2024-09-21
+ABBYY,Nicosia,200,2024-10-01,NULL,Data,https://www.bignewsnetwork.com/news/274659725/us-tech-giant-fires-russian-expats,Unknown,6,Cyprus,2024-10-03
+Abra,"SF Bay Area",12,2022-06-30,0.05,Crypto,https://www.theblock.co/post/155209/abra-becomes-latest-crypto-firm-to-cut-jobs,"Series C",106,"United States",2022-07-01
+Absci,Portland,30,2023-09-05,0.15,Healthcare,https://www.geekwire.com/2023/biotech-company-absci-lays-off-30-employees-about-15-of-staff/,Post-IPO,238,"United States",2023-09-07
+Absci,"Vancouver,Non-U.S.",40,2022-08-09,NULL,Healthcare,https://www.absci.com/message-from-ceo-08-09-2022/,Post-IPO,237,Canada,2022-08-10
+"Absolute Software","Vancouver,Non-U.S.",40,2023-04-06,0.05,Security,https://www.absolute.com/company/press-releases/2023/absolute-software-announces-workforce-restructuring/,Post-IPO,NULL,Canada,2023-04-06
+Acast,"Stockholm,Non-U.S.",70,2022-09-15,0.15,Media,https://www.bloomberg.com/news/newsletters/2022-09-15/swedish-podcast-company-acast-lays-off-15-of-its-staff,Post-IPO,126,Sweden,2022-09-15
+Acko,"Mumbai,Non-U.S.",45,2020-04-01,0.09,Finance,https://entrackr.com/2020/04/exclusive-acko-insurance-layoff/,Unknown,143,India,2020-04-08
+Acorns,Portland,50,2020-05-26,NULL,Finance,https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/,Unknown,207,"United States",2020-05-30
+Actifio,Boston,54,2020-12-16,NULL,Data,https://www.bizjournals.com/boston/news/2020/12/16/actifio-layoffs-google.html,Acquired,352,"United States",2020-12-17
+ActiveCampaign,Chicago,NULL,2022-10-03,0.15,Marketing,LinkedIn,"Series C",360,"United States",2022-10-07
+ActiveFence,"New York City",22,2025-03-13,0.07,Security,https://www.calcalistech.com/ctechnews/article/hjvqbqg3jx,"Series B",100,"United States",2025-03-14
+Actyv.ai,"Bengaluru,Non-U.S.",NULL,2023-08-02,0.6,Finance,https://entrackr.com/2023/08/exclusive-saas-startup-actyv-ai-lays-off-more-than-60-employees/,Seed,12,India,2023-08-03
+Acxiom,"Little Rock",130,2025-03-19,0.03,Marketing,https://adage.com/article/agency-news/acxiom-lays-35-staff-more-130-employees/2606146,Post-IPO,NULL,"United States",2025-03-21
+Ada,"Toronto,Non-U.S.",78,2022-09-20,0.16,Support,https://www.linkedin.com/posts/mikemurchison_company-message-from-mike-ugcPost-6978042513135710209-CcNB/,"Series C",190,Canada,2022-09-21
+"Ada Health","Berlin,Non-U.S.",50,2022-10-17,NULL,Healthcare,"Internal memo","Series B",189,Germany,2022-10-26
+"Ada Support","Toronto,Non-U.S.",36,2020-04-24,0.23,Support,https://betakit.com/ada-support-lays-off-23-percent-of-staff-amid-uncertainty-caused-by-pandemic/,"Series B",60,Canada,2020-04-24
+"Adaptive Biotechnologies",Seattle,100,2022-03-08,0.12,Healthcare,https://www.geekwire.com/2022/adaptive-biotechnologies-lays-off-about-100-people-12-of-headcount-to-streamline-our-workforce/,Post-IPO,406,"United States",2022-05-29
+Adda247,"Gurugram,Non-U.S.",300,2023-10-14,NULL,Education,https://entrackr.com/2023/10/exclusive-edtech-startup-adda247-fires-300-employees/,"Series B",61,India,2023-10-15
+Addepar,"SF Bay Area",20,2023-01-18,0.03,Finance,https://fortune.com/2023/01/17/addepar-a-wealth-management-startup-launched-by-the-co-founder-of-palantir-is-the-latest-fintech-to-cut-jobs/,"Series F",491,"United States",2023-01-18
+Adjust,"Berlin,Non-U.S.",304,2024-11-22,NULL,Marketing,https://www.pocketgamer.biz/applovin-owned-adjust-lays-off-staff/,Acquired,256,Germany,2024-11-24
+Adobe,"SF Bay Area",100,2022-12-06,NULL,Marketing,https://www.bloomberg.com/news/articles/2022-12-06/adobe-cuts-100-jobs-concentrated-in-sales-as-tech-tightens-belt,Post-IPO,2,"United States",2022-12-07
+AdRoll,"Salt Lake City",210,2020-03-31,0.3,Marketing,https://www.adexchanger.com/online-advertising/nextroll-lays-off-30-institutes-20-paycuts/,"Series C",89,"United States",2020-04-01
+Advata,Seattle,32,2022-10-28,0.21,Healthcare,https://www.geekwire.com/2022/seattle-area-health-data-analytics-company-advata-lays-off-employees/,,NULL,"United States",2022-10-31
+"Advisor Credit Exchange",Philadelphia,NULL,2025-01-14,1,Finance,https://citywire.com/ria/news/envestnet-backed-advisor-credit-exchange-to-shut-down-sources/a2457772,Unknown,31,"United States",2025-01-15
+Adwerx,Durham,40,2022-07-07,NULL,Marketing,https://www.inman.com/2022/07/08/adwerx-lays-off-40-employees-as-company-slows-new-initiatives/,Unknown,20,"United States",2022-07-08
+AEye,"SF Bay Area",46,2023-03-28,0.33,Transportation,https://investors.aeye.ai/node/8921/html,Post-IPO,314,"United States",2023-03-29
+Affirm,Pittsburgh,60,2024-02-21,NULL,Finance,https://bnnbreaking.com/finance-nav/affirms-pittsburgh-layoffs-a-tale-of-corporate-strategy-and-employee-impact,Post-IPO,1500,"United States",2024-02-22
+Affirm,"SF Bay Area",NULL,2022-11-03,0.01,Finance,https://www.theinformation.com/briefings/e-commerce-layoff-tally-mounts-with-faire-affirm-cuts,Post-IPO,1500,"United States",2022-11-04
+Affirm,"SF Bay Area",500,2023-02-08,0.19,Finance,https://www.wsj.com/articles/affirm-cuts-500-employees-19-of-its-workforce-11675897002,Post-IPO,1500,"United States",2023-02-08
+Afterverse,"Brasilia,Non-U.S.",60,2022-06-03,0.2,Consumer,https://neofeed.com.br/blog/home/o-jogo-virou-afterverse-empresa-de-games-da-movile-corta-ate-60-funcionarios/,Unknown,NULL,Brazil,2023-01-21
+AgentSync,Denver,67,2023-07-19,0.24,Finance,"Internal memo","Series B",111,"United States",2023-07-26
+Agoda,"Singapore,Non-U.S.",1500,2020-05-18,0.25,Travel,https://layoffs.fyi/2020/05/24/agoda-laid-off-1500-employees-launches-public-alumni-directory/,Acquired,NULL,Singapore,2020-05-19
+Ahead,"SF Bay Area",44,2022-04-14,1,Healthcare,https://www.bloomberg.com/news/articles/2022-04-14/online-adhd-medication-startup-ahead-is-shutting-down?sref=yLCixKPR,Unknown,9,"United States",2022-04-15
+Air,"New York City",NULL,2020-09-16,0.16,Marketing,https://air.inc/blog/series-a,"Series A",18,"United States",2020-09-21
+Airbnb,"SF Bay Area",1900,2020-05-05,0.25,Travel,https://layoffs.fyi/2020/05/07/airbnb-laid-off-1900-employees/,"Private Equity",5400,"United States",2020-05-05
+Airbnb,"SF Bay Area",30,2023-03-03,NULL,Travel,https://www.bloomberg.com/news/articles/2023-03-03/airbnb-layoffs-hit-recruiting-staff-even-as-it-selectively-hires,Post-IPO,6400,"United States",2023-03-04
+Airlift,"Lahore,Non-U.S.",NULL,2022-07-12,1,Logistics,https://techcrunch.com/2022/07/12/airlift-shutdown/,"Series B",109,Pakistan,2022-07-13
+Airlift,"Lahore,Non-U.S.",NULL,2022-05-25,0.31,Logistics,https://profit.pakistantoday.com.pk/2022/05/25/airlift-closes-down-operations-in-south-africa-smaller-cities-in-pakistan-amidst-global-downturn/,"Series B",109,Pakistan,2022-05-25
+Airmeet,"Bengaluru,Non-U.S.",NULL,2024-03-19,0.2,Marketing,https://inc42.com/buzz/airmeet-lays-off-20-workforce-in-second-restructuring-exercise-within-a-year/,"Series B",50,India,2024-03-20
+Airmeet,"Bengaluru,Non-U.S.",75,2023-05-25,0.3,Marketing,https://inc42.com/buzz/exclusive-prosus-backed-airmeet-lays-off-30-of-its-workforce/,"Series B",50,India,2023-05-26
+Airtable,"SF Bay Area",237,2023-09-14,0.27,Product,https://www.forbes.com/sites/stevenbertoni/2023/09/14/unicorn-startup-airtable-lays-off-27-of-firm-shifts-focus-to-big-clients/?sh=171151534589,"Series F",1400,"United States",2023-09-14
+Airtable,"SF Bay Area",254,2022-12-08,0.2,Product,https://techcrunch.com/2022/12/08/airtable-layoffs/,"Series F",1400,"United States",2022-12-08
+Airtame,"Copenhagen,Non-U.S.",15,2022-06-15,NULL,Consumer,"Internal memo",Unknown,7,Denmark,2022-06-16
+Airtasker,"Sydney,Non-U.S.",45,2023-04-27,0.2,Retail,https://www.businessnewsaustralia.com/articles/airtasker-makes-20pc-of-employees-redundant.html,"Series C",26,Australia,2023-04-28
+Airtime,"New York City",25,2025-06-04,0.43,Consumer,https://techcrunch.com/2025/06/04/its-layoff-season-at-phil-libins-airtime/,"Series B",33,"United States",2025-06-05
+Airtime,"New York City",30,2022-05-23,0.2,Consumer,"Internal memo","Series B",33,"United States",2022-08-17
+"Airy Rooms","Jakarta,Non-U.S.",NULL,2020-05-07,1,Travel,https://www.thejakartapost.com/news/2020/05/08/hotel-start-up-airy-closes-permanently-due-to-pandemic.html,Unknown,NULL,Indonesia,2020-06-04
+"Airy Rooms","Jakarta,Non-U.S.",NULL,2020-04-22,0.7,Travel,https://www.techinasia.com/airy-cease-operations,Unknown,NULL,Indonesia,2020-05-10
+Aiven,"Helsinki,Non-U.S.",NULL,2023-01-18,0.2,Infrastructure,https://aiven.io/blog/a-message-from-our-ceo-oskari-saarenmaa,"Series D",420,Finland,2023-01-18
+Ajaib,"Jakarta,Non-U.S.",67,2022-11-28,0.08,Finance,https://www.techinasia.com/indonesian-investment-platform-ajaib-lays-8-headcount,Unknown,245,Indonesia,2022-11-30
+Akamai,Boston,250,2024-11-07,0.02,Security,https://www.bizjournals.com/boston/news/2024/11/07/akamai-layoffs-2024.html,Post-IPO,35,"United States",2024-11-08
+Akamai,Boston,290,2023-05-09,0.03,Security,https://www.bizjournals.com/boston/news/2023/05/09/akamai-cuts-global-workforce-2023.html,Post-IPO,35,"United States",2023-05-10
+"Akili Interactive",Boston,NULL,2024-04-30,0.46,Healthcare,https://investors.akiliinteractive.com/news/news-details/2024/Akili-Announces-Amended-Agreement-with-Shionogi-Shift-in-Corporate-Strategy-and-Release-Date-for-First-Quarter-2024-Financial-Results/default.aspx,Post-IPO,271,"United States",2024-05-02
+"Akili Labs",Boston,NULL,2023-09-13,0.4,Healthcare,https://www.bizjournals.com/boston/news/2023/09/13/akili-interactive-layoffs-september-2023-otc.html,Post-IPO,301,"United States",2023-09-14
+"Akili Labs",Boston,46,2023-01-12,0.3,Healthcare,https://bhbusiness.com/2023/01/12/digital-therapeutics-startup-akili-plans-to-lay-off-30-of-staff/,Post-IPO,301,"United States",2023-01-14
+Akseleran,"Jakarta,Non-U.S.",60,2023-07-27,NULL,Finance,https://www.techinasia.com/indonesias-akseleran-lays-60-employees-delaying-ipo,"Series A",9,Indonesia,2023-07-29
+Akudo,"Bengaluru,Non-U.S.",NULL,2023-09-20,1,Finance,https://entrackr.com/2023/09/exclusive-y-combinator-backed-akudo-to-shut-down-ops/,Seed,4,India,2023-12-04
+Akulaku,"Jakarta,Non-U.S.",100,2020-04-15,NULL,Finance,https://www.techinasia.com/indonesia-online-lenders-tighten-credit-cut-jobs,"Series D",160,Indonesia,2020-04-20
+AlayaCare,"Montreal,Non-U.S.",80,2022-08-16,0.14,Healthcare,https://betakit.com/alayacare-lays-off-14-percent-of-employees-slows-ma-plans/,"Series D",293,Canada,2022-08-17
+Albert,"Los Angeles",20,2022-06-10,0.08,Finance,https://dot.la/albert-fintech-layoffs-2657493613.html50,"Series C",175,"United States",2022-06-11
+"Aleph Farms","Tel Aviv,Non-U.S.",30,2024-06-05,0.3,Food,https://www.calcalistech.com/ctechnews/article/hkdwxv0na,Unknown,119,Israel,2024-06-05
+Alerzo,"Ibadan,Non-U.S.",100,2023-11-21,NULL,Retail,https://techpoint.africa/2023/11/21/alerzo-has-laid-off-100-employees-due-to-warehouse-automation/,"Series B",16,Nigeria,2023-11-22
+Alerzo,"Ibadan,Non-U.S.",400,2023-03-06,NULL,Retail,https://techcabal.com/2023/03/06/alerzo-lays-off-900/,"Series B",16,Nigeria,2023-03-07
+"ALI Technologies","Tokyo,Non-U.S.",NULL,2024-01-16,1,Transportation,https://www.bbc.com/news/technology-67946088,Unknown,NULL,Japan,2024-01-20
+"Alibaba Cloud","Hangzhou,Non-U.S.",NULL,2023-05-24,0.07,Data,https://www.cnbc.com/2023/05/23/alibaba-to-cut-7percent-of-workforce-in-its-cloud-unit-as-it-pursues-ipo-.html,Subsidiary,NULL,China,2023-05-24
+Alice,"Sao Paulo,Non-U.S.",113,2022-12-09,0.16,Healthcare,https://startups.com.br/demissoes/alice-faz-nova-onda-de-demissoes-e-dispensa-113-pessoas/,"Series C",174,Brazil,2022-12-11
+Alice,"Sao Paulo,Non-U.S.",63,2022-07-11,NULL,Healthcare,https://forbes.com.br/carreira/2022/07/healthtech-alice-demite-63-funcionarios/,"Series C",174,Brazil,2022-07-13
+"AliExpress Russia","Moscow,Non-U.S.",400,2022-05-14,0.4,Retail,https://asia.nikkei.com/Politics/Ukraine-war/Alibaba-s-Russian-venture-slashes-40-of-staff-amid-Ukraine-war,Acquired,60,Russia,2022-05-14
+Allbirds,"SF Bay Area",23,2022-07-28,NULL,Retail,"Internal memo",Post-IPO,202,"United States",2022-07-30
+Alma,"New York City",NULL,2024-10-02,0.09,Healthcare,https://bhbusiness.com/2024/10/02/citing-need-to-re-focus-resources-digital-therapy-platform-alma-lays-off-9-of-staff/,"Series D",220,"United States",2024-10-03
+AlphaSense,"New York City",150,2024-11-27,0.08,Other,https://news.bloomberglaw.com/daily-labor-report/market-research-firm-alphasense-cut-150-jobs-in-restructuring,"Series F",1400,"United States",2024-11-28
+Alteryx,"Los Angeles",320,2023-04-27,0.11,Data,https://siliconangle.com/2023/04/27/alteryx-delivers-mixed-earnings-results-plans-cut-11-staff/,Post-IPO,613,"United States",2023-04-28
+"Alto Pharmacy","SF Bay Area",47,2020-09-29,0.06,Healthcare,https://layoffs.fyi/2020/10/07/alto-pharmacy-lays-off-47-employees/,"Series D",356,"United States",2020-10-07
+Altruist,"SF Bay Area",37,2025-01-07,0.1,Finance,https://riabiz.com/a/2025/1/7/altruist-lays-off-10-of-its-staff-despite-300-revenue-jump-to-get-best-possible-people-as-aggressive-hiring-continues-says-ceo,"Series E",449,"United States",2025-01-08
+Alza,"New York City",NULL,2025-01-13,1,Finance,https://fortune.com/2025/01/13/alza-fintech-latino-thrive-capital-stripe-level-employer-com-shut-down-venture/,Seed,7,"United States",2025-01-15
+Amazon,Seattle,100,2025-05-14,NULL,Retail,https://www.cnbc.com/2025/05/14/amazon-lays-off-about-100-employees-in-devices-and-services-unit.html,Post-IPO,8100,"United States",2025-05-16
+Amazon,Seattle,10000,2022-11-16,0.03,Retail,https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html,Post-IPO,108,"United States",2022-11-16
+Amazon,Seattle,150,2022-10-28,NULL,Retail,https://www.geekwire.com/2022/amazon-makes-staff-cuts-at-amp-the-app-it-launched-this-year-to-reimagine-radio/,Post-IPO,108,"United States",2023-01-11
+Amazon,Seattle,180,2023-11-13,NULL,Retail,https://www.cnbc.com/2023/11/13/amazon-cuts-more-than-180-jobs-in-gaming-division.html,Post-IPO,108,"United States",2023-11-13
+Amazon,Seattle,30,2024-01-18,NULL,Retail,https://www.cnbc.com/2024/01/18/-amazon-layoffs-hit-its-buy-with-prime-unit.html,Post-IPO,108,"United States",2024-01-19
+Amazon,Seattle,400,2024-02-06,NULL,Retail,https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2,Post-IPO,108,"United States",2024-02-07
+Amazon,Seattle,80,2023-07-13,NULL,Retail,https://news.yahoo.com/amazon-lays-off-80-workers-230451163.html?guccounter=1,Post-IPO,108,"United States",2023-07-14
+Amazon,Seattle,8000,2023-01-04,0.02,Retail,https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304,Post-IPO,108,"United States",2023-01-05
+Amazon,Seattle,9000,2023-03-20,NULL,Retail,https://www.cnbc.com/2023/03/20/amazon-layoffs-company-to-cut-off-9000-more-workers.html,Post-IPO,108,"United States",2023-03-20
+"Amber Group","Hong Kong,Non-U.S.",NULL,2022-09-09,0.1,Crypto,https://www.yahoo.com/now/crypto-trading-firm-amber-cut-193232181.html,"Series B",328,"Hong Kong",2022-09-11
+"Ambev Tech","Blumenau,Non-U.S.",50,2023-03-02,NULL,Food,https://omunicipioblumenau.com.br/economia-em-pauta-ambev-tech-de-blumenau-demite-50-funcionarios-e-interrompe-abertura-de-vagas/,Acquired,NULL,Brazil,2023-03-04
+AMD,"SF Bay Area",1000,2024-11-13,0.04,Hardware,https://www.techopedia.com/news/amd-layoffs-amid-mixed-earnings-and-intel-merger-speculation,Post-IPO,NULL,"United States",2024-11-13
+Amdocs,"St. Louis",2000,2023-07-06,0.06,Support,https://www.calcalistech.com/ctechnews/article/sjfzud4f3,Post-IPO,NULL,"United States",2023-01-06
+Amdocs,"St. Louis",700,2023-01-02,0.03,Support,https://www.calcalistech.com/ctechnews/article/bj4shoeco,Post-IPO,NULL,"United States",2023-07-07
+"American Robotics",Boston,50,2023-01-17,0.65,Other,https://www.bostonglobe.com/2023/01/17/business/new-year-brings-new-tech-layoffs/,Acquired,92,"United States",2023-01-20
+Amicole,"New York City",NULL,2025-07-17,1,Retail,https://techcrunch.com/2025/07/17/after-raising-over-3m-popular-vc-backed-beauty-brand-ami-cole-is-shuttering/,Seed,5,"United States",2025-07-18
+Amount,Chicago,NULL,2022-06-27,0.18,Finance,https://techcrunch.com/2022/06/27/fintech-amount-which-was-valued-at-1b-last-year-lays-off-18-of-staff/,Unknown,283,"United States",2022-06-27
+Amount,Chicago,130,2023-02-27,0.25,Finance,https://www.chicagobusiness.com/finance-banking/fintech-amount-cuts-about-quarter-its-staff,Unknown,283,"United States",2023-03-03
+Amperity,Seattle,NULL,2024-09-12,0.13,Marketing,https://www.geekwire.com/2024/amperity-lays-off-13-of-staff-in-latest-cuts-for-customer-data-startup/,"Series D",187,"United States",2024-09-13
+Amperity,Seattle,13,2022-08-20,0.03,Marketing,https://www.geekwire.com/2022/seattle-customer-intelligence-startup-amperity-lays-off-recruiting-staff/,"Series D",187,"United States",2022-08-22
+Amperity,Seattle,20,2024-01-25,NULL,Marketing,https://www.bizjournals.com/seattle/news/2024/01/25/amperity-layoffs-restructuring-seattle.html,"Series D",187,"United States",2024-01-27
+Amplero,Seattle,17,2020-03-29,1,Marketing,https://www.geekwire.com/2020/canary-coal-mine-seattle-marketing-tech-startup-amplero-shuts-lays-off-17-employees/,"Series B",25,"United States",2020-04-01
+Amplitude,"SF Bay Area",99,2023-04-05,0.13,Data,https://amplitude.com/blog/team-update,Post-IPO,311,"United States",2023-04-05
+Anagram,"Los Angeles",17,2020-04-03,NULL,Healthcare,https://www.statnews.com/2020/04/07/coronavirus-related-layoffs-hit-health-tech-startups/,"Series A",14,"United States",2020-04-05
+"Analog Devices","SF Bay Area",111,2023-12-13,NULL,Manufacturing,https://www.bizjournals.com/sanjose/news/2023/12/13/layoffs-come-to-analog-devices-as-111.html,Post-IPO,NULL,"United States",2023-12-22
+Anaplan,"SF Bay Area",300,2023-06-21,NULL,Other,https://nypost.com/2023/06/23/software-giant-anaplan-begins-layoffs-after-thoma-bravos-10-4b-buyout-deal/,Acquired,300,"United States",2023-06-24
+Anar,"Mumbai,Non-U.S.",NULL,2023-11-25,1,Marketing,https://inc42.com/buzz/as-elevation-backed-anar-shuts-shop-here-are-key-learnings-from-b2b-networking-startups-cofounder-ceo/,Seed,6,India,2023-11-27
+Ancestry,Lehi,81,2024-03-14,0.06,Consumer,https://endpts.com/ancestry-cut-6-of-workforce-as-genealogy-giant-struggles-with-subscription-revenue/,Post-IPO,33,"United States",2024-04-18
+"Anchorage Digital","SF Bay Area",75,2023-03-14,0.2,Crypto,https://www.theinformation.com/briefings/crypto-bank-anchorage-digital-lays-off-20-of-staff,"Series D",487,"United States",2023-03-15
+Andela,"New York City",135,2020-05-05,0.1,Recruiting,https://layoffs.fyi/2020/07/08/andela-layoff-list-emerges/,"Series D",181,"United States",2020-05-06
+Andgo,"Saskatoon,Non-U.S.",9,2023-09-29,NULL,HR,https://betakit.com/saskatoon-software-startups-vendasta-7shifts-andgo-systems-make-layoffs/,"Series A",5,Canada,2023-09-29
+AngelList,"SF Bay Area",20,2020-03-31,NULL,Recruiting,https://techcrunch.com/2020/04/06/angellist-lays-off-a-number-of-staff-and-cuts-executive-salaries/,"Series B",26,"United States",2020-04-06
+Anodot,"Tel Aviv,Non-U.S.",15,2022-07-06,0.2,Data,https://www.calcalistech.com/ctechnews/article/sjy5hbre3,"Series C",64,Israel,2023-05-08
+Anodot,"Tel Aviv,Non-U.S.",35,2022-07-06,0.27,Data,https://www.calcalistech.com/ctechnews/article/sypfe11ms5,"Series C",64,Israel,2022-07-06
+"ANS Commerce","Gurugram,Non-U.S.",NULL,2025-03-02,1,Retail,https://www.etnownews.com/technology/flipkart-shuts-down-ans-commerce-after-3-years-lays-off-employees-amid-e-commerce-restructuring-details-article-118657546,Acquired,2,India,2025-03-03
+AnswerLab,"SF Bay Area",NULL,2023-03-30,0.17,Marketing,https://www.linkedin.com/feed/update/urn:li:activity:7047309428986953729/,Unknown,NULL,"United States",2023-03-31
+"Antidote Health","Tel Aviv,Non-U.S.",23,2022-10-23,0.38,Healthcare,https://www.calcalistech.com/ctechnews/article/s1xwokmvi,Unknown,36,Israel,2022-10-24
+Anyline,"Vienna,Non-U.S.",NULL,2023-03-29,0.25,Other,https://brutkasten.com/artikel/anyline-jobabbau,"Series B",37,Austria,2023-03-31
+Anywell,"Tel Aviv,Non-U.S.",11,2022-08-14,NULL,"Real Estate",https://www.calcalistech.com/ctechnews/article/rkndvd8a5,"Series A",15,Israel,2022-08-14
+"Apartment List","SF Bay Area",29,2022-08-31,0.1,"Real Estate",https://www.linkedin.com/posts/matthew-w-woods_for-those-that-know-apartment-list-well-activity-6970856703277903874-MGoW/,"Series D",169,"United States",2022-09-01
+Apollo,"SF Bay Area",NULL,2022-12-15,0.15,Product,https://www.apollographql.com/blog/announcement/ceo-geoff-schmidts-message-to-apollo-employees/,"Series D",183,"United States",2022-12-15
+"Apollo Insurance","Vancouver,Non-U.S.",NULL,2022-11-15,0.25,Finance,https://www.insurancebusinessmag.com/ca/news/breaking-news/apollo-insurance-makes-layoffs-427596.aspx,"Series B",11,Canada,2022-11-20
+"App Annie","SF Bay Area",80,2020-04-28,0.18,Data,https://www.gamesindustry.biz/articles/2020-04-28-app-annie-lays-off-a-small-fraction-of-its-workforce,Unknown,156,"United States",2020-04-28
+Appcues,Boston,NULL,2023-03-08,0.15,Data,https://www.bizjournals.com/boston/news/2023/03/08/appcues-lays-off-nearly-15-of-workforce.html,"Series B",52,"United States",2023-03-11
+AppFolio,"Santa Barbara",149,2023-08-17,0.09,"Real Estate",https://www.pacbiztimes.com/2023/08/17/appfolio-lays-off-9-of-workforce-in-second-round-of-2023-cuts/,Post-IPO,30,"United States",2023-08-18
+AppFolio,"Santa Barbara",62,2023-05-22,NULL,"Real Estate",https://www.pacbiztimes.com/2023/05/22/appfolio-lays-off-62-people/,Post-IPO,30,"United States",2023-05-24
+AppGate,Miami,130,2022-07-21,0.22,Security,https://m.marketscreener.com/quote/stock/APPGATE-INC-128303647/news/APPGATE-INC-Costs-Associated-with-Exit-or-Disposal-Activities-form-8-K-41078857/,Post-IPO,NULL,"United States",2022-07-28
+Appgate,Miami,34,2023-02-01,0.08,Security,https://seekingalpha.com/filing/7197018,Post-IPO,NULL,"United States",2023-02-26
+AppHarvest,Lexington,NULL,2023-07-24,1,Food,https://marketrealist.com/why-did-this-farming-startup-app-harvest-declare-bankruptcy/,Post-IPO,692,"United States",2023-07-27
+Apple,"SF Bay Area",100,2024-08-27,NULL,Hardware,https://www.bloomberg.com/news/articles/2024-08-28/apple-cuts-about-100-services-jobs-as-part-of-priority-shift,Post-IPO,1200,"United States",2024-08-28
+Apple,"SF Bay Area",614,2024-04-04,NULL,Hardware,https://www.bloomberg.com/news/articles/2024-04-04/apple-cut-at-least-600-workers-when-car-screen-projects-stopped?embedded-checkout=true,Post-IPO,1200,"United States",2024-04-05
+AppLovin,"SF Bay Area",120,2024-11-13,NULL,Marketing,https://www.sfgate.com/tech/article/applovin-layoffs-stock-market-run-19920195.php,Post-IPO,1600,"United States",2024-11-16
+AppLovin,"SF Bay Area",300,2022-06-27,0.12,Marketing,https://www.bizjournals.com/sanjose/news/2022/06/29/applovin-lays-off-300-workers-report.html,Post-IPO,1600,"United States",2022-06-28
+AppLovin,"SF Bay Area",58,2024-10-15,NULL,Marketing,https://www.pocketgamer.biz/applovin-owned-adjust-lays-off-staff/,Post-IPO,1600,"United States",2025-04-19
+AppLovin,"SF Bay Area",61,2024-08-15,NULL,Marketing,https://www.siliconvalley.com/2024/08/19/economy-tech-jobs-layoff-south-bay-silicon-valley-biotech-internet/,Post-IPO,1600,"United States",2024-09-02
+AppLovin,"SF Bay Area",65,2024-10-03,NULL,Marketing,https://www.pocketgamer.biz/applovin-owned-adjust-lays-off-staff/,Post-IPO,1600,"United States",2025-04-19
+AppLovin,"SF Bay Area",89,2025-01-15,NULL,Marketing,https://www.pocketgamer.biz/applovin-lays-off-97-staff/,Post-IPO,1600,"United States",2025-04-19
+AppLovin,"SF Bay Area",97,2025-04-16,NULL,Marketing,https://www.pocketgamer.biz/applovin-lays-off-97-staff/,Post-IPO,1600,"United States",2025-04-19
+ApplyBoard,"Waterloo,Non-U.S.",NULL,2024-09-19,0.04,Education,https://kitchener.citynews.ca/2024/09/19/layoffs-at-applyboard-due-to-restructuring/,"Series D",483,Canada,2024-09-21
+ApplyBoard,"Waterloo,Non-U.S.",90,2022-11-28,0.06,Education,https://www.therecord.com/news/waterloo-region/2022/11/28/applyboard-lays-off-six-per-cent-of-its-workforce.html,"Series D",483,Canada,2022-11-30
+AppsFlyer,"SF Bay Area",100,2025-02-04,0.07,Data,https://www.calcalistech.com/ctechnews/article/hjfbxkkt1e,Unknown,293,"United States",2025-02-04
+Appsmith,"SF Bay Area",35,2023-09-22,0.25,,https://inc42.com/buzz/exclusive-insight-partners-backed-appsmith-lays-off-25-of-its-workforce/,"Series B",51,"United States",2023-09-24
+Aptiv,"Krakow,Non-U.S.",250,2024-02-20,NULL,Transportation,"https://wyborcza.biz/biznes/7,159911,30719165,w-pol-godziny-zwolnili-250-osob-dostal-godzine-na-spakowanie.html?disableRedirects=true",Post-IPO,8,Poland,2024-02-21
+Aqgromalin,"Chennai,Non-U.S.",80,2022-06-20,0.3,Food,https://inc42.com/buzz/exclusive-sequoia-backed-aqgromalin-lays-off-30-workforce/,Unknown,12,India,2022-06-21
+"Aqua Security",Boston,50,2024-07-17,0.1,Security,https://www.calcalistech.com/ctechnews/article/rky00s7rd0,"Series E",325,"United States",2024-07-18
+"Aqua Security",Boston,65,2022-12-05,0.1,Security,https://www.calcalistech.com/ctechnews/article/s1uxohjvs,"Series E",265,"United States",2022-12-06
+"Aqua Security","Tel Aviv,Non-U.S.",24,2020-04-01,0.09,Security,https://www.bizjournals.com/boston/news/2020/04/02/cybersecurity-company-lays-off-workers-via-zoom.html,"Series C",100,Israel,2020-04-04
+Arc,"SF Bay Area",13,2022-07-20,NULL,HR,https://www.linkedin.com/posts/weitingliu_today-i-shared-the-hard-news-about-the-difficult-activity-6955435904693878784-hl3J/,Seed,1,"United States",2022-07-21
+"Arch Oncology",Brisbane,NULL,2023-01-13,1,Healthcare,https://endpts.com/scoop-roche-backed-startup-gives-up-on-cd47-as-ceo-most-employees-leave/,"Series C",155,"United States",2023-01-14
+Archipelago,"SF Bay Area",40,2023-08-01,0.3,"Real Estate",https://www.theinsurer.com/news/ai-driven-property-risk-insurtech-archipelago-analytics-cuts-30-of-workforce/,"Series B",57,"United States",2023-08-01
+"Argo AI","Munich,Non-U.S.",100,2020-06-29,NULL,Transportation,https://www.theinformation.com/briefings/58401b,Unknown,3600,Germany,2020-06-29
+"Argo AI",Pittsburgh,150,2022-07-07,0.05,Transportation,https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/,Unknown,3600,"United States",2022-07-08
+"Argo AI",Pittsburgh,173,2022-10-26,NULL,Transportation,https://www.autonews.com/mobility-report/argo-ai-lay-173-startup-folds,Unknown,3600,"United States",2022-10-26
+"Argo AI","SF Bay Area",259,2022-11-01,NULL,Transportation,https://www.bizjournals.com/sanjose/news/2023/01/03/argo-ai-lays-off-259-palo-alto-employes.html,Unknown,3600,"United States",2023-01-05
+Argyle,"New York City",20,2022-08-26,0.07,Finance,https://techcrunch.com/2022/08/26/fintech-argyle-has-layoffs/,"Series B",78,"United States",2022-08-26
+"Arkane Studios",Austin,96,2024-05-08,1,Consumer,https://www.bizjournals.com/austin/news/2024/05/08/austin-gaming-studio-shuts-down.html,Unknown,NULL,"United States",2024-05-10
+"Arm Holdings","Shanghai,Non-U.S.",70,2023-12-18,NULL,Hardware,https://www.bloomberg.com/news/articles/2023-12-18/arm-lays-off-over-70-engineers-in-china-relocating-roles,Post-IPO,NULL,China,2023-12-19
+Armis,"SF Bay Area",25,2022-12-08,0.04,Security,https://www.calcalistech.com/ctechnews/article/by6mtcjuo,"Private Equity",537,"United States",2022-12-11
+Arrival,"London,Non-U.S.",NULL,2025-03-10,1,Transportation,https://sifted.eu/articles/arrival-sales-collapse-news,Post-IPO,629,"United Kingdom",2025-03-12
+Arrival,"London,Non-U.S.",NULL,2023-10-05,0.25,Transportation,https://techcrunch.com/2023/10/10/cash-strapped-ev-maker-arrival-lays-off-yet-more-workers/,Post-IPO,629,"United Kingdom",2023-10-11
+Arrival,"London,Non-U.S.",NULL,2022-07-13,0.3,Transportation,https://techcrunch.com/2022/07/13/arrival-to-slash-costs-cut-up-to-30-of-workforce-to-meet-on-ev-van-production-target/,Post-IPO,629,"United Kingdom",2022-07-14
+Arrival,"London,Non-U.S.",800,2023-01-30,0.5,Transportation,https://techcrunch.com/2023/01/30/ev-company-arrival-to-cut-workforce-by-50-in-third-restructuring-effort/,Post-IPO,629,"United Kingdom",2023-01-31
+"Arrive Logistics",Austin,75,2020-04-03,0.07,Logistics,https://www.freightwaves.com/news/citing-coronavirus-arrive-logistics-cuts-10-of-workforce,"Series B",35,"United States",2020-04-05
+Article,"Vancouver,Non-U.S.",216,2022-08-04,0.17,Retail,https://dailyhive.com/vancouver/vancouver-article-layoffs,"Series B",NULL,Canada,2022-08-04
+Articulate,"New York City",38,2023-02-02,NULL,Education,https://www.linkedin.com/posts/lucysuros_today-im-imploring-my-network-to-be-on-activity-7026985200467263489-X0T8/,"Series A",1500,"United States",2023-02-03
+Artifact,"SF Bay Area",NULL,2024-01-12,1,Media,https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/,Unknown,NULL,"United States",2024-01-13
+Artnight,"Berlin,Non-U.S.",26,2022-08-31,0.36,Retail,https://www.businessinsider.de/gruenderszene/business/artnight-entlassungen/,Unknown,NULL,Germany,2022-09-01
+Artsy,"New York City",35,2023-06-29,0.15,Retail,https://www.artnews.com/art-news/news/artsy-lays-off-35-employees-across-divisions-1234672920/,"Series D",100,"United States",2023-06-30
+Asana,"SF Bay Area",100,2025-02-04,NULL,Other,"Internal memo",Post-IPO,453,"United States",2025-02-05
+Asana,"SF Bay Area",180,2022-11-15,0.09,Other,https://www.linkedin.com/posts/anneraimondi_earlier-today-we-shared-the-incredibly-difficult-activity-6998297745270718465-a_MV/,Post-IPO,453,"United States",2022-11-15
+Aspiration,"Los Angeles",170,2023-03-24,NULL,Finance,"https://ccwd.hecc.oregon.gov/Layoff/uploads/LOT8534/WARN%208534%20Aspirations,%20OR%20-%20Govt%20Official%20WARN%20letter.pdf",Unknown,250,"United States",2023-03-29
+Aspire,"SF Bay Area",23,2022-07-15,NULL,Marketing,https://www.businessinsider.com/influencer-marketing-firm-aspire-lays-off-staffers-creator-economy-2022-7,"Series A",27,"United States",2022-07-15
+Assurance,Seattle,112,2024-05-01,1,Finance,https://www.geekwire.com/2024/prudential-to-shut-down-assurance-the-insurance-tech-startup-it-acquired-for-2-35b-in-2019/,Acquired,NULL,"United States",2024-05-02
+Assure,"Salt Lake City",NULL,2022-11-23,1,Finance,https://www.axios.com/2022/11/23/assure-shutdown-fintech-startup-investing,Seed,2,"United States",2022-11-25
+Astra,"SF Bay Area",NULL,2022-11-08,0.16,Aerospace,https://www.linkedin.com/posts/chrisckemp_today-we-made-the-difficult-decision-to-activity-6995868932138033153-knfZ/,Post-IPO,300,"United States",2022-11-09
+Astra,"SF Bay Area",NULL,2023-08-04,0.25,Aerospace,https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/,Post-IPO,300,"United States",2023-08-05
+Astra,"SF Bay Area",40,2020-04-05,0.25,Aerospace,https://www.cnbc.com/2020/04/05/rocket-startup-astra-trims-staff-to-survive-pandemic-until-next-year.html,Unknown,100,"United States",2020-04-05
+"Astrate Medical",Philadelphia,NULL,2024-02-05,1,Healthcare,https://www.businessinsider.com/exclusive-why-baby-tech-startup-astarte-medical-shutting-down-2024-1,"Series A",13,"United States",2024-02-06
+Astronomer,Cincinnati,100,2023-04-13,0.4,Data,"Internal memo","Series C",282,"United States",2023-04-15
+Astronomer,Cincinnati,76,2023-01-04,0.2,Data,https://www.astronomer.io/blog/astronomer-update/,"Series C",282,"United States",2023-01-06
+At-Bay,"SF Bay Area",27,2023-09-12,0.09,Security,https://www.calcalistech.com/ctechnews/article/sypw6110a3,Unknown,296,"United States",2023-09-06
+Atera,"Tel Aviv,Non-U.S.",20,2024-11-03,0.06,Other,https://www.calcalistech.com/ctechnews/article/byvtjavbyg,"Series B",102,Israel,2024-11-04
+Athennian,"Calgary,Non-U.S.",30,2023-07-05,NULL,Legal,https://betakit.com/legaltech-scaleup-athennian-navigates-growing-pains-with-layoffs-leadership-changes/,"Series B",47,Canada,2023-08-17
+"Atlanta Tech Village",Atlanta,NULL,2020-04-02,0.5,"Real Estate",https://www.bizjournals.com/atlanta/news/2020/04/02/atlanta-tech-village-lays-off-half-of-its-staff.html,Unknown,NULL,"United States",2020-04-04
+Atlas,Chicago,150,2023-08-23,0.3,HR,https://www.forbes.com/sites/angelicamarideoliveira/2023/08/24/hrtech-atlas-announces-layoffs-six-months-post-brazil-launch/?sh=31ea27cb6b7d,"Series B",220,"United States",2023-08-24
+"Atlas Obscura","New York City",15,2020-06-18,NULL,Media,https://www.poynter.org/?locally=atlas-obscura-laid-off-15-including-five-in-editorial-the-company-confirmed-to-poynter,"Series B",32,"United States",2020-06-23
+Atlassian,"Sydney,Non-U.S.",500,2023-03-06,0.05,Other,https://www.cnbc.com/2023/03/06/atlassian-cuts-5percent-of-headcount-as-it-focuses-on-high-priority-areas.html,Post-IPO,210,Australia,2023-03-07
+Atmosphere,Austin,100,2024-05-15,NULL,Other,https://www.bizjournals.com/austin/news/2024/05/15/layoffs-streaming-startup-austin-atmosphere.html,"Series D",214,"United States",2024-05-17
+AtoB,"SF Bay Area",32,2022-10-19,0.3,Finance,https://www.sfgate.com/bayarea/article/atob-lays-off-30-staff-17518327.php,"Series B",177,"United States",2022-10-19
+Atsu,Seattle,6,2020-04-10,1,Infrastructure,"Company executive",Unknown,1,"United States",2020-04-17
+Attentive,"New York City",NULL,2023-01-05,0.15,Marketing,https://www.modernretail.co/operations/layoffs-hit-the-e-commerce-space-attentive-lays-off-15-of-staff/,"Series E",863,"United States",2023-01-06
+AU10TIX,"Tel Aviv,Non-U.S.",19,2023-01-31,0.09,Security,https://www.calcalistech.com/ctechnews/article/sy6ynzb2o,Unknown,80,Israel,2023-02-07
+Audible,"New York City",100,2024-01-11,0.05,Media,https://variety.com/2024/digital/news/audible-layoffs-amazon-1235869320/,Acquired,14,"United States",2024-01-12
+AudioCodes,"Tel Aviv,Non-U.S.",80,2023-05-09,0.06,Other,https://www.calcalistech.com/ctechnews/article/hjnggpd43,Post-IPO,91,Israel,2023-05-09
+AudioCodes,"Tel Aviv,Non-U.S.",80,2023-07-13,0.06,Other,https://www.calcalistech.com/ctechnews/article/bkrcqqaf3,Post-IPO,91,Israel,2023-07-17
+Augury,"New York City",20,2023-01-04,0.05,Manufacturing,https://www.calcalistech.com/ctechnews/article/skiu0xx9j,"Series E",274,"United States",2023-01-09
+Augury,"New York City",70,2023-08-02,0.18,Manufacturing,https://www.calcalistech.com/ctechnews/article/ryoxde00j3,"Series E",274,"United States",2023-08-03
+Aura,Boston,70,2022-06-23,0.09,Security,https://www.bankinfosecurity.com/aura-lays-off-70-staff-after-raising-350m-over-past-year-a-19448,"Series F",500,"United States",2022-06-25
+"Aura Financial","SF Bay Area",NULL,2021-01-11,1,Finance,https://www.linkedin.com/pulse/farewell-aura-your-mission-endures-james-gutierrez/,Unknown,584,"United States",2021-01-28
+Aurora,Pittsburgh,NULL,2024-01-24,0.03,Transportation,https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/,Post-IPO,3700,"United States",2024-01-25
+"Aurora Solar","SF Bay Area",111,2024-01-30,0.2,Energy,https://techcrunch.com/2024/01/30/aurora-solar-layoffs/,"Series D",523,"United States",2024-01-30
+"Aurora Solar","SF Bay Area",58,2025-01-16,NULL,Energy,https://www.sfexaminer.com/news/technology/sf-green-tech-startup-aurora-solar-laying-off-dozens-again/article_a5fc0dbc-d450-11ef-95d2-03eab04fe214.html,"Series D",523,"United States",2025-01-17
+Autodesk,"SF Bay Area",1350,2025-02-27,0.09,Other,https://www.cnbc.com/2025/02/27/autodesk-says-it-will-cut-1350-employees.html,Post-IPO,NULL,"United States",2025-02-28
+Autodesk,"SF Bay Area",250,2023-02-02,0.02,Other,https://www.bloomberg.com/news/articles/2023-02-03/autodesk-layoffs-hit-250-jobs-joining-tech-industry-peers,Post-IPO,NULL,"United States",2023-02-03
+Autograph,"Los Angeles",30,2023-05-04,0.33,Crypto,https://www.businessinsider.com/tom-bradys-nft-startup-autograph-layoffs-crypto-2023-5?IR=T,"Series B",205,"United States",2023-05-05
+Automatic,"SF Bay Area",NULL,2020-05-01,1,Transportation,https://techcrunch.com/2020/05/01/smart-driving-assistant-automatic-is-shutting-down/,Acquired,24,"United States",2020-05-01
+"Automation Anywhere","SF Bay Area",260,2020-04-27,0.1,Other,https://siliconangle.com/2020/04/27/automation-anywhere-lays-off-tenth-workforce-due-covid-19/,"Series B",840,"United States",2020-04-27
+Automattic,"SF Bay Area",281,2025-04-02,0.16,Other,https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/,"Series E",986,"United States",2025-04-02
+Automox,Boulder,NULL,2022-04-18,0.11,Infrastructure,https://www.linkedin.com/posts/automox_this-morning-we-shared-the-difficult-news-activity-6920062206382329856-qUd1/,"Series C",152,"United States",2022-05-09
+"Ava Labs","New York City",NULL,2023-11-06,0.12,Crypto,https://decrypt.co/204581/ava-labs-employees-report-layoffs-many-people-affected,Unknown,640,"United States",2023-11-07
+"Avantage Entertainment",Minneapolis,5,2020-04-03,0.2,Media,https://www.bizjournals.com/twincities/news/2020/04/03/minnesota-tech-firms-used-to-growth-slam-on-hiring.html,Unknown,NULL,"United States",2020-04-04
+AvantStay,"Los Angeles",144,2022-11-09,0.22,Travel,https://shorttermrentalz.com/news/avantstay-workforce-redundancies-round/,"Private Equity",686,"United States",2022-11-11
+AvantStay,"Los Angeles",37,2023-06-20,NULL,Travel,https://skift.com/2023/06/20/property-manager-avantstay-lays-off-10-of-staff-third-round-of-job-cuts-in-a-year/,"Private Equity",686,"United States",2023-12-22
+AvantStay,"Los Angeles",80,2022-06-29,NULL,Travel,https://skift.com/blog/avantstay-fires-a-significant-chunk-of-its-employee-roster/,Unknown,811,"United States",2022-06-30
+Avast,Phoenix,NULL,2022-11-10,0.25,Security,https://cijeurope.com/en/gen-digital-to-lay-off-about-a-quarter-of-its-staff-in-czechia/post.html,Unknown,NULL,"United States",2022-11-17
+Avaya,Durham,180,2024-08-01,0.03,Other,https://www.uctoday.com/unified-communications/avaya-layoffs-theyve-talked-the-talk-now-they-need-to-walk-the-walk/,Post-IPO,700,"United States",2024-11-08
+Avidbots,"Kitchener,Non-U.S.",50,2023-03-14,0.14,Hardware,https://www.therecord.com/business/2023/03/14/very-difficult-decision-kitchener-robotics-firm-avidbots-confirms-layoffs.html,"Series C",106,Canada,2023-03-17
+Avo,"Tel Aviv,Non-U.S.",500,2022-05-01,0.67,Food,https://en.globes.co.il/en/article-israeli-grocery-delivery-co-avo-lays-off-500-1001410720,"Series B",45,Israel,2022-05-02
+Avocargo,"Berlin,Non-U.S.",16,2023-04-06,1,Transportation,https://www.businessinsider.de/gruenderszene/automotive-mobility/lastenrad-startup-avocargo-stellt-betrieb-ein/,Seed,NULL,Germany,2023-04-08
+Away,"New York City",NULL,2024-02-14,0.25,Retail,https://www.inc.com/rebecca-deczynski/away-just-cut-25-percent-of-its-internal-staff-ceo-jen-rubio-shares-companys-path-forward.html,"Series D",181,"United States",2024-02-14
+Away,"New York City",22,2023-05-31,0.08,Retail,https://pitchbook.com/news/articles/away-direct-to-consumer-layoffs-venture-capital,"Series D",181,"United States",2023-08-15
+Away,"New York City",60,2020-04-07,0.1,Retail,https://techcrunch.com/2020/04/07/away-the-high-flying-travel-brand-startup-just-furloughed-half-its-employees-and-laid-off-10/,"Series D",181,"United States",2020-04-07
+Awok,"Dubai,Non-U.S.",NULL,2020-09-02,1,Retail,https://www.menabytes.com/awok-shuts-down/,"Series A",30,"United Arab Emirates",2020-09-02
+"Axios Media","Washington D.C.",50,2024-08-06,0.1,Media,https://www.nytimes.com/2024/08/06/business/media/axios-layoffs.html,Acquired,57,"United States",2024-08-06
+Aya,"Toronto,Non-U.S.",5,2020-11-19,0.25,Finance,https://betakit.com/fintech-and-healthtech-startup-aya-comes-out-of-stealth-with-3-2-million-cad-in-seed-financing/,Seed,3,Canada,2020-11-19
+Ayoconnect,"Jakarta,Non-U.S.",NULL,2023-08-03,0.1,Finance,https://www.dealstreetasia.com/stories/ayoconnect-cuts-staff-356209,"Series B",43,Indonesia,2023-08-05
+B8ta,"SF Bay Area",250,2020-03-26,0.5,Retail,https://www.retaildive.com/news/b8ta-announces-corporate-layoffs-and-store-associate-furloughs/574955/,"Series C",88,"United States",2020-03-29
+Babylon,"London,Non-U.S.",100,2022-07-12,NULL,Healthcare,https://www.bloomberg.com/news/articles/2022-07-12/uk-health-app-babylon-plans-job-cuts-in-bid-to-slash-costs#xj4y7vzkg,Post-IPO,1100,"United Kingdom",2022-07-25
+"Babylon Health","London,Non-U.S.",94,2023-08-09,NULL,Healthcare,https://www.fiercehealthcare.com/digital-health/babylon-closes-us-business-lays-employees-after-mindmaze-take-private-deal-collapses,Post-IPO,1200,"United Kingdom",2023-08-11
+"Back Market","Paris,Non-U.S.",93,2022-12-23,0.13,Retail,https://sifted.eu/articles/startup-tech-company-layoffs/,"Series E",1000,France,2022-12-27
+Bakkt,Atlanta,NULL,2022-12-08,0.15,Crypto,https://bakkt.com/newsroom/a-note-from-gavin-michael-to-bakkt-employees-bakkt,Post-IPO,932,"United States",2022-12-11
+Bakkt,Atlanta,28,2024-05-03,NULL,Crypto,https://seekingalpha.com/news/4099966-crypto-platform-bakkt-to-lay-off-28-employees,Post-IPO,932,"United States",2024-05-04
+"Bally's Interactive",Providence,NULL,2023-01-18,0.15,Consumer,https://www.legalsportsreport.com/98714/filing-ballys-cutting-up-to-15-of-interactive-employees/,Post-IPO,946,"United States",2023-01-21
+Balto,"St. Louis",30,2022-06-22,NULL,Sales,https://www.bizjournals.com/stlouis/inno/stories/news/2022/06/22/software-startup-balto-lays-off-about-30-employees.html,"Series B",51,"United States",2022-06-23
+Balto,"St. Louis",35,2022-12-12,NULL,Sales,https://www.bizjournals.com/stlouis/inno/stories/news/2022/12/12/balto-software-layoffs.html,"Series B",51,"United States",2022-12-13
+"Bamboo Health",Louisville,52,2022-07-01,NULL,Healthcare,"Internal memo",Unknown,NULL,"United States",2022-07-21
+Bandcamp,"SF Bay Area",58,2023-10-16,0.5,Other,https://www.sfgate.com/tech/article/bandcamp-layoffs-oakland-songtradr-epic-18429463.php,Acquired,NULL,"United States",2023-10-17
+Banxa,"Melbourne,Non-U.S.",70,2022-06-27,0.3,Crypto,https://decrypt.co/103891/australian-crypto-firm-banxa-cut-staff-30-citing-another-crypto-winter,Post-IPO,13,Australia,2022-06-28
+Baraja,"Sydney,Non-U.S.",NULL,2023-02-08,0.75,Transportation,https://www.news.com.au/finance/business/technology/australian-driverless-car-startup-baraja-worth-300m-sacks-75-per-cent-of-staff/news-story/c7c36ac5afded8f5171e8cc0ec5a71af,Unknown,63,Australia,2023-02-08
+Bardee,"Melbourne,Non-U.S.",30,2023-08-03,NULL,Food,https://www.businessnewsaustralia.com/articles/bardee-lets-go-staff-to-make-its-food-waste-revolution-profitable.html,Seed,5,Australia,2023-08-03
+Bark,"New York City",NULL,2023-07-13,0.08,Retail,https://seekingalpha.com/news/3987629-bark-cuts-8-of-workforce-as-part-of-cost-reduction-initiative,Post-IPO,282,"United States",2023-07-26
+Bark,"New York City",126,2023-02-09,0.12,Retail,https://investors.bark.co/news/news-details/2023/BARK-Reports-Third-Quarter-Fiscal-Year-2023-Results/default.aspx,Post-IPO,NULL,"United States",2023-02-10
+"Basis Technologies",Chicago,40,2023-02-21,0.04,Marketing,https://www.mediapost.com/publications/article/382752/basis-technologies-lays-off-employees-as-it-restru.html,"Series B",52,"United States",2023-06-20
+Baton,"SF Bay Area",16,2022-06-29,0.25,Transportation,https://www.freightwaves.com/news/digital-drop-freight-platform-baton-lays-off-25-of-workforce,"Series A",13,"United States",2022-06-30
+Beam,"Bristol,Non-U.S.",200,2025-05-01,1,Other,https://sifted.eu/articles/beam-robotics-shuts-down,Unknown,NULL,"United Kingdom",2025-05-03
+"Beam Benefits",Columbus,31,2023-02-08,0.08,Healthcare,https://www.bizjournals.com/columbus/inno/stories/news/2023/02/16/beam-benefits-job-cuts.html,"Series E",168,"United States",2023-02-17
+"Beam Benefits",Columbus,74,2024-01-10,NULL,Healthcare,https://coverager.com/layoffs-at-beam-benefits/,"Series E",168,"United States",2024-01-10
+Beamery,"London,Non-U.S.",NULL,2023-01-10,0.12,HR,https://tech.eu/2023/01/11/beamery-layoffs,"Series D",223,"United Kingdom",2023-01-11
+Beamery,"London,Non-U.S.",NULL,2023-11-16,0.25,HR,https://tech.eu/2023/11/16/london-hrtech-startup-beamery-to-cut-25-of-workforce-amid-restructuring/,"Series D",223,"United Kingdom",2023-11-16
+BeepKart,"Bengaluru,Non-U.S.",130,2024-10-08,0.4,Retail,https://inc42.com/buzz/exclusive-beepkart-fires-130-employees-in-5-months-to-cut-costs-halves-store-count/,"Series A",19,India,2024-10-09
+BeeTech,"Sao Paulo,Non-U.S.",30,2020-04-10,NULL,Finance,https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2020/04/10/demisses-em-startups-j-somam-quase-mil-pessoas-no-brasil.ghtml,"Series B",14,Brazil,2020-04-29
+"Belora Paris","Gurugram,Non-U.S.",NULL,2023-10-18,1,Retail,https://entrackr.com/2023/10/exclusive-surge-backed-belora-cosmetics-may-shut-down/,Seed,NULL,India,2023-12-04
+Bench,"Vancouver,Non-U.S.",450,2024-12-27,1,Finance,https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/,"Series C",109,Canada,2024-12-28
+Bench,"Vancouver,Non-U.S.",47,2020-03-27,0.1,Finance,https://betakit.com/bench-re-hires-workers-as-sales-rebound-following-shift-to-helping-us-businesses-with-covid-relief/,"Series B",49,Canada,2020-06-23
+Benchling,"SF Bay Area",74,2023-04-21,0.09,Other,https://www.reuters.com/technology/life-sciences-software-startup-benchling-lays-off-9-workforce-2023-04-21/,"Series F",411,"United States",2023-04-22
+BenchSci,"Toronto,Non-U.S.",70,2024-01-08,0.17,Healthcare,https://betakit.com/benchsci-trims-headcount-citing-generative-ai-economic-conditions/,"Series D",164,Canada,2024-01-08
+Benevity,"Calgary,Non-U.S.",137,2023-01-18,0.14,Other,https://benevity.com/message-kelly-schmitt,Unknown,69,Canada,2023-01-18
+BenevolentAI,"London,Non-U.S.",180,2023-05-25,NULL,Healthcare,https://endpts.com/benevolentai-lays-off-around-180-staffers-cuts-pipeline-programs-in-reorg/,"Private Equity",292,"United Kingdom",2023-05-26
+"Benitago Group","New York City",NULL,2022-11-04,0.14,Retail,https://techcrunch.com/2022/11/04/benitago-group-lay-off-employees/,"Series A",380,"United States",2022-11-05
+"Berkeley Lights","SF Bay Area",NULL,2022-08-09,0.12,Healthcare,https://investors.berkeleylights.com/news/news-details/2022/Berkeley-Lights-Reports-Second-Quarter-2022-Financial-Results/default.aspx,Post-IPO,272,"United States",2022-08-09
+"Berlin Brands Group","Berlin,Non-U.S.",100,2022-06-10,0.1,Retail,https://www.startbase.com/news/berlin-brands-group-entlaesst-fast-100-mitarbeiter/,Unknown,1000,Germany,2022-06-21
+Bestow,Dallas,41,2022-06-24,0.14,Finance,https://coverager.com/layoffs-at-bestow/,"Series C",137,"United States",2022-06-27
+"Better Collective","Copenhagen,Non-U.S.",300,2024-11-14,NULL,Other,https://www.igbaffiliate.com/en/articles/117348/m-a-helps-better-collective-fend-off-trouble-in-q3-as-300-staff-layoffs-revealed/,Unknown,NULL,Denmark,2025-02-18
+"Better Therapeutics","SF Bay Area",NULL,2023-03-27,0.35,Healthcare,https://www.mobihealthnews.com/news/prescription-digital-therapeutics-company-better-therapeutics-announces-layoffs,Post-IPO,143,"United States",2023-04-01
+Better.com,"New York City",3000,2022-03-08,0.33,"Real Estate",https://www.nytimes.com/2022/03/08/business/better-mortgage-lender-layoffs.html,Unknown,905,"United States",2022-03-09
+Better.com,"New York City",900,2021-12-01,0.09,"Real Estate",https://techcrunch.com/2021/12/01/better-com-lays-off-9-of-its-staff/,Unknown,905,"United States",2021-12-01
+Betterfly,"Santiago,Non-U.S.",NULL,2023-01-18,0.3,Healthcare,https://www.eleconomista.com.mx/sectorfinanciero/Betterfly-despide-al-30-de-sus-colaboradores-por-cambio-de-de-foco-y-crisis-economica-20230118-0056.html,"Series C",204,Chile,2023-01-20
+Betterfly,"Santiago,Non-U.S.",30,2022-08-11,NULL,Healthcare,https://startups.com.br/noticias/mais-um-unicornio-demitindo-betterfly-faz-reestruturacao-no-brasil/,"Series C",204,Chile,2022-08-12
+Betterment,"New York City",28,2023-02-15,NULL,Finance,https://www.businessinsider.com/betterment-layoffs-digital-wealth-management-firm-cuts-costs-2023-2,"Series F",435,"United States",2023-02-16
+BetterUp,"SF Bay Area",100,2023-08-02,0.16,HR,https://www.thedailybeast.com/prince-harrys-silicon-valley-gig-betterup-chops-16-of-staff-amid-tumult,"Series E",567,"United States",2023-08-04
+Bevi,Boston,30,2020-03-27,0.2,Food,https://www.americaninno.com/boston/inno-news-boston/boston-hospitality-startups-downsize-as-the-coronavirus-disruption-continues/,"Series C",60,"United States",2020-03-28
+"Beyond Meat","Los Angeles",200,2022-10-14,0.19,Food,https://www.cnbc.com/2022/10/14/beyond-meat-to-cut-19percent-of-its-workforce-as-sales-stock-struggle.html,Post-IPO,122,"United States",2022-10-14
+"Beyond Meat","Los Angeles",40,2022-08-03,0.04,Food,https://www.bloomberg.com/news/articles/2022-08-03/beyond-meat-eliminates-about-40-positions-in-cost-cutting-move,Post-IPO,122,"United States",2022-08-04
+"Beyond Meat","Los Angeles",65,2023-11-02,0.08,Food,https://investors.beyondmeat.com/news-releases/news-release-details/beyond-meatr-provides-select-third-quarter-financial-results,Post-IPO,122,"United States",2023-11-07
+BeyondMinds,"Tel Aviv,Non-U.S.",65,2022-05-23,1,Data,https://en.globes.co.il/en/article-beyondminds-shuts-down-lays-off-65-1001412743,"Series A",16,Israel,2022-05-23
+BharatAgri,"Mumbai,Non-U.S.",40,2023-01-15,0.43,Food,https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/layoffs-spread-to-dunzo-sharechat-rebel-foods-and-agri-tech-firms/articleshow/97016331.cms?from=mdr,"Series A",21,India,2023-01-16
+"Big Cabal Media","Lagos,Non-U.S.",NULL,2023-08-04,0.19,Media,https://www.benjamindada.com/big-cabal-media-lays-off-workforce/,Seed,3,Nigeria,2023-08-05
+"Big Fish Games",Seattle,250,2020-09-01,NULL,Media,https://venturebeat.com/2020/09/01/big-fish-games-cuts-250-jobs-and-streamlines-mobile-game-operations/,Acquired,95,"United States",2020-09-02
+BigBear.ai,Baltimore,NULL,2022-09-08,0.07,Data,https://www.bizjournals.com/baltimore/news/2022/09/08/columbia-bigbear-ai-layoff-staff-cash-flow-issues.html,Post-IPO,200,"United States",2022-09-09
+BigCommerce,Austin,NULL,2023-11-08,0.07,Retail,https://www.pymnts.com/news/ecommerce/2023/bigcommerce-cuts-staff-amid-ecommerce-headwinds/,Post-IPO,224,"United States",2023-11-10
+BigCommerce,Austin,180,2022-12-15,0.13,Retail,https://www.marketwatch.com/story/bigcommerce-to-lay-off-13-of-workforce-271671103074,Post-IPO,224,"United States",2022-12-15
+BigPanda,"SF Bay Area",40,2023-04-24,0.13,Infrastructure,https://www.calcalistech.com/ctechnews/article/hjmakgn73,"Series E",337,"United States",2023-04-25
+Bilibili,"Shanghai,Non-U.S.",NULL,2022-12-27,0.3,Media,https://technode.com/2022/12/27/bilibili-reportedly-cuts-30-of-staff-across-operations-gaming-and-streaming-units/,Post-IPO,3700,China,2022-12-30
+Bill.com,"SF Bay Area",NULL,2023-12-05,0.15,Finance,https://www.investing.com/news/stock-market-news/bill-gains-on-plans-to-cut-workforce-by-15-432SI-3249756,Post-IPO,280,"United States",2023-12-05
+BillGO,"Fort Collins",80,2024-02-05,NULL,Finance,https://www.coloradoan.com/story/money/business/2024/02/05/billgo-announces-80-layoffs-at-fort-collins-office/72484159007/,"Series B",119,"United States",2024-02-06
+Binance,"Cayman Islands",1000,2023-07-14,NULL,Crypto,https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad,Unknown,NULL,"Cayman Islands",2023-07-14
+Binance.US,"SF Bay Area",100,2023-09-12,0.33,Crypto,https://www.bloomberg.com/news/articles/2023-09-12/binance-us-cuts-100-positions-as-crackdown-erodes-crypto-business#xj4y7vzkg,Subsidiary,NULL,"United States",2023-09-13
+Biofourmis,Boston,120,2023-08-31,NULL,Healthcare,https://www.peoplematters.in/news/leadership/biofourmis-ceo-resigns-abruptly-after-layoffs-firm-begins-new-ceo-search-38874,"Series D",464,"United States",2023-09-01
+BioMarin,"SF Bay Area",120,2022-10-07,0.04,Healthcare,https://www.fiercebiotech.com/biotech/biomarin-lays-120-employees-save-50m-year-us-hit-hardest,Post-IPO,585,"United States",2022-11-19
+BionicHIVE,"Sderot,Non-U.S.",NULL,2024-12-22,1,Hardware,https://www.calcalistech.com/ctechnews/article/bjejbfsbyx,Unknown,NULL,Israel,2024-12-28
+Bird,"Los Angeles",138,2022-06-07,0.23,Transportation,"Internal memo",Post-IPO,783,"United States",2022-06-07
+Bird,"Los Angeles",406,2020-03-27,0.3,Transportation,https://layoffs.fyi/2020/03/30/bird-lays-off-over-400-employees,"Series D",623,"United States",2020-03-28
+"Bishop Fox",Phoenix,50,2023-05-02,0.13,Security,https://techcrunch.com/2023/05/03/bishop-fox-lays-off-employees-days-after-throwing-conference-party/,"Series B",146,"United States",2023-05-03
+Bitfront,"SF Bay Area",NULL,2022-11-29,1,Crypto,https://www.reuters.com/technology/crypto-exchange-bitfront-shuts-down-2022-11-29/,Unknown,NULL,"United States",2022-11-30
+BitGo,"SF Bay Area",NULL,2020-04-17,0.12,Crypto,https://www.theblockcrypto.com/post/62276/crypto-bitgo-layoffs-reorganization,"Series B",69,"United States",2020-04-30
+BitMEX,Non-U.S.,NULL,2022-11-02,0.3,Crypto,https://www.theblock.co/post/181814/crypto-exchange-bitmex-cuts-part-of-workforce-following-ceo-departure-exclusive,Seed,0,Seychelles,2022-11-03
+BitMEX,Non-U.S.,75,2022-04-04,0.25,Crypto,https://www.theblockcrypto.com/post/140412/bitmex-lays-off-75-employees-after-bank-acquisition-collapses,Seed,0,Seychelles,2022-04-05
+BitOasis,"Dubai,Non-U.S.",9,2022-06-19,0.05,Crypto,https://www.reuters.com/markets/rates-bonds/middle-east-focused-crypto-firm-bitoasis-cuts-jobs-amid-sector-turmoil-2022-06-19/,"Series B",30,"United Arab Emirates",2022-06-21
+Bitpanda,"Vienna,Non-U.S.",270,2022-06-24,0.27,Crypto,https://brutkasten.com/bitpanda-kuendigungen/,"Series C",546,Austria,2022-06-24
+Bitrise,"Budapest,Non-U.S.",NULL,2022-09-14,0.14,Infrastructure,https://www.linkedin.com/posts/bitrise_a-message-from-bitrise-co-founder-and-ceo-activity-6975843544213204992-l5n9/,"Series C",83,Hungary,2022-09-15
+BitSight,"Tel Aviv,Non-U.S.",40,2023-02-26,NULL,Security,https://www.calcalistech.com/ctechnews/article/r1zxrmkri,Unknown,401,Israel,2023-02-27
+Bitso,"Mexico City,Non-U.S.",100,2022-11-29,NULL,Crypto,https://portaldobitcoin.uol.com.br/corretora-de-criptomoedas-bitso-faz-segunda-rodada-de-demissoes-no-brasil-e-no-mexico/,"Series C",378,Mexico,2022-11-30
+Bitso,"Mexico City,Non-U.S.",80,2022-05-26,0.11,Crypto,https://www.coindesk.com/business/2022/05/26/top-latin-american-crypto-exchange-bitso-lays-off-80-employees/,"Series C",378,Mexico,2022-05-27
+BitTitan,Seattle,70,2021-11-18,0.27,Data,https://www.seattletimes.com/business/seventy-set-for-layoffs-at-bellevue-startup-bittitan/,Acquired,46,"United States",2021-11-20
+BitTorrent,"SF Bay Area",92,2023-01-20,NULL,Infrastructure,https://www.bizjournals.com/sanfrancisco/news/2023/01/20/p2p-bittorrent-rainberry-tech-layoffs-torrent.html,Acquired,NULL,"United States",2023-02-07
+Bittrex,Seattle,80,2023-02-02,NULL,Crypto,https://www.coindesk.com/business/2023/02/02/crypto-exchange-bittrex-laying-off-83-people/,Unknown,NULL,"United States",2023-02-03
+Bitwise,"SF Bay Area",900,2023-06-14,1,Crypto,https://www.bakersfield.com/news/bitwise-lays-off-entire-staff/article_57c2a40c-0b12-11ee-84ca-f7e6d77ee2e9.html,"Series B",84,"United States",2023-06-16
+Bizongo,"Mumbai,Non-U.S.",140,2020-07-10,NULL,Logistics,https://www.startupnews.fyi/post/bizongo-lays-off-140-employees-to-cut-costs,"Series C",70,India,2020-07-13
+Bizongo,"Mumbai,Non-U.S.",50,2023-10-05,NULL,Retail,https://inc42.com/buzz/a-day-after-50-mn-fundraise-bizongo-lays-off-50-employees/,"Series E",315,India,2023-10-06
+Bizpay,"Sydney,Non-U.S.",NULL,2022-05-04,0.3,Finance,https://www.news.com.au/finance/business/banking/sydney-buy-now-pay-later-provider-bizpay-cuts-30-per-cent-of-workforce/news-story/ec35b092a89e653666e8c46bf537c6ab,Unknown,45,Australia,2022-05-12
+Bizzabo,"New York City",100,2022-12-01,0.37,Marketing,https://www.calcalistech.com/ctechnews/article/h1ajz9idj,"Series E",194,"United States",2022-12-03
+Bizzabo,"New York City",120,2022-07-05,0.3,Marketing,https://www.calcalistech.com/ctechnews/article/hysobwfi5,"Series E",194,"United States",2022-07-06
+"Black Shark","Shenzen,Non-U.S.",900,2023-01-13,NULL,Hardware,https://www.scmp.com/tech/tech-trends/article/3206586/china-gaming-phone-maker-black-shark-lays-hundreds-workers-and-fails-pay-full-severance-according,Unknown,NULL,China,2023-01-23
+Blackbaud,Charleston,500,2023-02-14,0.14,Other,https://www.postandcourier.com/business/sc-tech-employer-blackbaud-has-cut-about-500-jobs-since-last-year/article_ef9dd60a-ac9b-11ed-8c4a-bbbeb9f0cda5.html,Post-IPO,NULL,"United States",2023-02-15
+BlackBuck,"Bengaluru,Non-U.S.",200,2020-04-17,NULL,Logistics,https://www.cnbctv18.com/startup/coronavirus-effect-blackbuck-to-lay-off-over-200-employees-ecom-express-puts-hiring-on-hold-5704301.htm,"Series D",293,India,2020-04-19
+BlackLine,"Los Angeles",95,2022-12-08,0.05,Finance,https://seekingalpha.com/news/3915452-blackline-to-cut-jobs-by-5-globally-sec-filing,"Private Equity",220,"United States",2022-12-11
+BlackLine,"Los Angeles",95,2023-08-23,0.05,Finance,https://beststocks.com/blackline-announces-workforce-reduction-to-st/,Post-IPO,220,"United States",2023-08-24
+"Bleacher Report","London,Non-U.S.",20,2020-09-11,NULL,Media,https://awfulannouncing.com/br/more-layoffs-in-works-at-bleacher-report.html,Acquired,41,"United Kingdom",2020-09-12
+Blend,"SF Bay Area",100,2022-11-10,0.06,Finance,https://www.housingwire.com/articles/blend-reports-133-98-million-loss-in-q3-layoffs-of-100-positions/,Post-IPO,665,"United States",2022-12-09
+Blend,"SF Bay Area",150,2023-08-09,0.19,Finance,http://archive.fast-edgar.com/20230809/A7L2K22CZ22282Z2222G22ZZMTBIQQB2A252/,Post-IPO,665,"United States",2023-08-11
+Blend,"SF Bay Area",200,2022-04-19,0.1,Finance,https://www.housingwire.com/articles/blend-lays-off-200-workers-as-mortgage-industry-sputters/,Post-IPO,665,"United States",2022-04-20
+Blend,"SF Bay Area",220,2022-08-15,0.12,Finance,https://www.housingwire.com/articles/blend-takes-a-478m-loss-cuts-25-of-its-workforce/,Post-IPO,665,"United States",2022-08-16
+Blend,"SF Bay Area",340,2023-01-10,0.28,Finance,https://www.inman.com/2023/01/10/blend-cuts-nearly-30-of-workforce-in-blistering-4th-round-of-layoffs/,Post-IPO,665,"United States",2023-01-10
+"Blink Charging",Baltimore,NULL,2025-05-19,0.2,Other,https://blinkcharging.com/news/blink-charging-announces-workforce-reduction-to-accelerate-blinkforward-initiative-and-strengthen-global-market-position,Post-IPO,110,"United States",2025-05-22
+Blip,"Bengaluru,Non-U.S.",NULL,2025-07-12,1,Retail,https://inc42.com/buzz/quick-fashion-startup-blip-shuts-shop/,Unknown,NULL,India,2025-07-15
+BlissClub,"Bengaluru,Non-U.S.",21,2024-02-09,0.18,Retail,https://inc42.com/buzz/exclusive-d2c-startup-blissclub-fires-about-18-workforce-to-cut-costs/,"Series A",20,India,2024-02-10
+Block,"SF Bay Area",1000,2024-01-30,0.1,Finance,https://www.businessinsider.com/block-layoffs-jack-dorsey-tech-industry-cuts-2024-1,Post-IPO,150,"United States",2024-01-30
+Block,"SF Bay Area",931,2025-03-25,0.08,Finance,https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/,Post-IPO,150,"United States",2025-03-26
+Blockchain.com,"London,Non-U.S.",110,2023-01-12,0.28,Crypto,https://www.coindesk.com/business/2023/01/12/crypto-brokerage-blockchaincom-lays-off-28-of-workforce-as-industrys-cruel-winter-continues/,"Series D",490,"United Kingdom",2023-01-12
+Blockchain.com,"London,Non-U.S.",150,2022-07-21,0.25,Crypto,https://www.coindesk.com/business/2022/07/21/blockchaincom-cuts-25-workforce-amid-crypto-bear-market/,"Series D",490,"United Kingdom",2022-07-21
+BlockFi,"New York City",NULL,2022-11-28,1,Crypto,https://decrypt.co/115744/crypto-lender-blockfi-files-bankruptcy-ftx-contagion-claims-another,"Series E",1000,"United States",2022-11-30
+BlockFi,"New York City",250,2022-06-13,0.2,Crypto,https://blockfi.com/a-message-from-our-founders,"Series E",1000,"United States",2022-06-13
+BloomTech,"SF Bay Area",88,2022-12-01,0.5,Education,https://techcrunch.com/2022/12/01/bloomtech-previously-lambda-school-cuts-half-of-staff/,Unknown,NULL,"United States",2022-12-01
+"Blue Apron","New York City",NULL,2022-12-08,0.1,Food,https://investors.blueapron.com/press-releases/2022/12-08-2022-140712547,Post-IPO,352,"United States",2022-12-08
+"Blue Apron","New York City",NULL,2023-07-19,0.2,Food,https://seekingalpha.com/news/3999870-blue-apron-discloses-that-it-cut-20-of-its-corporate-workforce-in-july,Post-IPO,422,"United States",2023-08-09
+"Blue Nile",Seattle,119,2023-03-28,NULL,Retail,https://www.retaildive.com/news/blue-nile-to-lay-off-119-workers-close-seattle-fulfillment-center/646172/,Acquired,62,"United States",2023-03-29
+"Blue Origin",Seattle,1000,2025-02-13,0.1,Aerospace,https://www.cnn.com/2025/02/13/science/blue-origin-employee-layoffs/index.html,Unknown,167,"United States",2025-02-15
+"Blue Origin",Seattle,40,2023-10-09,NULL,Aerospace,https://www.theinformation.com/briefings/blue-origin-lays-off-around-40-people,Unknown,167,"United States",2023-10-09
+Blueboard,"SF Bay Area",NULL,2024-03-15,1,HR,https://www.kqed.org/news/11979696/popular-employee-rewards-company-blueboard-shutters-abruptly,"Series A",16,"United States",2024-03-17
+Blueground,"New York City",130,2020-03-27,0.25,"Real Estate",https://layoffs.fyi/2020/04/08/blueground-laid-off-130-employees/,"Series B",77,"United States",2020-03-30
+Bluelearn,"Bengaluru,Non-U.S.",NULL,2024-07-22,1,Education,https://www.moneycontrol.com/technology/elevation-capital-backed-edtech-startup-bluelearn-shuts-down-article-12774167.html#goog_rewarded,Seed,4,India,2024-07-22
+Bluepad,"Bengaluru,Non-U.S.",NULL,2023-04-13,1,Media,https://inc42.com/buzz/vernacular-content-platform-bluepad-shuts-down/,Seed,NULL,India,2023-04-14
+BlueStacks,"SF Bay Area",60,2022-07-20,NULL,Other,https://inc42.com/buzz/exclusive-a16z-backed-bluestacks-lays-off-60-indian-employees/,"Series C",48,"United States",2022-07-20
+Bluevine,"Tel Aviv,Non-U.S.",100,2024-12-10,0.18,Finance,https://www.calcalistech.com/ctechnews/article/bkfccpr4kx,Unknown,769,Israel,2024-12-11
+"Blume Global","SF Bay Area",30,2020-03-30,0.1,Logistics,LinkedIn,Unknown,NULL,"United States",2020-04-01
+Bluprint,Denver,137,2020-05-26,1,Education,https://businessden.com/2020/05/27/nbcuniversal-shutting-down-bluprint-formerly-known-as-craftsy/,Acquired,108,"United States",2020-05-27
+"BM Technologies",Philadelphia,NULL,2023-01-30,0.25,Finance,https://ir.bmtxinc.com/news/news-details/2023/BM-Technologies-Inc.-Announces-Profit-Enhancement-Plan-and-Changes-to-Management-and-Directors/default.aspx,Post-IPO,NULL,"United States",2023-02-01
+Bol.com,"Utrecht,Non-U.S.",300,2022-12-09,0.1,Retail,https://ecommercenews.eu/bol-com-lays-off-10-of-staff/,Acquired,NULL,Netherlands,2024-02-05
+Bolt,"Lagos,Non-U.S.",17,2023-02-21,NULL,Transportation,https://techpoint.africa/2023/02/21/bolt-lays-off-17-of-its-70-workers-in-nigeria/,"Series F",NULL,Nigeria,2023-02-22
+Bolt,"SF Bay Area",NULL,2023-12-14,0.29,Finance,https://www.theinformation.com/briefings/bolt-lays-off-29-of-staff-in-latest-cut-for-checkout-software-firm,"Series E",1300,"United States",2023-12-14
+Bolt,"SF Bay Area",240,2022-05-25,0.27,Finance,https://www.forbes.com/sites/kenrickcai/2022/05/25/checkout-startup-bolt-lays-off-more-than-200-people-or-at-least-25-of-its-staff/?sh=1789cd092201,"Series E",1300,"United States",2022-05-25
+Bolt,"SF Bay Area",50,2023-01-24,0.1,Finance,https://www.theinformation.com/articles/bolt-ceo-cuts-staff-a-third-time-as-revenue-lags,"Series E",1300,"United States",2023-01-25
+Bolt.Earth,"Bengaluru,Non-U.S.",NULL,2023-12-29,0.2,Energy,https://inc42.com/buzz/exclusive-ev-charging-infra-provider-bolt-earth-fires-about-20-of-its-workforce/,"Series B",24,India,2024-01-02
+Bolt.Earth,"Bengaluru,Non-U.S.",70,2024-04-06,0.4,Energy,https://inc42.com/buzz/bolt-earth-fires-employees-in-another-restructuring-exercise-shuts-two-business-verticals/,"Series B",24,India,2024-04-08
+Bonsai,"Toronto,Non-U.S.",29,2022-04-26,0.34,Retail,https://betakit.com/bonsai-lays-off-a-third-of-employees-shortly-after-21-million-series-a-citing-shift-to-growth-strategy/,"Series A",27,Canada,2022-06-21
+Bonsai,"Toronto,Non-U.S.",30,2022-06-20,0.55,Retail,https://betakit.com/torontos-bonsai-lays-off-staff-for-second-time-in-two-months/,"Series A",27,Canada,2022-06-21
+Bonterra,Austin,140,2023-01-13,0.1,Other,https://www.thenonprofittimes.com/npt_articles/bonterra-lays-off-10-of-staff/,Unknown,NULL,"United States",2023-01-17
+BookClub,"Salt Lake City",12,2022-05-31,0.25,Education,"Internal memo","Series A",26,"United States",2022-06-06
+"Booking Holdings",Norwalk,60,2024-12-04,NULL,Travel,https://skift.com/2024/12/04/booking-holdings-laid-off-60-employees-at-b2b-arm-as-it-resets-priorities/,Post-IPO,2800,"United States",2024-12-07
+Booking.com,"Amsterdam,Non-U.S.",4375,2020-07-30,0.25,Travel,https://skift.com/2020/08/04/booking-com-restructuring-will-pare-its-workforce-by-up-to-25-percent/,Acquired,NULL,Netherlands,2020-08-04
+Booking.com,"Grand Rapids",226,2022-11-01,NULL,Travel,https://www.crainsdetroit.com/west-michigan/bookingcom-close-grand-rapids-area-facility-lay-226,Acquired,NULL,"United States",2022-11-03
+BookMyShow,"Mumbai,Non-U.S.",270,2020-05-28,0.18,Consumer,https://www.cnbctv18.com/business/270-bookmyshow-employees-either-laid-off-or-furloughed-18-of-total-workforce-impacted-worldwide-6022801.htm,Unknown,224,India,2020-05-28
+Booksy,"SF Bay Area",200,2020-04-01,NULL,Consumer,LinkedIn,"Series B",48,"United States",2020-04-07
+Booktopia,"Sydney,Non-U.S.",30,2023-01-23,NULL,Retail,https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02623152-2A1426574?access_token=83ff96335c2d45a094df02a206a39ff4,"Series A",23,Australia,2023-01-23
+Boost,"New York City",15,2023-04-04,0.2,Finance,https://boostinsurance.com/blog/a-message-from-boost-ceo-alex-maffeo/,"Series B",37,"United States",2023-04-05
+"Boosted Commerce","Los Angeles",NULL,2022-07-22,0.05,Retail,https://www.businessinsider.com/amazon-aggregator-boosted-commerce-layoffs-2022-7,"Series B",137,"United States",2022-07-26
+Boozt,"Malmo,Non-U.S.",NULL,2025-01-13,0.1,Retail,https://www.breakit.se/artikel/42184/boozt-sager-upp-var-tionde-pekar-pa-ai,Post-IPO,56,Sweden,2025-02-02
+Boozt,"Malmo,Non-U.S.",70,2022-06-09,0.05,Retail,https://www.breakit.se/artikel/33353/sparpaket-pa-boozt-efter-vinstsmallen-sager-upp-personal,Post-IPO,56,Sweden,2022-07-25
+Borrowell,"Toronto,Non-U.S.",15,2020-04-06,0.2,Finance,https://betakit.com/borrowell-lays-off-20-percent-of-staff-citing-financial-institutions-pulling-back-amid-covid-19/,"Series B",72,Canada,2020-04-06
+"Bossa Nova","SF Bay Area",NULL,2020-11-02,0.5,Retail,https://www.cnbc.com/2020/11/02/walmart-ends-contract-with-robotics-company-bossa-nova-report-says.html,Unknown,102,"United States",2020-11-05
+"Bossa Nova","SF Bay Area",61,2020-06-29,NULL,Retail,https://www.post-gazette.com/business/tech-news/2020/06/29/Bossa-Nova-Robotics-autonomous-robots-layoffs-furloughs-terminations/stories/202006290098,Unknown,102,"United States",2020-06-30
+Bounce,"Bengaluru,Non-U.S.",120,2020-03-19,NULL,Transportation,https://www.cqai520.com/tech/scooter-rental-startup-bounce-lays-off-120-employees-amid-coronavirus-scare-report/#more-18179,"Series D",214,India,2020-03-28
+Bounce,"Bengaluru,Non-U.S.",130,2020-06-29,0.22,Transportation,https://inc42.com/buzz/bounce-lays-off-130-employees-as-covid-19-impact-hits-mobility-startup/,"Series D",214,India,2020-06-30
+Bounce,"Bengaluru,Non-U.S.",200,2021-02-22,0.4,Transportation,https://economictimes.indiatimes.com/tech/startups/bounce-goes-for-second-round-of-layoffs-as-demand-for-mobility-lags/articleshow/81144047.cms,"Series D",214,India,2021-02-22
+Bounce,"Bengaluru,Non-U.S.",40,2023-01-06,0.05,Transportation,https://www.moneycontrol.com/news/business/announcements/sequoia-backed-bounce-lays-off-5-of-staff-to-cut-costs-9822961.html,"Series D",214,India,2023-01-09
+BounceX,"New York City",77,2020-04-06,0.2,Marketing,https://www.adweek.com/programmatic/multiple-ad-tech-companies-suffer-layoffs-as-unemployment-spikes/,"Series B",75,"United States",2020-04-06
+"Bowery Farming","New York City",NULL,2024-11-01,1,Food,https://pitchbook.com/news/articles/bowery-indoor-farming-agtech-company-ceases-operations,Unknown,626,"United States",2024-11-02
+Boxed,"New York City",32,2023-03-15,0.25,Retail,https://www.crainsnewyork.com/technology/e-commerce-firm-boxedcom-shed-25-staff-it-looks-buyer,Post-IPO,365,"United States",2023-03-17
+Braid,"SF Bay Area",NULL,2023-10-09,1,Finance,https://techcrunch.com/2023/10/09/consumer-payments-startup-braid-shuts-down-cites-struggles-with-leveraging-third-party-software/,Unknown,NULL,"United States",2023-10-10
+Brainly,"Krakow,Non-U.S.",NULL,2023-05-24,0.3,Education,https://www.linkedin.com/posts/brainly-com_announcement-activity-7067026338280300545-Nn9j/,"Series D",148,Poland,2023-05-24
+Brainly,"Krakow,Non-U.S.",25,2022-11-06,NULL,Education,https://www.newindianexpress.com/lifestyle/tech/2022/nov/06/poland-based-ed-tech-platform-brainly-fires-nearly-all-staff-in-india-2515584.html,"Series D",148,Poland,2022-11-07
+Branch,Columbus,186,2023-06-08,NULL,Finance,https://coverager.com/layoffs-at-branch/,"Series C",229,"United States",2023-06-09
+Branch,Columbus,85,2024-01-09,NULL,Finance,https://coverager.com/insurtech-branch-conducts-another-round-of-layoffs/,"Series C",229,"United States",2024-01-10
+Branch,"New York City",3,2020-06-11,0.27,Retail,https://techcrunch.com/2020/06/11/covid-19-nearly-killed-this-office-furniture-startup-turning-to-home-offices-may-save-it/,Seed,2,"United States",2020-06-11
+"Branch Metrics","SF Bay Area",100,2020-04-07,0.2,Marketing,https://news.crunchbase.com/news/branch-metrics-lays-off-20-percent-of-employees/,"Series E",367,"United States",2020-04-09
+Branch.io,"SF Bay Area",100,2024-08-09,NULL,Marketing,https://9to5google.com/2024/08/09/nova-launcher-faces-rocky-future-after-dev-team-layoffs/,"Series F",667,"United States",2024-08-09
+Brave,"SF Bay Area",NULL,2023-10-06,0.09,Consumer,https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/,"Series B",42,"United States",2023-10-07
+Brave,"SF Bay Area",27,2024-08-28,0.14,Consumer,https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/,"Series B",42,"United States",2024-08-28
+"Brave Care",Portland,NULL,2024-12-31,1,Healthcare,https://www.oregonlive.com/health/2024/12/portland-pediatrics-startup-brave-care-shutters-permanently.html,"Series B",43,"United States",2025-01-04
+"Brave Care",Portland,40,2022-09-06,0.33,Healthcare,https://www.oregonlive.com/business/2022/09/portland-pediatrics-startup-brave-care-lays-off-a-third-of-staff-citing-covid-and-market-turmoil.html,"Series B",42,"United States",2022-09-08
+Breathe,"New Delhi,Non-U.S.",50,2022-06-14,0.33,Healthcare,https://inc42.com/buzz/accel-backed-breathe-well-being-lays-off-50-employees/,"Series A",6,India,2022-06-16
+Breather,"Montreal,Non-U.S.",120,2020-12-16,0.8,"Real Estate",https://www.theglobeandmail.com/business/article-breather-hopes-for-second-wind-as-montreal-flexible-workspace-provider/,"Series D",131,Canada,2020-12-17
+Brex,"SF Bay Area",136,2022-10-11,0.11,Finance,https://techcrunch.com/2022/10/11/fintech-brex-layoffs-restructuring/,"Series D",1500,"United States",2022-10-11
+Brex,"SF Bay Area",282,2024-01-23,0.2,Finance,https://techcrunch.com/2024/01/23/brex-layoffs-fintech/,"Series D",1500,"United States",2024-01-23
+Brex,"SF Bay Area",62,2020-05-29,0.15,Finance,https://layoffs.fyi/2020/06/01/brex-laid-off-62-employees-to-prioritize-building-over-growing/,"Series C",732,"United States",2020-05-29
+"Bridge Connector",Nashville,154,2020-11-17,1,Healthcare,https://www.nashvillepost.com/business/health-care/article/21144528/bridge-connector-closing-down,"Series B",45,"United States",2020-11-19
+Bridgit,"Waterloo,Non-U.S.",13,2022-12-06,0.13,Construction,https://www.therecord.com/news/waterloo-region/2022/12/06/some-startups-scaling-back-as-investment-shrinks.html,"Series B",36,Canada,2022-12-19
+"Bright Machines","SF Bay Area",30,2022-06-28,0.08,Data,https://www.calcalist.co.il/calcalistech/article/rkkjpsuc5,Unknown,250,Israel,2022-06-29
+"Bright Money","Bengaluru,Non-U.S.",100,2022-07-15,0.5,Finance,https://www.outlookindia.com/business/sequoia-backed-bright-money-is-latest-start-up-to-hand-out-pink-slips-news-211290?,"Series A",31,India,2022-07-22
+Brightcove,Boston,198,2025-03-19,0.33,Marketing,https://www.boston.com/news/business/2025/03/19/boston-based-streaming-company-brightcove-to-lay-off-198-workers/,Acquired,145,"United States",2025-03-21
+Brightcove,Boston,70,2023-05-03,0.1,Marketing,https://www.bizjournals.com/boston/news/2023/05/03/brightcove-cuts-across-organization.html,Post-IPO,145,"United States",2023-05-04
+Brighte,"Sydney,Non-U.S.",30,2022-06-20,0.15,Energy,https://www.startupdaily.net/topic/fintech/renewables-fintech-brighte-powers-down-shedding-15-of-its-team/,"Series C",145,Australia,2022-06-21
+Brighte,"Sydney,Non-U.S.",58,2022-09-09,NULL,Energy,https://brighte.com.au/media/accelerating-brightes-pathway-to-profitability,"Series C",145,Australia,2022-10-07
+Brightline,"SF Bay Area",NULL,2022-11-01,0.2,Healthcare,https://bhbusiness.com/2022/11/01/virtual-pediatric-behavioral-health-startup-brightline-cuts-20-of-its-staff/,"Series C",212,"United States",2022-11-01
+Brightline,"SF Bay Area",NULL,2023-05-03,0.2,Healthcare,https://www.beckershospitalreview.com/digital-health/digital-health-startup-brightline-lays-off-20-of-staff-again.html,"Series C",212,"United States",2023-05-03
+Brilliant,"SF Bay Area",NULL,2024-05-08,1,Hardware,https://www.theverge.com/2024/5/8/24150346/brilliant-smart-home-lighting-out-of-business,"Series B",64,"United States",2024-05-09
+Bringg,"Tel Aviv,Non-U.S.",10,2020-04-21,0.1,Logistics,"https://www.calcalistech.com/ctech/articles/0,7340,L-3809651,00.html","Series D",84,Israel,2020-04-23
+Britishvolt,"London,Non-U.S.",206,2023-01-17,1,Transportation,https://www.nytimes.com/2023/01/17/business/uk-britishvolt-battery-maker-bankruptcy.html,Unknown,2400,"United Kingdom",2023-01-18
+Briza,"Toronto,Non-U.S.",26,2022-12-20,0.4,Finance,https://betakit.com/ceo-of-briza-steps-down-as-insurtech-startup-cuts-close-to-half-of-its-staff/,"Series A",10,Canada,2022-12-20
+Brodmann17,"Tel Aviv,Non-U.S.",NULL,2022-12-09,1,Other,https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/,"Series A",25,Israel,2022-12-11
+Bryter,"Berlin,Non-U.S.",100,2022-07-13,0.3,Product,https://twitter.com/pierre_vannier/status/1547311744837685249,"Series B",89,Germany,2022-07-14
+Buenbit,"Buenos Aires,Non-U.S.",80,2022-05-23,0.45,Crypto,https://www.coindesk.com/business/2022/05/24/argentinian-crypto-exchange-buenbit-cuts-45-of-staff-due-to-tech-industry-downturn/,"Series A",11,Argentina,2022-05-25
+Builder,"Los Angeles",39,2020-06-04,0.14,Product,https://www.businessinsider.com/engineerai-builderai-layoffs-14-percent-staff-2020-6,"Series A",29,"United States",2020-06-04
+Builder.ai,"London,Non-U.S.",NULL,2025-05-20,1,AI,https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/,"Series D",445,"United Kingdom",2025-05-22
+Buildertrend,Omaha,NULL,2023-11-17,0.16,Construction,https://siliconprairienews.com/2023/11/buildertrend-layoffs-november-2023/,Unknown,NULL,"United States",2023-11-18
+"Built In",Chicago,28,2020-04-10,NULL,Recruiting,https://www.americaninno.com/chicago/roundups-chicago/chicago-layoffs-local-tech-companies-that-have-cut-staff-due-to-coronavirus/,"Series C",29,"United States",2020-05-14
+"Built In",Chicago,50,2022-10-05,0.25,Recruiting,https://www.chicagobusiness.com/technology/built-lays-quarter-its-staff,"Series C",29,"United States",2022-10-05
+"Built Technologies copy",Nashville,NULL,2023-02-03,0.08,Construction,https://www.nashvillepost.com/business/people/built-lays-off-8-percent-of-workforce/article_55b98a54-a401-11ed-b6b2-532a991e1821.html,Unknown,313,"United States",2023-07-13
+Bullhorn,Boston,100,2020-04-30,NULL,Sales,https://layoffs.fyi/2020/05/05/bullhorn-laid-off-100-employees/,Acquired,32,"United States",2020-05-02
+Bullhorn,Boston,140,2023-10-19,0.09,Sales,https://www.bizjournals.com/boston/news/2023/10/20/bullhorn-cuts-downturn.html,Acquired,32,"United States",2023-10-20
+Bullish,"Hong Kong,Non-U.S.",30,2022-07-05,0.08,Crypto,https://www.theblock.co/post/155859/bullish-com-cuts-jobs-crypto-exchange,Unknown,300,"Hong Kong",2022-07-15
+Bumble,Austin,240,2025-06-25,0.3,Consumer,https://www.cnbc.com/2025/06/25/bumble-layoffs.html,Post-IPO,313,"United States",2025-06-25
+Bumble,Austin,350,2024-02-27,0.3,Consumer,https://www.cnbc.com/2024/02/27/bumble-layoffs-350-employees-or-about-37percent-of-workforce.html,Post-IPO,313,"United States",2024-02-27
+"Bundle Africa","Lagos,Non-U.S.",NULL,2023-07-21,1,Crypto,https://technext24.com/2023/07/21/bundle-africa-ceases-operations/,Seed,1,Nigeria,2023-07-22
+Bungalow,"SF Bay Area",70,2022-06-22,NULL,"Real Estate","Internal memo","Series C",171,"United States",2022-06-23
+Bungie,Seattle,220,2024-07-31,0.17,Consumer,https://www.bungie.net/7/en/News/article/newpath,Acquired,100,"United States",2024-08-01
+Bunnii,"New York City",NULL,2023-06-06,1,Healthcare,https://www.axios.com/pro/health-tech-deals/2023/06/06/fertility-startup-bunnii-shuts-down-fails-secure-funding,Unknown,NULL,"United States",2023-06-06
+BusBud,"Montreal,Non-U.S.",23,2020-04-06,0.32,Transportation,https://www.journaldemontreal.com/2020/04/06/busbud-licencie-le-tiers-de-ses-employes,"Series B",21,Canada,2020-04-28
+Buser,"Sao Paulo,Non-U.S.",160,2022-12-08,0.3,Transportation,https://startups.com.br/demissoes/buser-demite-30-para-se-adaptar-a-nova-realidade-do-mercado/,"Series C",138,Brazil,2022-12-11
+"Business Insider","New York City",NULL,2025-05-29,0.2,Media,https://www.adweek.com/media/business-insider-layoffs-traffic-sensitivity/,Acquired,56,"United States",2025-06-01
+"Business Insider","New York City",NULL,2024-01-25,0.08,Media,https://thehill.com/homenews/media/4428915-business-insider-lay-off-newsroom/,Acquired,56,"United States",2024-01-26
+"Bustle Digital Group","New York City",NULL,2023-02-01,0.08,Media,https://variety.com/2023/digital/news/gawker-shutting-down-1235509262/,"Series E",80,"United States",2023-02-03
+"Bustle Digital Group","New York City",19,2020-04-03,NULL,Media,https://www.adweek.com/media/bdg-input-mic-layoffs/,"Series E",80,"United States",2022-09-21
+"Bustle Digital Group","New York City",24,2020-04-03,0.08,Media,https://digiday.com/media/bustle-digital-group-g-o-media-announce-layoffs-and-cost-saving-measures/,"Series E",80,"United States",2020-04-03
+"Butler Hospitality","New York City",1000,2022-07-08,1,Food,https://techcrunch.com/2022/07/08/butler-shows-hundreds-of-employees-the-door-after-raising-50m-for-room-service-delivery/,"Series B",50,"United States",2022-07-08
+"Butterfly Network",Boston,NULL,2023-01-04,0.25,Healthcare,https://www.marketscreener.com/quote/stock/BUTTERFLY-NETWORK-INC-119073390/news/BUTTERFLY-NETWORK-INC-Costs-Associated-with-Exit-or-Disposal-Activities-form-8-K-42714240/,Post-IPO,530,"United States",2023-01-18
+"Butterfly Network","New Haven",NULL,2022-08-02,0.1,Healthcare,"Internal memo",Post-IPO,530,"United States",2022-08-04
+"Butterfly Network copy",Boston,NULL,2023-07-11,0.25,Healthcare,https://www.marketscreener.com/quote/stock/BUTTERFLY-NETWORK-INC-119073390/news/Butterfly-Network-Costs-Associated-with-Exit-Disposal-Form-8-K-44342052/,Post-IPO,530,"United States",2023-07-17
+Button,"New York City",48,2020-04-08,0.35,Marketing,LinkedIn,"Series C",64,"United States",2020-04-10
+"Buy.com / Rakuten","SF Bay Area",87,2020-07-30,1,Retail,https://techcrunch.com/2020/07/30/rakuten-is-shuttering-the-online-shop-formerly-known-as-buy-com/,Acquired,42,"United States",2020-07-31
+Buzzer,"New York City",NULL,2023-06-30,1,Consumer,https://frontofficesports.com/buzzer-the-gen-z-sports-app-backed-by-44-million-shuts-down/,"Series A",24,"United States",2023-07-01
+Buzzer,"New York City",NULL,2022-06-20,0.2,Media,https://www.sportico.com/business/tech/2022/buzzer-layoffs-20-million-funding-1234679187/,Unknown,32,"United States",2022-06-22
+BuzzFeed,"New York City",NULL,2024-02-21,0.16,Media,https://variety.com/2024/digital/news/buzzfeed-sells-complex-ntwrk-layoffs-1235918498/,Post-IPO,696,"United States",2024-02-23
+BuzzFeed,"New York City",180,2022-12-06,0.12,Media,https://variety.com/2022/digital/news/buzzfeed-layoffs-12-percent-employees-1235451552/,Post-IPO,696,"United States",2022-12-06
+BuzzFeed,"New York City",180,2023-04-20,0.15,Media,https://variety.com/2023/digital/news/buzzfeed-news-shutting-down-layoffs-1235589751/,Post-IPO,696,"United States",2023-04-20
+BVAccel,"San Diego",25,2020-04-08,0.25,Marketing,https://www.businessinsider.com/bvaccel-cuts-employees-due-to-coronavirus-impact-on-dtc-brands-2020-4,Unknown,NULL,"United States",2020-04-12
+Bybit,"Singapore,Non-U.S.",NULL,2022-12-03,0.3,Crypto,https://cointelegraph.com/news/bybit-announces-second-round-of-layoffs-in-2022-to-survive-bear-market,Unknown,NULL,Singapore,2022-12-04
+Bybit,"Singapore,Non-U.S.",600,2022-06-20,0.3,Crypto,https://techcrunch.com/2022/06/20/bybit-crypto-exchange-joins-the-the-list-of-companies-cutting-staff/,Unknown,NULL,Singapore,2022-06-22
+Byju's,"Bengaluru,Non-U.S.",1000,2023-06-07,NULL,Education,https://themorningcontext.com/internet/byjus-to-lay-off-1000-employees,"Private Equity",5500,India,2023-06-09
+Byju's,"Bengaluru,Non-U.S.",1500,2023-02-02,NULL,Education,https://www.livemint.com/companies/start-ups/edtech-firm-byju-s-lays-off-nearly-1-500-employees-11675343777644.html,"Private Equity",5500,India,2023-02-02
+Byju's,"Bengaluru,Non-U.S.",2500,2022-10-12,0.05,Education,https://techcrunch.com/2022/10/12/indian-edtech-giant-byjus-cuts-2500-jobs/,"Private Equity",5500,India,2022-10-12
+Byju's,"Bengaluru,Non-U.S.",500,2024-04-02,0.03,Education,https://www.business-standard.com/companies/news/byju-s-lays-off-500-employees-terminates-employment-over-phone-calls-124040201104_1.html,"Private Equity",5500,India,2024-04-02
+Bytedance,"Jakarta,Non-U.S.",450,2024-06-12,NULL,Consumer,https://www.bloomberg.com/news/articles/2024-06-12/bytedance-to-cut-450-jobs-in-indonesia-after-tokopedia-deal,Unknown,9400,Indonesia,2024-06-12
+Bytedance,"Jakarta,Non-U.S.",500,2024-10-11,NULL,Consumer,https://www.reuters.com/technology/bytedance-cuts-over-700-jobs-malaysia-shift-towards-ai-moderation-sources-say-2024-10-11/,Unknown,9400,Indonesia,2024-10-11
+Bytedance,"Mumbai,Non-U.S.",1800,2021-01-27,NULL,Consumer,https://entrackr.com/2021/01/bytedance-set-to-wrap-up-indian-ops-and-lay-off-over-1800-employees/,Unknown,7400,India,2021-01-28
+Bytedance,"Shanghai,Non-U.S.",NULL,2023-01-03,0.1,Consumer,https://pandaily.com/bytedance-initiates-layoffs-for-10-of-staff/,Unknown,9400,China,2023-01-04
+Bytedance,"Shanghai,Non-U.S.",1000,2023-11-27,NULL,Consumer,https://asia.nikkei.com/Business/China-tech/TikTok-parent-ByteDance-to-cut-1-000-gaming-jobs-in-strategic-shift,Unknown,9400,China,2023-11-27
+Bytedance,"Shanghai,Non-U.S.",150,2022-06-17,NULL,Consumer,https://www.bloomberg.com/news/articles/2022-06-17/bytedance-disbands-shanghai-games-studio-in-expansion-setback#xj4y7vzkg,Unknown,9400,China,2022-06-17
+Bytedance,"Shanghai,Non-U.S.",1800,2021-08-05,NULL,Consumer,https://www.reuters.com/world/china/bytedance-lay-off-staff-close-businesses-over-china-tutoring-clampdown-sources-2021-08-05/,Unknown,9400,China,2021-08-05
+C2FO,"Kansas City",16,2024-06-18,NULL,Finance,https://www.bizjournals.com/kansascity/news/2024/06/18/c2fo-layoffs-supplier-relations-managers.html,"Series H",537,"United States",2024-06-19
+C2FO,"Kansas City",20,2022-12-09,0.02,Finance,https://www.bizjournals.com/kansascity/news/2023/10/16/c2fo-layoffs-marketing-sales-revenue-growth-ipo.html,"Series H",537,"United States",2022-12-11
+C2FO,"Kansas City",80,2023-10-16,0.03,Finance,https://www.bizjournals.com/kansascity/news/2022/12/09/c2fo-layoff-recession-efficiency-profitability.html,"Series H",537,"United States",2023-10-20
+"C6 Bank","Sao Paulo,Non-U.S.",60,2020-04-06,0.06,Finance,"https://link.estadao.com.br/noticias/inovacao,startups-brasileiras-fazem-demissoes-por-conta-do-coronavirus,70003262126",Unknown,NULL,Brazil,2020-04-06
+Cabify,"Madrid,Non-U.S.",29,2024-05-02,NULL,Transportation,https://www.epe.es/es/activos/20240502/cabify-ejecuta-veintena-despidos-staff-101773083,Unknown,601,Spain,2024-05-09
+Cabin,"SF Bay Area",NULL,2020-03-23,0.2,Travel,https://www.theinformation.com/articles/layoffs-accelerate-across-silicon-valley-startups,Seed,3,"United States",2020-03-28
+Cadre,"New York City",28,2020-05-11,0.25,"Real Estate",https://layoffs.fyi/2020/05/19/real-estate-investing-startup-cadre-laid-off-28-employees/,"Series C",133,"United States",2020-05-11
+"Cake Bikes","Stockholm,Non-U.S.",NULL,2024-02-02,1,Transportation,https://techcrunch.com/2024/02/02/cake-electric-motorcycle-bankruptcy/,Unknown,74,Sweden,2024-02-03
+"Cake Group","Singapore,Non-U.S.",50,2023-11-14,0.3,Crypto,https://www.linkedin.com/posts/julianhosp_cake-group-ceos-message-to-employees-activity-7130117237218156545-oPjI/,Unknown,NULL,Singapore,2023-11-15
+Calendly,Atlanta,60,2023-07-26,0.1,Other,https://www.theinformation.com/briefings/calendly-cuts-roughly-10-of-staff,"Series B",351,"United States",2023-07-27
+Calendly,Atlanta,70,2024-12-11,0.13,Other,https://finance.yahoo.com/news/read-memo-calendlys-ceo-sent-133038639.html,"Series B",351,"United States",2024-12-13
+Calibrate,"New York City",NULL,2023-04-14,0.18,Healthcare,https://news.bloomberglaw.com/daily-labor-report/weight-loss-telehealth-startup-calibrate-health-cuts-18-of-jobs,"Series B",127,"United States",2023-04-15
+Calibrate,"New York City",156,2022-07-08,0.24,Healthcare,https://news.bloomberglaw.com/capital-markets/health-startup-calibrate-cuts-24-of-workforce-in-restructuring,"Series B",127,"United States",2022-07-18
+Caliva,"SF Bay Area",20,2020-03-30,NULL,Retail,https://www.businessinsider.com/cannabis-startup-caliva-laid-off-20-corporate-employees-2020-5,"Series A",75,"United States",2020-05-29
+Caliva,"SF Bay Area",54,2023-08-08,NULL,Retail,https://www.bizjournals.com/sanfrancisco/news/2023/08/08/gold-flora-tpco-caliva-jay-z-cannabis-layoff-sj.html,"Series B",75,"United States",2023-08-09
+"Callisto Media","SF Bay Area",NULL,2022-10-25,0.35,Media,https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/90722-after-massive-july-layoff-callisto-media-cuts-staff-further.html,"Series D",NULL,"United States",2022-10-26
+"Callisto Media","SF Bay Area",140,2022-07-21,0.35,Media,https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/89897-callisto-media-promising-to-act-swiftly-and-decisively-lays-off-35-of-workforce.html,"Series D",NULL,"United States",2022-07-21
+Calm,"SF Bay Area",90,2022-08-11,0.2,Healthcare,https://www.wsj.com/articles/meditation-app-calm-lays-off-20-of-staff-11660261492?mod=hp_lista_pos1,"Series C",218,"United States",2022-08-12
+Cameo,Chicago,80,2022-11-09,NULL,Consumer,https://www.theinformation.com/briefings/cameo-lays-off-staff-for-second-time-this-year,Unknown,165,"United States",2022-11-09
+Cameo,Chicago,80,2023-07-18,NULL,Consumer,https://www.theinformation.com/articles/cameo-cuts-staff-to-fewer-than-50-after-financial-stumble,Unknown,165,"United States",2023-07-18
+Cameo,Chicago,87,2022-05-04,0.25,Consumer,https://www.theinformation.com/articles/cameo-a-celebrity-shoutout-app-lays-off-25-of-workforce,Unknown,165,"United States",2022-05-04
+"Camp K12","Gurugram,Non-U.S.",NULL,2023-01-23,0.7,Education,https://themorningcontext.com/internet/camp-k12-lays-off-70-of-staff-refuses-to-pay-dues,"Series A",16,India,2023-01-23
+Cana,"SF Bay Area",NULL,2023-05-13,1,Food,https://thespoon.tech/cana-the-startup-building-a-make-any-drink-beverage-printer-shuts-down/,Unknown,30,"United States",2023-05-14
+"Candy Digital","New York City",30,2023-06-29,NULL,Crypto,https://decrypt.co/146734/candy-digital-confirms-layoffs-reveals-merger-palm-nft-studio,"Series A",138,"United States",2023-06-30
+"Candy Digital","New York City",33,2022-11-28,0.33,Crypto,https://decrypt.co/115811/gary-vee-sports-nft-candy-digital-mass-layoffs,"Series A",100,"United States",2022-11-29
+Canoo,"Los Angeles",20,2024-12-11,NULL,Transportation,https://eletric-vehicles.com/canoo/canoo-initiates-layoffs-as-bankruptcy-looms/,Post-IPO,300,"United States",2024-12-13
+Canoo,"Los Angeles",58,2022-07-01,0.06,Transportation,https://www.businessinsider.com/canoo-layoffs-production-goals-electric-vehicle-startup-2022-6,Post-IPO,300,"United States",2022-07-01
+Canva,"Sydney,Non-U.S.",10,2025-04-02,NULL,Consumer,https://www.afr.com/technology/canva-shocks-employees-with-ai-related-job-cuts-20250331-p5lo06,Unknown,2500,Australia,2025-04-02
+"Capital One","Washington D.C.",1100,2023-01-19,NULL,Finance,https://www.reuters.com/technology/capital-one-scraps-1100-tech-positions-source-2023-01-19/,Post-IPO,NULL,"United States",2023-01-20
+Capitolis,"New York City",NULL,2022-11-18,0.25,Finance,https://www.risk.net/derivatives/7955234/capitolis-cuts-workforce-by-25-as-bear-market-bites,"Series D",281,"United States",2022-12-15
+Capitolis,"New York City",37,2022-11-17,0.25,Finance,https://www.themarker.com/technation/2022-11-17/ty-article/.premium/00000184-8592-d309-afe7-a597c17f0000,"Series D",281,"United States",2022-11-18
+Capsule,"New York City",NULL,2022-07-19,0.13,Healthcare,"Internal memo","Series D",570,"United States",2022-07-20
+"Captain Fresh","Bengaluru,Non-U.S.",120,2023-01-15,NULL,Food,https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/layoffs-spread-to-dunzo-sharechat-rebel-foods-and-agri-tech-firms/articleshow/97016331.cms?from=mdr,"Series C",126,India,2023-01-16
+Captiv8,"SF Bay Area",8,2023-08-24,0.03,Marketing,https://www.prweek.com/article/1835107/influencer-marketing-platform-captiv8-lays-off-eight-employees-3-staff,Unknown,4,"United States",2023-08-25
+CaptivateIQ,"SF Bay Area",31,2022-11-15,0.1,Sales,"Internal memo","Series C",164,"United States",2022-11-17
+CapWay,Atlanta,NULL,2024-10-17,1,Finance,https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/,Unknown,NULL,"United States",2024-10-18
+"Carbon Health","SF Bay Area",114,2023-10-09,0.05,Healthcare,https://www.beckershospitalreview.com/digital-health/carbon-health-lays-off-114-employees.html,"Series D",522,"United States",2023-10-25
+"Carbon Health","SF Bay Area",200,2023-01-06,NULL,Healthcare,https://twitter.com/erenbali/status/1611488895866408960,"Series D",522,"United States",2023-01-07
+"Carbon Health","SF Bay Area",250,2022-06-02,0.08,Healthcare,https://www.forbes.com/sites/katiejennings/2022/06/02/healthtech-unicorn-carbon-health-lays-off-250-employees/,"Series D",522,"United States",2022-06-02
+"Carbon Health","SF Bay Area",56,2024-02-23,NULL,Healthcare,https://www.sfchronicle.com/bayarea/article/bay-area-layoffs-carbon-health-18684600.php,"Series D",522,"United States",2024-02-24
+CarDekho,"Gurugram,Non-U.S.",200,2020-05-25,NULL,Transportation,https://entrackr.com/2020/05/exclusive-cardekho-lays-off-200-employees-goes-for-pay-cuts/,"Series D",247,India,2020-05-26
+Cardlytics,Atlanta,51,2022-11-14,NULL,Marketing,https://www.marketscreener.com/quote/stock/CARDLYTICS-INC-40680969/news/Cardlytics-to-Terminate-51-Employees-Appoints-John-Balen-Chairman-Shares-up-After-Hours-42312731/,Post-IPO,212,"United States",2022-11-15
+Care.com,Boston,81,2020-04-30,NULL,Consumer,https://www.bloomberg.com/news/articles/2020-04-30/iac-to-cut-81-care-com-employees-in-restructuring-after-deal,Acquired,156,"United States",2020-05-01
+Care/of,"New York City",143,2024-06-15,1,Healthcare,https://techcrunch.com/2024/06/15/subscription-vitamin-company-care-of-is-shutting-down/,Acquired,83,"United States",2024-06-19
+Careem,"Dubai,Non-U.S.",536,2020-05-04,0.31,Transportation,https://www.thenational.ae/business/economy/dubai-s-careem-cuts-536-jobs-as-lockdowns-hit-ride-hailing-across-middle-east-1.1014784,Acquired,771,"United Arab Emirates",2020-05-04
+"Career Karma","SF Bay Area",22,2023-01-12,NULL,Education,https://techcrunch.com/2023/01/12/career-karma-conducts-another-round-of-layoffs-extends-runway-to-five-years/,"Series B",51,"United States",2023-01-12
+"Career Karma","SF Bay Area",60,2022-07-28,0.33,Education,https://techcrunch.com/2022/07/28/career-karma-conducts-layoffs-as-tech-jobs-face-a-massive-stress-test/,"Series B",51,"United States",2022-07-29
+"CareerBuilder + Monster",Chicago,200,2024-10-10,0.15,Recruiting,https://aimgroup.com/2024/10/10/200-laid-off-at-new-careerbuilder-monster-staff-cut-of-15-hits-all-departments-levels/,Acquired,NULL,"United States",2024-10-11
+CareRev,"Los Angeles",100,2023-06-15,0.33,Healthcare,https://www.theinformation.com/articles/carerev-plans-to-cut-roughly-a-third-of-staff,"Series A",51,"United States",2023-06-16
+CarGurus,Boston,130,2020-04-16,0.13,Transportation,https://layoffs.fyi/2020/05/04/cargurus-laid-off-130-employees/,Post-IPO,1,"United States",2020-04-16
+Carousell,"Singapore,Non-U.S.",110,2022-12-01,0.1,Retail,https://www.straitstimes.com/singapore/jobs/carousell-cuts-110-jobs-to-rein-in-costs,"Private Equity",372,Singapore,2022-12-03
+Carousell,"Singapore,Non-U.S.",76,2024-12-06,0.07,Retail,https://www.channelnewsasia.com/singapore/carousell-layoffs-december-2024-76-roles-strategic-market-resources-4791261,Unknown,375,Singapore,2024-12-07
+Cars24,"Gurugram,Non-U.S.",120,2025-05-27,NULL,Transportation,https://inc42.com/buzz/cars24-to-fire-120-more-employees-in-restructuring-exercise/,"Series G",1300,India,2025-05-28
+Cars24,"Gurugram,Non-U.S.",200,2025-04-26,NULL,Transportation,https://entrackr.com/exclusive/exclusive-cars24-lays-off-200-employees-9003193,"Series G",1300,India,2025-04-29
+Cars24,"Gurugram,Non-U.S.",600,2022-05-19,0.06,Transportation,https://entrackr.com/2022/05/softbank-backed-cars24-lays-off-600-employees/,"Series G",1300,India,2022-05-19
+Cars24,"Jakarta,Non-U.S.",100,2023-05-03,NULL,Transportation,https://inc42.com/buzz/cars24-shuts-shop-in-indonesia-saudi-arabia-to-focus-on-india-ops/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Profit++Karo++On+Paytm+s+Mind%21+%7C+Two+Bengaluru+Unicorns+Cut+Jobs+%7C+Tim+Cook+s+%E2%9D%A4%EF%B8%8F+For+India&utm_campaign=Morning+Newsletter+-+New+Template+06+May&vgo_ee=vZ%2BZfbikRuPiTdEJPl5%2BEYyCJFrocn5no%2Bm25FjbMJUy9Zuq7w%3D%3D%3AAqF8bsXWMtjx1ZHWtxqmJxDrH43MqNRa,"Series G",1300,Indonesia,2023-05-07
+Carsome,"Kuala Lumpur,Non-U.S.",NULL,2022-09-30,0.1,Transportation,https://www.techinasia.com/carsome-lay-10-staff-execs-forgo-salaries,"Series E",607,Malaysia,2022-09-30
+Cart.com,Austin,25,2023-01-10,0.04,Retail,https://www.theinformation.com/briefings/cart-com-cuts-more-corporate-staff,Unknown,383,"United States",2023-11-16
+Carta,"SF Bay Area",161,2020-04-15,0.16,Finance,https://layoffs.fyi/2020/04/22/carta-laid-off-161-employees-citing-customer-slowdown/,"Series E",447,"United States",2020-04-15
+Carta,"SF Bay Area",NULL,2023-01-11,0.1,HR,https://techcrunch.com/2023/01/11/carta-lays-off-10-as-cto-lawsuit-looms/,"Series G",1100,"United States",2023-01-11
+CarTrawler,"Dublin,Non-U.S.",40,2024-09-19,0.1,Transportation,https://www.businesspost.ie/tech-news/cartrawler-to-cut-10-of-workforce-amid-strategic-shift-but-new-roles-will-follow/,Acquired,NULL,Ireland,2024-09-21
+Carvana,Phoenix,1500,2022-11-18,0.08,Transportation,https://www.wsj.com/articles/carvana-plans-to-lay-off-1-500-employees-cites-economic-concerns-11668793114,Post-IPO,1600,"United States",2022-11-18
+Carvana,Phoenix,2500,2022-05-10,0.12,Transportation,https://techcrunch.com/2022/05/10/carvana-to-cut-2500-staff-as-it-struggles-with-overcapacity/,Post-IPO,1600,"United States",2022-05-10
+Carwow,"London,Non-U.S.",70,2022-11-25,0.2,Transportation,https://www.ft.com/content/19150de3-bbd4-42b3-acbd-52b228dc1bf1,Unknown,157,"United Kingdom",2022-11-29
+Casavo,"Milan,Non-U.S.",NULL,2023-02-13,0.3,"Real Estate",https://casavo.com/blog/a-difficult-decision-to-strengthen-casavos-foundations-for-the-future/,Unknown,708,Italy,2023-02-13
+"Cashfree Payments","Bengaluru,Non-U.S.",100,2023-01-12,NULL,Finance,https://economictimes.indiatimes.com/tech/startups/online-payments-firm-cashfree-lays-off-150-employees-to-cut-costs/articleshow/96938789.cms,"Series B",41,India,2023-01-12
+Casper,"New York City",78,2020-04-21,0.21,Retail,https://www.fastcompany.com/90494129/breaking-casper-lays-off-78-corporate-employees-winds-down-europe-business,Post-IPO,339,"United States",2020-04-21
+"Castlight Health","SF Bay Area",NULL,2020-05-04,0.13,Healthcare,LinkedIn,Post-IPO,184,"United States",2020-05-10
+Catalant,Boston,30,2020-03-30,NULL,Other,https://www.americaninno.com/boston/inno-news-boston/catalant-technologies-cuts-workforce-amid-coronavirus-uncertainty/,"Series E",110,"United States",2020-03-31
+Catch,"New York City",NULL,2023-03-07,1,Finance,https://catch.co/thank-you/,"Series A",18,"United States",2023-03-07
+Catch.com.au,"Melbourne,Non-U.S.",100,2023-02-06,NULL,Retail,https://www.channelnews.com.au/wesfarmers-axes-100-catch-employees/,Acquired,80,Australia,2023-02-14
+"Catena Media","Sliema,Non-U.S.",29,2024-10-23,NULL,Marketing,https://whoswho.mt/en/catena-media-cuts-29-content-and-marketing-jobs,Unknown,NULL,Malta,2024-11-04
+Cazoo,"London,Non-U.S.",750,2022-06-07,0.15,Transportation,https://news.sky.com/story/car-retailer-cazoo-to-cut-750-jobs-after-inflation-hit-12629350,Post-IPO,2000,"United Kingdom",2022-06-07
+Cedar,"New York City",NULL,2022-07-07,0.24,Healthcare,https://www.businessinsider.com/cedar-layoffs-workers-jobs-cut-healthcare-market-downturn-2022-7,"Series D",351,"United States",2022-07-07
+Cellulant,"Nairobi,Non-U.S.",NULL,2023-08-23,0.2,Finance,https://techeconomy.ng/cellulant-to-lay-off-20-of-its-workforce/,"Series C",54,Kenya,2023-08-24
+Celsius,"New York City",150,2022-07-03,0.25,Crypto,https://www.calcalistech.com/ctechnews/article/syvuxha99,"Series B",864,"United States",2022-07-04
+Center,Seattle,8,2024-09-07,0.04,Finance,https://www.geekwire.com/2024/corporate-expense-software-startup-center-lays-off-workers/,"Series C",102,"United States",2024-10-01
+Centr,"Sydney,Non-U.S.",22,2023-07-13,NULL,Fitness,https://www.news.com.au/finance/business/chris-hemsworths-fitness-app-centr-reportedly-sacks-australian-staff/news-story/8e6dacc01c9d4b4569401e997e303ca6,Unknown,NULL,Australia,2023-07-13
+Cerebral,"SF Bay Area",285,2023-02-27,0.15,Healthcare,https://www.businessinsider.com/cerebral-cuts-15-percent-staff-285-employees-layoffs-february-2023-2,"Series C",462,"United States",2023-02-27
+Cerebral,"SF Bay Area",400,2022-10-24,0.2,Healthcare,https://techcrunch.com/2022/10/24/telehealth-unicorn-cerebral-lays-off-20-of-staff-for-operational-efficiencies/,"Series C",462,"United States",2022-10-24
+Cerner,"Kansas City",3000,2023-05-16,0.11,Healthcare,https://www.businessinsider.com/oracle-halted-raises-layoffs-after-cerner-deal-2023-5,Acquired,NULL,"United States",2023-05-17
+Chainalysis,"New York City",150,2023-10-02,0.15,Crypto,https://www.forbes.com/sites/stevenehrlich/2023/10/02/chainalysis-idling-150-employees-as-chill-of-crypto-winter-persists/?sh=5e9464256bc8,"Series F",536,"United States",2023-10-04
+Chainalysis,"New York City",44,2023-02-01,0.05,Crypto,https://www.forbes.com/sites/stevenehrlich/2023/02/01/chainalysis-to-lay-off-48-of-staff-as-crypto-winter-bites-into-private-sector-demand/?sh=471d22826f23,"Series F",536,"United States",2023-02-02
+"Change Invest","Amsterdam,Non-U.S.",NULL,2022-11-27,0.24,Finance,https://arileht.delfi.ee/artikkel/120105494/jarjekordne-eesti-idufirma-koondab-veerandi-oma-tootajatest,Unknown,22,Netherlands,2023-01-23
+Change.org,"SF Bay Area",NULL,2022-07-28,0.19,Other,https://change-org.medium.com/restructuring-change-org-for-the-future-1c83c1c5b704,"Series D",72,"United States",2022-07-29
+Character.ai,"SF Bay Area",6,2024-08-29,0.05,AI,https://www.theinformation.com/briefings/character-ai-lays-off-at-least-5-of-its-staff,"Series A",150,"United States",2024-09-01
+Chargebee,"SF Bay Area",100,2023-09-11,0.1,Finance,https://inc42.com/buzz/tiger-global-backed-chargebee-fires-10-workforce-in-2nd-round-of-layoffs/,"Series H",468,"United States",2023-09-11
+Chargebee,"SF Bay Area",142,2022-11-02,0.1,Finance,https://techcrunch.com/2022/11/02/tiger-global-chargebee-layoffs/,"Series H",468,"United States",2022-11-03
+ChargePoint,"SF Bay Area",NULL,2023-09-08,0.1,Manufacturing,https://investorplace.com/2023/09/chargepoint-layoffs-2023-what-to-know-about-the-latest-chpt-job-cuts/,Unknown,1400,"United States",2023-09-08
+ChargePoint,"SF Bay Area",NULL,2024-01-10,0.12,Manufacturing,https://www.businesswire.com/news/home/20240110537239/en/ChargePoint-Announces-Reorganization-to-Position-Itself-for-Long-Term-Sustainable-Growth,Unknown,1400,"United States",2024-01-12
+ChargePoint,"SF Bay Area",250,2024-09-04,0.15,Manufacturing,https://www.marketwatch.com/story/chargepoint-to-cut-15-of-workforce-7cebef74,Unknown,1400,"United States",2024-09-06
+Checkmarx,"Tel Aviv,Non-U.S.",100,2022-11-02,0.1,Security,https://www.calcalistech.com/ctechnews/article/hjailhyri,"Series C",92,Israel,2022-11-02
+Checkout.com,"London,Non-U.S.",100,2022-09-13,0.05,Finance,https://www.bloomberg.com/news/articles/2022-09-13/checkout-com-will-eliminate-about-5-of-employees-in-latest-cuts,"Series D",1800,"United Kingdom",2022-09-14
+Checkout.com,"London,Non-U.S.",80,2023-12-18,NULL,Finance,https://enphase.com/blog/employees/dec-2023-message-from-our-ceo,"Series D",1800,"United Kingdom",2023-12-19
+Checkr,"SF Bay Area",382,2024-04-09,0.32,HR,"Internal memo","Series D",679,"United States",2024-04-09
+Checkr,"SF Bay Area",64,2020-07-23,0.12,HR,https://layoffs.fyi/2020/07/28/checkr-lays-off-64-employees/,"Series D",309,"United States",2020-07-24
+Chegg,"SF Bay Area",248,2025-05-12,0.22,Education,https://www.reuters.com/world/americas/chegg-lay-off-22-workforce-ai-tools-shake-up-edtech-industry-2025-05-12/,Post-IPO,227,"United States",2025-05-12
+Chegg,"SF Bay Area",319,2024-11-12,0.21,Education,https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-11-12-2024/card/online-education-company-chegg-to-lay-off-staff-as-ai-tools-weigh-on-revenue-targets-qYYbTOKMAe8OblSEyLUD,Post-IPO,227,"United States",2024-11-13
+Chegg,"SF Bay Area",441,2024-06-17,0.23,Education,https://www.businesswire.com/news/home/20240617323391/en/Chegg-Announces-Restructuring-Plan-and-New-Vision-for-Growth,Post-IPO,227,"United States",2024-06-19
+Chegg,"SF Bay Area",80,2023-06-12,0.04,Education,https://www.bloomberg.com/news/articles/2023-06-12/chegg-slashes-4-of-workforce-following-shift-to-embrace-ai#xj4y7vzkg,Post-IPO,227,"United States",2023-06-14
+Chessable,"London,Non-U.S.",29,2022-07-04,NULL,Consumer,https://dotesports.com/chess/news/chessbase-lays-off-29-employees-citing-new-economic-reality,Acquired,0,"United Kingdom",2022-07-13
+Chewy,Miami,200,2023-11-14,NULL,Retail,https://techcrunch.com/2023/11/14/online-pet-goods-retailer-chewy-lays-off-200-employees/,Post-IPO,451,"United States",2023-11-15
+"Chia Network","SF Bay Area",26,2023-10-02,0.37,Crypto,https://www.coindesk.com/policy/2023/10/02/chia-network-lays-off-third-of-its-staff-as-loss-of-banker-delayed-going-public/,"Series D",70,"United States",2023-10-04
+Chief,"New York City",43,2023-04-27,0.14,Other,https://techcrunch.com/2023/04/27/chief-a-professional-network-for-women-leaders-cuts-staff-amid-restructuring-effort/,"Series B",140,"United States",2023-04-27
+"Chili Piper","New York City",58,2022-11-17,NULL,Sales,https://www.linkedin.com/feed/update/urn:li:activity:6999112600667983872/,"Series B",54,"United States",2022-11-17
+Chime,"SF Bay Area",156,2022-11-02,0.12,Finance,https://www.theinformation.com/articles/chime-slashes-12-of-staff-marking-latest-casualty-in-fintech-meltdown,"Series G",2300,"United States",2022-11-02
+Chingari,"Bengaluru,Non-U.S.",NULL,2023-08-24,0.5,Media,https://inc42.com/buzz/exclusive-chingari-sacks-over-50-employees-in-second-round-of-layoffs/,Unknown,88,India,2023-08-24
+Chingari,"Bengaluru,Non-U.S.",48,2023-06-19,0.2,Media,https://inc42.com/buzz/exclusive-weeks-after-cofounders-exit-short-video-app-chingari-lays-off-20-workforce/,Unknown,88,India,2023-06-20
+"Chipper Cash","SF Bay Area",100,2023-02-17,0.33,Finance,https://techweez.com/2023/02/18/chipper-cash-fires-a-third-of-its-workforce/,"Series C",302,"United States",2023-02-20
+"Chipper Cash","SF Bay Area",15,2023-12-11,0.33,Finance,https://techcabal.com/2023/12/11/chipper-cash-cuts-15-jobs/,"Series C",302,"United States",2023-12-11
+"Chipper Cash","SF Bay Area",20,2024-03-15,NULL,Finance,https://www.theinformation.com/briefings/payments-startup-chipper-cuts-jobs-in-seventh-round-of-layoffs,"Series C",302,"United States",2024-03-17
+"Chipper Cash","SF Bay Area",50,2022-12-06,0.13,Finance,https://techcrunch.com/2022/12/06/african-fintech-unicorn-chipper-cash-lays-off-about-12-5-of-staff/,"Series C",302,"United States",2022-12-07
+Chope,"Singapore,Non-U.S.",65,2022-12-20,0.24,Food,https://www.techinasia.com/alipaybacked-chope-lays-65-employees,"Series E",50,Singapore,2022-12-28
+ChowNow,"Los Angeles",100,2022-07-13,0.2,Food,https://techcrunch.com/2022/07/13/signaling-tough-times-ahead-chownow-lays-off-employees/,"Series C",64,"United States",2022-07-13
+ChowNow,"Los Angeles",40,2022-12-14,0.1,Food,https://www.restaurantbusinessonline.com/amp/technology/chownow-cuts-more-jobs-delivery-demand-levels-out,"Series C",64,"United States",2022-12-15
+ChowNow,"Los Angeles",60,2024-03-28,0.2,Food,https://techcrunch.com/2024/03/28/chownow-acquires-yc-backed-point-of-sale-platform-cuboh-and-is-laying-off-staff/,"Series C",64,"United States",2024-03-28
+Chrono24,"Karlsruhe,Non-U.S.",110,2025-01-16,0.24,Retail,https://usa.watchpro.com/chrono24-reboot-begins-with-one-in-four-workers-cut/,"Series C",205,Germany,2025-01-17
+Chrono24,"Karlsruhe,Non-U.S.",65,2023-01-30,0.13,Retail,https://www.bloomberg.com/news/articles/2023-01-30/rolex-reseller-chrono24-cuts-jobs-as-pre-owned-watch-prices-fall,"Series C",205,Germany,2023-01-31
+Chrono24,"Karlsruhe,Non-U.S.",80,2022-12-08,NULL,Retail,https://www.tag24.de/chemnitz/lokales/fuer-luxusuhren-haendler-in-chemnitz-rabenstein-laeuft-die-zeit-ab-2684514,"Series C",205,Germany,2023-01-15
+Cimpress,"Paris,Non-U.S.",500,2023-03-23,NULL,Retail,https://www.marketwatch.com/story/cimpress-plans-to-cut-about-500-jobs-768d3efc,Post-IPO,300,France,2023-04-11
+Cint,"Stockholm,Non-U.S.",NULL,2024-12-12,0.12,Data,https://investors.cint.com/en/press/cint-reducing-its-cost-base-increase-efficiency-and-sets-date-strategy-update-2287372,Post-IPO,17,Sweden,2025-02-08
+Circ,"Berlin,Non-U.S.",100,2020-06-02,NULL,Transportation,https://techcrunch.com/2020/06/02/bird-shuts-down-circ-operations-in-middle-east-scraps-as-many-as-10000-scooters/,Acquired,55,Germany,2020-06-03
+Circle,Boston,50,2024-12-05,0.06,Crypto,https://www.coindesk.com/business/2024/12/05/usdc-issuer-circle-makes-layoffs-as-part-of-operations-review-bloomberg,"Private Equity",1100,"United States",2024-12-07
+CircleCI,"SF Bay Area",NULL,2022-12-07,0.17,Product,https://circleci.com/blog/ceo-jim-rose-email-to-circleci-employees/,"Series F",315,"United States",2022-12-07
+CircleCI,"SF Bay Area",100,2024-01-31,NULL,Product,"Internal memo","Series F",315,"United States",2024-02-01
+"Circulo Health",Columbus,NULL,2022-06-16,0.5,Healthcare,https://www.axios.com/pro/health-tech-deals/2022/06/16/circulo-health-layoffs,"Series A",50,"United States",2022-06-17
+"Circus Kitchens","Hamburg,Non-U.S.",35,2023-05-25,NULL,Food,https://www.businessinsider.de/gruenderszene/food/massenentlassung-beim-lieferdienst-startup-circus-kitchens/,Seed,12,Germany,2023-05-26
+Cisco,"SF Bay Area",350,2023-09-17,NULL,Infrastructure,https://www.marketwatch.com/story/cisco-to-cut-350-jobs-in-latest-round-of-layoffs-f9084451,Post-IPO,2,"United States",2023-09-20
+Cisco,"SF Bay Area",4100,2022-11-16,0.05,Infrastructure,https://www.bizjournals.com/sanjose/news/2022/11/16/cisco-announces-600m-restructuring-layoffs.html,Post-IPO,2,"United States",2022-11-17
+Cisco,"SF Bay Area",4250,2024-02-14,0.05,Infrastructure,https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html,Post-IPO,2,"United States",2024-02-14
+Cisco,"SF Bay Area",5600,2024-08-09,0.07,Infrastructure,https://techcrunch.com/2024/09/17/ciscos-second-layoff-of-2024-affect-thousands-of-employees/,Post-IPO,2,"United States",2024-08-09
+Citizen,"New York City",33,2023-01-11,NULL,Consumer,https://techcrunch.com/2023/01/12/crime-reporting-app-citizen-lays-off-33-employees/,"Series C",133,"United States",2023-01-12
+"Citrine Informatics","SF Bay Area",22,2023-01-20,0.27,Data,https://www.linkedin.com/posts/gregorymulholland_this-week-was-a-hard-one-for-our-team-at-activity-7022310417347596288-0cd3/,"Series C",64,"United States",2023-01-21
+Citrix,Miami,NULL,2023-01-10,0.15,Infrastructure,https://techcrunch.com/2023/01/11/company-created-by-citrix-tibco-merger-confirms-it-has-laid-off-15-of-staff/,Acquired,20,"United States",2023-01-11
+Citrix,Miami,1000,2024-01-10,0.12,Infrastructure,https://www.crn.com/news/cloud/2024/citrix-parent-cloud-software-group-cuts-12-percent-of-workforce,Acquired,20,"United States",2024-01-11
+"Cityblock Health","New York City",155,2023-06-08,0.12,Healthcare,https://www.fiercehealthcare.com/providers/cityblock-restructures-operations-cuts-12-workforce-it-plots-plans-growth-profitability,"Series D",891,"United States",2023-06-08
+CityMall,"Gurugram,Non-U.S.",191,2022-06-19,0.3,Retail,https://techcrunch.com/2022/06/19/indias-citymall-cuts-191-jobs-following-75-million-fundraise-in-late-march/,"Series C",112,India,2022-06-19
+CityMall,"Gurugram,Non-U.S.",90,2023-10-16,NULL,Retail,https://inc42.com/buzz/exclusive-norwest-backed-social-commerce-startup-citymall-fires-90-employees/,"Series C",112,India,2023-10-17
+Clari,"SF Bay Area",20,2023-02-06,NULL,Sales,https://www.businessinsider.com/tech-layoffs-workato-clari-unicorn-startups-headcount-reduction-job-cuts-2023-2,"Series F",496,"United States",2023-02-07
+Clari,"SF Bay Area",45,2022-08-31,NULL,Sales,"Internal memo","Series F",496,"United States",2022-09-02
+"Clarify Health","SF Bay Area",15,2022-07-22,0.05,Healthcare,https://twitter.com/erinbrodwin/status/1550495194805518337,"Series D",328,"United States",2022-07-22
+ClassPass,"New York City",154,2020-04-02,0.22,Fitness,https://layoffs.fyi/2020/04/03/classpass-laid-off-or-furloughed-half-its-staff/,"Series E",549,"United States",2020-04-02
+Clear,"Bengaluru,Non-U.S.",190,2022-09-16,0.2,Finance,https://inc42.com/buzz/stripe-sequoia-backed-clear-lays-off-around-190-employees/,"Series C",140,India,2022-09-17
+"Clear Capital",Reno,250,2023-01-25,0.25,"Real Estate",https://www.rgj.com/story/news/money/business/2023/01/25/more-layoffs-at-reno-based-clear-capital-amid-seismic-housing-shift/69842319007/,Unknown,NULL,"United States",2023-01-26
+"Clear Capital",Reno,378,2022-10-14,0.27,"Real Estate",https://techcrunch.com/2022/10/14/clear-capital-lays-off-27-of-its-global-staff/,Unknown,NULL,"United States",2022-10-15
+Clearbanc,"Toronto,Non-U.S.",17,2020-04-13,0.08,Finance,https://techcrunch.com/2020/04/13/clearbanc-cuts-number-of-staff-to-navigate-long-term-economic-impact-of-covid-19/,"Series B",119,Canada,2020-04-13
+Clearco,"Toronto,Non-U.S.",125,2022-07-29,0.25,Finance,https://betakit.com/clearco-cuts-a-quarter-of-staff-amid-significant-headwinds/,"Series C",681,Canada,2022-07-29
+ClearCo,"Toronto,Non-U.S.",50,2023-01-16,0.3,Finance,https://betakit.com/michele-romanow-clearco-ceo-layoffs/,"Series C",698,Canada,2023-01-16
+Clearco,"Toronto,Non-U.S.",60,2022-06-06,NULL,Finance,https://techcrunch.com/2022/08/30/clearco-cuts-international-staff-as-it-retracts-presence-announces-new-partner/,"Series C",681,Canada,2022-08-30
+Clearcover,Chicago,NULL,2023-09-01,0.28,Finance,https://coverager.com/clearcover-makes-additional-cuts/,"Series D",304,"United States",2023-09-01
+Clearcover,Chicago,81,2023-04-17,0.15,Finance,https://coverager.com/layoffs-at-clearcover/,"Series D",304,"United States",2023-04-25
+CleverTap,"Mumbai,Non-U.S.",60,2020-04-16,0.2,Marketing,https://inc42.com/buzz/startupsvscovid19-indian-startup-layoffs-pay-cut-tracker/,"Series C",76,India,2020-04-21
+ClickUp,"San Diego",60,2022-05-23,0.07,Other,https://www.protocol.com/bulletins/clickup-layoff-productivity-app,"Series C",537,"United States",2022-05-25
+ClickUp,"San Diego",90,2023-06-28,0.1,Other,https://techcrunch.com/2023/07/04/clickup-layoffs/,"Series C",537,"United States",2023-07-04
+Climeworks,"Zurich,Non-U.S.",106,2025-05-21,0.22,Energy,https://www.bloomberg.com/news/articles/2025-05-21/carbon-removal-startup-climeworks-is-cutting-22-of-staff,"Private Equity",734,Switzerland,2025-05-22
+Clinc,"Ann Arbor",40,2020-04-09,0.32,Support,https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-ai-startup-clinc-lays-off-32-of-its-workers.html,"Series B",59,"United States",2020-04-02
+Clockwork,Dallas,NULL,2023-08-28,1,Crypto,8/28/solana-based-automation-startup-clockwork-to-shut-down/,Seed,4,"United States",2023-08-28
+CloudFactory,"Nairobi,Non-U.S.",NULL,2022-11-09,0.12,Data,https://time.com/6234014/tech-layoffs-twitter-amazon-global-workers/,"Private Equity",78,Kenya,2022-11-20
+Cloudflare,"SF Bay Area",40,2024-01-11,NULL,Security,https://twitter.com/eastdakota/status/1745697840180191501,Post-IPO,332,"United States",2024-02-02
+Cloudinary,"SF Bay Area",40,2022-11-14,0.08,Media,"https://www.calcalistech.com/ctechnews/article/h1sioa1li#:~:text=Israeli%20unicorn%20Cloudinary%2C%20which%20has,total%20of%20around%2040%20employees.",Unknown,100,"United States",2022-11-17
+Clubhouse,"SF Bay Area",NULL,2023-04-27,0.5,Consumer,https://blog.clubhouse.com/april-27-2023/,"Series C",110,"United States",2023-04-27
+Clue,"Berlin,Non-U.S.",31,2023-01-18,0.31,Healthcare,https://www.businessinsider.de/gruenderszene/business/fruchtbarkeits-startup-clue-entlaesst-viertel-der-belegschaft-a/,Unknown,47,Germany,2023-01-18
+Clutch,"Toronto,Non-U.S.",150,2023-01-17,NULL,Transportation,https://www.theglobeandmail.com/business/article-lightspeed-commerce-job-cuts/,Unknown,253,Canada,2023-01-18
+Clutch,"Toronto,Non-U.S.",76,2022-06-29,0.22,Transportation,https://betakit.com/clutch-cuts-staff-to-extend-runway-citing-market-conditions/,"Series B",153,Canada,2022-06-30
+Clutter,"Los Angeles",NULL,2020-03-25,0.3,Consumer,https://www.teamblind.com/post/Corona-based-layoffs-tracker-sHaHz6KO,"Series D",296,"United States",2020-03-30
+Clyde,"New York City",22,2022-04-25,NULL,Marketing,https://docs.google.com/spreadsheets/d/1jWyr1oko2FKvofXRRIgCu3tTKlNdnqXj7Qyr1oy-OAE/edit,"Series B",58,"United States",2022-05-11
+CNET,"SF Bay Area",12,2023-03-02,0.1,Media,https://www.theverge.com/2023/3/2/23622231/cnet-layoffs-ai-articles-seo-red-ventures,Acquired,20,"United States",2023-03-04
+CoachHub,"Berlin,Non-U.S.",NULL,2023-01-24,0.1,HR,https://www.linkedin.com/posts/niebelschuetz_today-we-announced-the-toughest-decision-activity-7023678997448290304-oDEB/,"Series C",332,Germany,2023-01-24
+CoachHub,"Berlin,Non-U.S.",NULL,2023-06-01,0.1,HR,https://www.businessinsider.de/gruenderszene/business/coachhub-berliner-startup-entlasst-zehn-prozent-der-mitarbeiter/,"Series C",332,Germany,2023-06-04
+Code42,Minneapolis,25,2020-04-09,0.05,Data,https://www.bizjournals.com/twincities/inno/stories/news/2020/04/09/cuts-at-code42-cybersecurity-company-eliminates-25.html,"Series B",138,"United States",2020-09-08
+Code42,Minneapolis,NULL,2022-11-07,0.15,Security,https://www.startribune.com/minneapolis-tech-firm-code42-lays-off-15-of-workforce/600222811/,Unknown,137,"United States",2022-11-08
+CodeClan,"Edinburgh,Non-U.S.",57,2023-08-04,1,Education,https://www.edinburghnews.scotsman.com/news/people/codeclan-crowdfunder-launched-to-help-students-after-tech-training-academy-goes-into-administration-4245811,Seed,NULL,"United Kingdom",2023-08-08
+CodeCombat,"SF Bay Area",8,2020-10-23,NULL,Education,https://layoffs.fyi/2020/10/23/codecombat-launches-alumni-talent-directory-following-layoff/,"Series A",8,"United States",2020-10-23
+CodeParrot,"Bengaluru,Non-U.S.",NULL,2025-07-17,1,Product,https://inc42.com/buzz/another-startup-bites-the-dust-y-combinator-backed-codeparrot-shuts-down/,Seed,NULL,India,2025-07-18
+CodeSee,"SF Bay Area",NULL,2024-02-15,1,Data,https://www.linkedin.com/posts/shaneak_i-am-very-sad-to-announce-officially-activity-7163970333912289281-DaOb/,Seed,10,"United States",2024-02-15
+Codexis,"SF Bay Area",NULL,2022-11-29,0.18,Healthcare,https://www.codexis.com/investors/news-events/press-releases/detail/342/codexis-provides-update-on-prioritized-corporate-strategy,Post-IPO,162,"United States",2022-11-30
+"Coding Dojo",Seattle,7,2020-04-02,0.07,Education,https://www.geekwire.com/2020/engineering-bootcamp-coding-dojo-cuts-jobs-launches-volunteer-program-help-small-businesses/,Unknown,2,"United States",2020-04-12
+Cogito,Boston,24,2020-04-06,0.14,Support,https://www.americaninno.com/boston/inno-news-boston/more-coronavirus-layoffs-emotional-ai-startup-cogito-makes-cuts/,"Series C",92,"United States",2020-04-06
+Cogito,"New Delhi,Non-U.S.",177,2023-04-29,NULL,Data,https://inc42.com/buzz/protests-erupt-data-startup-cogito-fires-177-indian-employees/,Unknown,NULL,India,2023-05-01
+Cognyte,"Tel Aviv,Non-U.S.",100,2022-12-02,0.05,Security,https://www.globes.co.il/news/article.aspx?did=1001431603,Unknown,NULL,Israel,2022-12-04
+Cohere,"Toronto,Non-U.S.",20,2024-07-23,0.05,AI,https://fortune.com/2024/07/23/after-500-million-funding-ai-startup-cohere-layoffs/,"Series D",935,Canada,2024-07-24
+Coherent,"SF Bay Area",108,2023-03-16,NULL,Manufacturing,https://www.siliconvalley.com/2023/03/16/coherent-fremont-job-cut-tech-layoff-google-facebook-twitter-economy/,Post-IPO,NULL,"United States",2023-03-17
+Coherent,"SF Bay Area",196,2023-06-06,NULL,Manufacturing,https://www.mercurynews.com/2023/06/06/tech-layoff-fremont-job-coherent-flex-unity-google-facebook-twitter/,Post-IPO,NULL,"United States",2023-06-08
+"Coho AI","Tel Aviv,Non-U.S.",NULL,2025-04-06,1,Sales,https://www.calcalistech.com/ctechnews/article/hjkodbg0jg,Seed,8,Israel,2025-04-16
+Coinbase,"SF Bay Area",1100,2022-06-14,0.18,Crypto,https://www.cnbc.com/2022/06/14/coinbase-lays-off-18percent-as-execs-prepare-for-recession-crypto-winter.html,Post-IPO,549,"United States",2022-06-14
+Coinbase,"SF Bay Area",60,2022-11-10,NULL,Crypto,https://www.theinformation.com/articles/coinbase-is-cutting-more-jobs,Post-IPO,549,"United States",2022-11-10
+Coinbase,"SF Bay Area",950,2023-01-10,0.2,Crypto,https://www.cnbc.com/2023/01/10/coinbase-to-slash-20percent-of-workforce-in-second-major-round-of-job-cuts.html,Post-IPO,549,"United States",2023-01-10
+CoinDCX,"Mumbai,Non-U.S.",80,2023-01-11,NULL,Crypto,https://www.moneycontrol.com/news/business/startup/coindcx-starts-restructuring-business-units-lays-off-employees-9848661.html,"Series D",244,India,2023-01-12
+CoinDCX,"Mumbai,Non-U.S.",NULL,2023-08-22,0.12,Crypto,https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/crypto-exchange-coindcx-lays-off-12-of-workforce-11236611.html,"Series D",247,India,2023-08-23
+CoinJar,"Melbourne,Non-U.S.",10,2022-11-29,0.2,Crypto,https://www.theaustralian.com.au/business/technology/melbourne-crypto-startup-coinjar-axes-20pc-of-workforce/news-story/485648b4b36a538ff7c00287adb57d5a,Unknown,1,Australia,2022-11-30
+Coinsquare,"Toronto,Non-U.S.",30,2022-07-27,0.24,Crypto,https://betakit.com/coinsquare-lays-off-24-percent-of-staff-amid-turbulent-crypto-market-shifted-focus-to-regulation/,Unknown,98,Canada,2022-07-30
+CoinSwitch,"Bengaluru,Non-U.S.",44,2023-08-28,NULL,Crypto,https://entrackr.com/2023/08/crypto-firm-coinswitch-kuber-lays-off-44-employees/,"Series C",301,India,2023-08-28
+CoinTracker,"SF Bay Area",19,2023-01-28,NULL,Crypto,https://www.cointracker.io/blog/ceo-jon-lerners-message-to-cointracker-employees,"Series A",101,"United States",2023-01-28
+CoLab,"Sydney,Non-U.S.",NULL,2023-04-18,1,Food,https://7news.com.au/lifestyle/food/australian-food-delivery-service-colab-announces-it-will-close-its-doors--c-10319763,Seed,3,Australia,2023-04-20
+Collage.com,Detroit,NULL,2022-10-09,1,Retail,https://thedeadpixelssociety.com/collage-com-shuts-down/,Acquired,NULL,"United States",2023-04-03
+"Collective Health","SF Bay Area",54,2023-02-13,NULL,Healthcare,https://www.linkedin.com/feed/update/urn:li:activity:7031422708764581888/,"Series F",719,"United States",2023-02-15
+"Color Health","SF Bay Area",300,2023-03-01,NULL,Healthcare,https://www.beckershospitalreview.com/digital-health/color-health-lays-off-300-employees-amid-shift-away-from-covid-19-testing.html,"Series E",482,"United States",2023-03-03
+Colossus,Boston,97,2022-05-04,NULL,Energy,"Company exec","Series A",41,"United States",2022-05-12
+CommerceHub,Albany,371,2023-02-14,0.31,Retail,https://www.bizjournals.com/albany/news/2023/02/14/commercehub-channeladvisor-tech-layoffs.html,Acquired,NULL,"United States",2023-02-15
+Commercetools,"Munich,Non-U.S.",NULL,2025-02-26,0.1,Retail,https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/,"Series C",119,Germany,2025-02-28
+CommonBond,"New York City",NULL,2022-09-09,1,Finance,https://www.linkedin.com/posts/daveklein_after-a-10-year-incredible-journey-it-is-activity-6974095155473657857-mf5b/,"Series D",125,"United States",2022-09-11
+CommonBond,"New York City",22,2022-05-13,NULL,Finance,https://www.linkedin.com/feed/update/urn:li:activity:6930967047673708544/,"Series D",130,"United States",2022-05-25
+Community,"Los Angeles",40,2022-06-21,0.3,Marketing,https://www.businessinsider.com/creator-celeb-text-messaging-platform-community-has-layoffs-2022-6,Unknown,40,"United States",2022-06-22
+"Community Gaming","New York City",17,2023-04-14,0.17,Crypto,https://decrypt.co/136786/web3-startup-community-gaming-confirms-layoffs-amid-esports-downturn,"Series A",18,"United States",2023-04-17
+Comparis,"Zurich,Non-U.S.",NULL,2023-03-02,0.1,Finance,https://www.nzz.ch/finanzen/massenentlassung-bei-comparis-das-vergleichsportal-sieht-sich-als-opfer-der-finanzmarktaufsicht-ld.1728686?reduced=true,Unknown,NULL,Switzerland,2023-03-08
+Compass,"New York City",271,2022-09-20,NULL,"Real Estate",https://www.geekwire.com/2022/real-estate-giant-compass-lays-off-84-workers-in-washington-state-as-it-targets-tech-team-for-cuts/,Post-IPO,1600,"United States",2022-09-21
+Compass,"New York City",375,2020-03-23,0.15,"Real Estate",https://layoffs.fyi/2020/04/14/compass-laid-off-375-employees-showings-have-dropped-by-60/,"Series G",1600,"United States",2020-03-28
+Compass,"New York City",450,2022-06-14,0.1,"Real Estate",https://www.bloomberg.com/news/articles/2022-06-14/compass-to-cut-about-10-of-workforce-amid-us-housing-slowdown#xj4y7vzkg,Post-IPO,1600,"United States",2022-06-14
+Compete,"Tel Aviv",11,2022-09-12,0.28,HR,https://www.calcalistech.com/ctechnews/article/rkzqei2gi,"Series A",17,Israel,2022-09-13
+ComplYant,"Los Angeles",NULL,2024-04-29,1,Finance,https://www.businessinsider.com/tax-compliance-startup-raised-millions-then-it-abruptly-shut-down-2024-4,Seed,6,"United States",2024-04-30
+Confluent,"SF Bay Area",221,2023-01-26,0.08,Data,https://investors.confluent.io/node/8216/html,Post-IPO,455,"United States",2023-01-26
+Conga,Denver,NULL,2020-06-15,0.11,Data,https://layoffs.fyi/2020/06/23/conga-lays-off-11-following-merger-with-apptus/,Acquired,117,"United States",2020-06-23
+Connected,"Toronto,Non-U.S.",17,2020-04-08,0.1,Product,https://layoffs.fyi/2020/04/13/connected-laid-off-17-employees/,Unknown,NULL,Canada,2020-04-11
+ConnectedH,"Gurugram,Non-U.S.",NULL,2023-08-02,1,Healthcare,https://inc42.com/buzz/kalaari-backed-connectedh-shuts-shop-to-return-capital-to-investors/,Seed,2,India,2023-08-03
+ConsenSys,"New York City",100,2023-01-10,0.11,Crypto,https://www.coindesk.com/business/2023/01/10/ethereum-software-firm-consensys-to-cut-upwards-of-100-staff-as-crypto-bear-market-takes-another-casualty/,"Series D",726,"United States",2023-01-10
+ConsenSys,"New York City",163,2024-10-29,0.2,Crypto,https://decrypt.co/288832/ethereum-giant-consensys-layoffs-eth-slump,"Series D",726,"United States",2024-10-30
+ConsenSys,"New York City",47,2025-07-22,0.07,Crypto,https://www.bloomberg.com/news/articles/2025-07-22/crypto-software-firm-consensys-eliminates-about-7-of-workforce,"Series D",726,"United States",2025-07-22
+ConsenSys,"New York City",91,2020-04-20,0.14,Crypto,https://www.coindesk.com/new-layoffs-hit-ethereum-incubator-consensys,Unknown,10,"United States",2020-04-21
+Consider.co,"SF Bay Area",13,2020-03-26,1,Other,https://www.consider.co/,Seed,5,"United States",2020-03-28
+ContaAzul,"Joinville,Non-U.S.",140,2020-04-17,0.35,Education,https://www.contxto.com/en/brazil/startups-brazil-confirm-layoffs-covid-cause/,"Series D",37,Brazil,2020-04-27
+ContraFect,"New York City",16,2022-08-15,0.37,Healthcare,https://www.benzinga.com/general/biotech/22/08/28497436/contrafect-cuts-workforce-after-trial-setback,Post-IPO,380,"United States",2022-08-16
+Convene,"New York City",150,2020-03-23,0.18,"Real Estate",https://layoffs.fyi/2020/04/08/convene-laid-off-150-employees/,"Series D",280,"United States",2020-03-28
+Convoy,Seattle,NULL,2020-04-23,0.01,Logistics,https://www.geekwire.com/2020/convoy-leans-technology-seattle-digital-freight-startup-navigates-volatile-trucking-industry/,"Series D",665,"United States",2020-04-30
+Convoy,Seattle,30,2023-06-26,0.05,Logistics,https://www.geekwire.com/2023/trucking-marketplace-convoy-makes-more-layoffs-citing-customer-service-efficiency-gains/,"Series E",1100,"United States",2023-06-27
+Convoy,Seattle,500,2023-10-19,1,Logistics,https://www.geekwire.com/2023/convoy-collapse-read-ceos-memo-detailing-sudden-shutdown-of-seattle-trucking-startup/,"Series E",1100,"United States",2023-10-19
+Convoy,Seattle,90,2022-06-09,0.07,Logistics,https://www.geekwire.com/2022/convoy-which-just-raised-260m-lays-off-7-of-workforce-in-latest-tech-startup-cuts/,"Series E",1100,"United States",2022-06-10
+Cookpad,"Tokyo,Non-U.S.",80,2023-03-10,NULL,Consumer,https://www.nikkei.com/article/DGXZQOUC109F70Q3A310C2000000/,Unknown,NULL,Japan,2023-03-15
+Copia,"Nairobi,Non-U.S.",1060,2024-06-06,NULL,Retail,https://techcabal.com/2024/06/06/copia-layoffs-kenya/,"Series C",103,Kenya,2024-06-10
+Copia,"Nairobi,Non-U.S.",350,2023-07-26,0.25,Retail,https://techcabal.com/2023/07/26/copia-lays-off-350-employees/,"Series C",103,Kenya,2023-07-26
+Copper,"London,Non-U.S.",NULL,2023-03-22,0.15,Crypto,https://www.coindesk.com/business/2023/03/22/copper-to-make-up-to-15-of-staff-redundant-focus-on-custody-settlement/,"Series C",281,"United Kingdom",2023-07-05
+Copper,"SF Bay Area",35,2020-04-02,NULL,Marketing,LinkedIn,"Series C",102,"United States",2020-04-07
+"Core Scientific",Austin,NULL,2022-08-12,0.1,Crypto,https://blockworks.co/crypto-miner-core-scientific-downsizing-after-840m-impairment-charge/,Post-IPO,169,"United States",2022-08-12
+Cornershop,"Santiago,Non-U.S.",200,2024-04-10,NULL,Food,https://dfmas.df.cl/df-mas/coffee-break/uber-chile-despide-a-200-personas,Acquired,32,Chile,2024-04-12
+Cornershop,"Santiago,Non-U.S.",250,2023-05-11,0.11,Food,https://www.bloomberg.com/news/articles/2023-05-11/uber-owned-online-grocer-cornershop-eliminates-11-of-staff#xj4y7vzkg?leadSource=uverify%20wall,Acquired,31,Chile,2023-05-12
+"Corvus Insurance",Boston,NULL,2023-01-24,0.14,Finance,https://www.bizjournals.com/boston/inno/stories/news/2023/01/25/corvus-layoffs-us-europe.html,"Series C",160,"United States",2023-01-25
+"Coterie Insurance",Cincinnati,30,2022-05-25,0.2,Finance,https://www.bizjournals.com/cincinnati/inno/stories/news/2022/05/27/cincinnati-tech-startup-coterie-cuts-downs.html,"Series B",70,"United States",2022-05-27
+"Course Hero","SF Bay Area",NULL,2023-12-05,0.25,Education,https://www.linkedin.com/posts/coursehero_course-hero-alumni-talent-activity-7137848787347132416-q9KI/,"Series C",477,"United States",2023-12-08
+"Course Hero","SF Bay Area",42,2023-03-16,0.15,Education,https://techcrunch.com/2023/03/16/course-hero-edtech-unicorn-last-valued-at-3-6-billion-conducts-layoffs/,"Series C",477,"United States",2023-03-16
+Coursera,"SF Bay Area",150,2024-10-25,0.1,Education,https://www.classcentral.com/report/cousera-layoffs-2024/,Post-IPO,458,"United States",2024-10-31
+Cova,"Lagos,Non-U.S.",NULL,2024-01-25,1,Finance,https://techpoint.africa/2024/01/25/techpoint-digest-756/,Unknown,NULL,Nigeria,2024-01-26
+CoverMyMeds,Columbus,800,2023-03-29,NULL,Healthcare,https://www.dispatch.com/story/business/information-technology/2023/03/29/covermymeds-latest-columbus-tech-firm-to-lay-off-hundreds/70059386007/,Acquired,5,"United States",2023-03-29
+Cowbell,"SF Bay Area",28,2023-09-29,0.12,Finance,https://cowbell.insure/blog/letter-from-the-ceo/,"Series B",123,"United States",2023-10-02
+Crayon,Boston,20,2020-04-01,0.2,Marketing,LinkedIn,"Series A",16,"United States",2020-04-07
+"Credit Sesame","SF Bay Area",22,2020-06-03,0.14,Finance,https://www.businessinsider.com/credit-sesame-layoffs-credit-business-trouble-2020-6,"Series F",120,"United States",2020-06-04
+Creditas,"Sao Paulo,Non-U.S.",NULL,2020-04-08,0.06,Finance,"https://link.estadao.com.br/noticias/inovacao,onda-de-demissoes-em-startups-atinge-getninjas-creditas-e-omie,70003263878","Series D",314,Brazil,2020-04-12
+Crejo.Fun,"Bengaluru,Non-U.S.",170,2022-06-30,1,Education,https://inc42.com/buzz/exclusive-matrix-backed-edtech-startup-crejo-fun-shuts-down/,Seed,3,India,2022-07-01
+Criteo,"Paris,Non-U.S.",140,2024-04-12,0.04,Marketing,https://www.businessinsider.com/criteo-layoffs-global-staff-job-reductions-2024-4,Post-IPO,61,France,2024-04-12
+Crossbeam,Philadelphia,17,2023-03-30,0.15,Sales,"https://technical.ly/startups/crossbeam-layoffs-2023/ ","Series C",116,"United States",2023-06-01
+CrowdStreet,Portland,24,2020-06-01,0.22,"Real Estate",https://www.oregonlive.com/silicon-forest/2020/06/crowdstreet-portland-real-estate-funding-startup-lays-off-a-fifth-of-its-staff.html,"Series C",24,"United States",2020-06-02
+CrowdStrike,"SF Bay Area",500,2025-05-07,0.05,Security,https://www.wsj.com/business/crowdstrike-to-cut-5-of-workforce-8eda42ed?st=dVSJCS&reflink=desktopwebshare_permalink,Post-IPO,1200,"United States",2025-05-07
+Cruise,"SF Bay Area",1000,2025-02-04,0.5,Transportation,https://techcrunch.com/2025/02/04/cruise-to-slash-workforce-by-50-after-gm-cuts-funding-to-robotaxi-operations/,Acquired,15000,"United States",2025-02-04
+Cruise,"SF Bay Area",150,2020-05-14,0.08,Transportation,https://www.theverge.com/2020/5/14/21259001/cruise-gm-layoff-self-driving-unit-recruiting-product-design,Acquired,5300,"United States",2020-05-14
+Cruise,"SF Bay Area",900,2023-12-14,0.24,Transportation,https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/,Acquired,15000,"United States",2023-12-14
+Crunchyroll,"Tokyo,Non-U.S.",85,2023-02-21,NULL,Media,https://www.animenewsnetwork.com/news/2023-02-21/crunchyroll-lays-off-approximately-85-employees-globally/.195161,Unknown,26,Japan,2023-02-22
+Crypto.com,"Singapore,Non-U.S.",NULL,2023-01-12,0.2,Crypto,https://www.coindesk.com/business/2023/01/13/cryptocom-cuts-workforce-by-nearly-20/,Unknown,NULL,Singapore,2023-01-13
+Crypto.com,"Singapore,Non-U.S.",2000,2022-10-06,0.3,Crypto,https://www.techinasia.com/cryptocom-lays-2000-employees-dials-marketing-efforts,Unknown,156,Singapore,2022-10-07
+Crypto.com,"Singapore,Non-U.S.",260,2022-06-10,0.05,Crypto,https://blockworks.co/crypto-com-cutting-5-of-workforce-amid-digital-asset-downturn/,Unknown,156,Singapore,2022-06-11
+"CS Disco",Austin,NULL,2023-05-11,0.08,Legal,https://www.law360.com/pulse/legal-tech/articles/1606941/legal-tech-co-disco-cuts-staff-8-in-2nd-round-of-layoffs,Post-IPO,233,"United States",2023-05-12
+"CS Disco",Austin,62,2023-01-19,0.09,Legal,https://d18rn0p25nwr6d.cloudfront.net/CIK-0001625641/f8a9ad04-6c29-4631-b07d-b08d849fbcfa.pdf,Post-IPO,233,"United States",2023-01-21
+CTO.ai,"Vancouver,Non-U.S.",30,2020-03-20,0.5,Infrastructure,LinkedIn,Seed,7,Canada,2020-04-02
+Cue,"San Diego",170,2022-06-27,NULL,Healthcare,https://www.genomeweb.com/business-news/cue-health-lay-170-people#.YrpDa-zML9t,Post-IPO,999,"United States",2022-06-27
+Cue,"San Diego",388,2023-01-05,NULL,Healthcare,https://www.360dx.com/business-news/cue-health-lay-388-people-cost-reduction-plan#.Y7iqquzMK8A,Post-IPO,999,"United States",2023-01-06
+"Cue Health","San Diego",180,2024-05-22,1,Healthcare,https://www.fiercebiotech.com/medtech/home-covid-testmaker-cue-health-shut-down-operations-lay-staff-report,Post-IPO,899,"United States",2024-05-23
+"Cue Health","San Diego",230,2024-05-03,0.49,Healthcare,https://www.beckershospitalreview.com/digital-health/health-tech-company-lays-off-49-of-workforce.html,Post-IPO,899,"United States",2024-05-04
+"Cue Health","San Diego",245,2024-02-02,0.3,Healthcare,https://www.sandiegouniontribune.com/business/story/2024-02-02/cue-health-lays-off-more-than-30-percent-of-its-global-workforce,Post-IPO,899,"United States",2024-02-05
+"Cue Health","San Diego",326,2023-04-28,0.3,Healthcare,https://www.sec.gov/Archives/edgar/data/1628945/000162894523000085/hlth-20230428.htm,Post-IPO,899,"United States",2023-05-01
+"Cue Health","San Diego",94,2024-01-05,0.13,Healthcare,https://www.360dx.com/business-news/cue-health-lays-94-people-fda-declines-grant-covidflu-test-eua,Post-IPO,899,"United States",2024-01-07
+Cuemath,"Bengaluru,Non-U.S.",100,2023-05-08,NULL,Education,https://entrackr.com/2023/05/cuemath-lays-off-around-100-employees/,Unknown,121,India,2023-05-08
+Cuemath,"Bengaluru,Non-U.S.",100,2023-08-26,NULL,Education,https://inc42.com/buzz/edtech-startup-cuemath-fires-another-100-employees-to-cut-costs/,Unknown,121,India,2023-08-27
+Cult.fit,"Bengaluru,Non-U.S.",100,2024-01-24,NULL,Fitness,https://economictimes.indiatimes.com/tech/startups/zomato-backed-fitness-startup-cult-fit-lays-off-over-100-employees/articleshow/107089694.cms?from=mdr,"Series F",635,India,2024-04-12
+"Culture Amp","Melbourne,Non-U.S.",36,2020-05-28,0.08,HR,https://www.smh.com.au/business/small-business/tech-unicorn-culture-amp-lays-off-staff-as-growth-halves-20200528-p54x9d.html,"Series E",157,Australia,2020-05-28
+"Culture Amp","Melbourne,Non-U.S.",90,2023-04-18,0.09,HR,https://www.startupdaily.net/topic/business/hr-unicorn-culture-amp-is-the-latest-tech-company-to-shed-jobs-cutting-90-roles/,"Series F",257,Australia,2023-04-19
+"Culture Trip","London,Non-U.S.",95,2020-05-01,0.32,Media,https://www.businessinsider.com/culture-trip-layoffs-2020-5?,"Series B",102,"United Kingdom",2020-05-01
+Curalie,"Berlin,Non-U.S.",NULL,2023-12-14,1,Healthcare,https://www.msn.com/de-de/finanzen/top-stories/fresenius-aktie-gibt-nach-fresenius-stampft-digitaltochter-curlie-ein/ar-AA1lxOnW,Unknown,NULL,Germany,2024-01-02
+Curative,"Los Angeles",109,2022-09-20,NULL,Healthcare,https://digitalhealth.modernhealthcare.com/finance/startup-curative-health-lays-109,Seed,8,"United States",2022-09-21
+Cure.fit,"Bengaluru,Non-U.S.",120,2024-01-23,NULL,Fitness,https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/technology/zomato-backed-cult-fit-fires-150-employees-to-lower-cash-burn-12110751.html,"Series F",625,India,2024-01-23
+Curefit,"Bengaluru,Non-U.S.",120,2020-07-17,NULL,Fitness,https://tech.economictimes.indiatimes.com/news/internet/curefit-cuts-jobs-furloughs-600-staff-in-second-round-of-layoffs-as-business-suffers-amid-lockdown/77013891,"Series D",405,India,2020-07-17
+Curefit,"Bengaluru,Non-U.S.",800,2020-05-04,0.16,Fitness,https://www.reuters.com/article/us-curefit-jobs/fitness-group-cure-fit-lays-off-employees-mulls-all-digital-move-sources-idUSKBN22G1WI,"Series D",404,India,2020-05-04
+Curology,"SF Bay Area",150,2022-03-16,NULL,Healthcare,https://www.bizjournals.com/sanfrancisco/news/2022/03/16/curology-skincare-sf-layoffs-funding-dtc.html,"Series D",19,"United States",2022-03-18
+Curve,"London,Non-U.S.",65,2022-06-01,0.1,Finance,https://www.altfi.com/article/9332_exclusive-curve-joins-klarna-in-mass-jobs-cut,"Series C",182,"United Kingdom",2022-06-02
+Cushion,"SF Bay Area",NULL,2025-01-30,1,Finance,https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/,"Series A",20,"United States",2025-02-02
+Cvent,"Washington D.C.",400,2020-05-21,0.1,Marketing,https://www.eventmanagerblog.com/cvent-layoffs,Acquired,146,"United States",2020-05-22
+Cybereason,Boston,100,2022-06-01,0.06,Security,https://www.calcalistech.com/ctechnews/article/s1zg60v005,"Series F",750,"United States",2022-06-01
+Cybereason,Boston,200,2022-10-26,0.17,Security,https://www.calcalistech.com/ctechnews/article/sjspj00uvs,"Series F",750,"United States",2022-10-26
+CyberProof,"Los Angeles",NULL,2024-07-10,0.07,Security,https://www.calcalistech.com/ctechnews/article/h1nrv0odr,Subsidiary,NULL,"United States",2024-07-11
+CyCognito,"SF Bay Area",30,2022-12-08,0.15,Security,https://www.calcalistech.com/ctechnews/article/h1suse100s,"Series C",153,"United States",2022-12-09
+Cypress.io,Atlanta,11,2024-06-14,NULL,Product,https://www.cypress.io/blog/2024/06/13/update-on-cypresss-workforce,"Series B",54,"United States",2024-06-19
+Cyren,"Washington D.C.",121,2023-02-01,NULL,Security,https://ir.cyren.com/websites/cyren/English/5015/press-release.html?airportNewsID=631c3a77-555f-4a78-be5b-ec30c5cdaaac,Post-IPO,161,"United States",2023-02-02
+"Cyteir Therapeutics",Boston,NULL,2023-01-20,0.7,Healthcare,https://www.fiercebiotech.com/biotech/cyteir-lays-70-workforce-after-further-narrowing-cancer-drug-goals,"Series C",156,"United States",2023-01-21
+D-ID,"Tel Aviv,Non-U.S.",22,2025-03-10,0.25,AI,https://www.calcalistech.com/ctechnews/article/bjrzoinjjg,"Series B",48,Israel,2025-03-12
+D2iQ,"SF Bay Area",NULL,2023-12-08,1,Infrastructure,https://www.theinformation.com/articles/a16z-backed-startup-that-once-rejected-150m-sale-to-microsoft-shuts-down?shared=e532b505170fc244,"Series D",247,"United States",2023-12-10
+D2iQ,"SF Bay Area",34,2020-04-03,0.13,Infrastructure,https://www.businessinsider.com/d2iq-mesosphere-layoffs-34-coronavirus-crisis-2020-4,"Series D",247,"United States",2020-04-22
+D2L,"Waterloo,Non-U.S.",NULL,2022-11-16,0.05,Education,https://www.d2l.com/newsroom/a-note-from-d2l-leadership/,Post-IPO,168,Canada,2022-11-17
+"Daily Harvest","New York City",NULL,2022-08-08,0.15,Food,https://fortune.com/2022/08/08/daily-harvest-layoffs-lentil-crumbles-recall/,"Series D",120,"United States",2022-08-10
+"Daily Harvest","New York City",60,2022-02-10,0.2,Food,https://www.bloomberg.com/news/articles/2023-02-10/meal-startup-daily-harvest-layoffs-target-more-than-20-of-staff#xj4y7vzkg,"Series D",120,"United States",2023-02-10
+DailyPay,"New York City",NULL,2022-08-09,0.15,Finance,"Internal memo",Unknown,814,"United States",2022-08-10
+Daloopa,"New Delhi,Non-U.S.",40,2022-05-27,NULL,Data,https://www.moneycontrol.com/news/business/daloopa-lays-off-40-employees-noida-8620121.html,"Series A",23,India,2022-06-02
+Dance,"Berlin,Non-U.S.",NULL,2022-11-16,0.16,Transportation,https://www.linkedin.com/feed/update/activity:6998722842930356225/,Unknown,63,Germany,2022-11-17
+"Daniel Wellington","Stockholm,Non-U.S.",200,2022-06-09,0.15,Retail,https://www.breakit.se/artikel/33347/stora-nedskarningar-pa-daniel-wellington-200-personer-sags-upp,Unknown,NULL,Sweden,2022-07-25
+"Dapper Labs",Vancouver,51,2023-07-12,NULL,Crypto,https://twitter.com/roham/status/1679301700669296640,Unknown,NULL,Canada,2023-07-13
+"Dapper Labs","Vancouver,Non-U.S.",NULL,2023-02-23,0.2,Crypto,https://www.theblock.co/post/214755/dapper-labs-said-to-lay-off-20-more-of-its-full-time-employees,"Series D",607,Canada,2023-02-23
+"Dapper Labs","Vancouver,Non-U.S.",134,2022-11-02,0.22,Crypto,https://betakit.com/dapper-labs-lays-off-22-percent-of-staff/,"Series D",607,Canada,2022-11-03
+Daraz,"Singapore,Non-U.S.",NULL,2023-02-06,0.11,Retail,https://propakistani.pk/2023/02/06/daraz-to-layoff-11-workforce-due-to-extremely-difficult-market-conditions/,Unknown,NULL,Singapore,2023-02-06
+Dark,"SF Bay Area",6,2020-06-23,1,Product,https://layoffs.fyi/2020/06/29/programming-service-dark-releases-layoff-list/,Seed,3,"United States",2020-06-29
+Dash,"New York City",NULL,2023-10-06,1,Finance,https://weetracker.com/2023/10/06/dash-african-fintech-scandal/,Unknown,86,"United States",2023-10-08
+Dastgyr,"Karachi,Non-U.S.",NULL,2024-01-12,0.8,Retail,https://wetalkstartups.com/2024/01/dastgyr-has-reportedly-laid-off-80-workforce/,"Series A",41,Pakistan,2024-01-18
+Dataminr,"New York City",150,2023-11-28,0.2,AI,https://techcrunch.com/2023/11/28/dataminr-the-4b-big-data-startup-is-laying-off-20-of-staff-today-or-150-people-as-it-preps-to-double-down-on-ai/,"Series F",1100,"United States",2023-11-28
+DataRails,"Tel Aviv,Non-U.S.",30,2022-12-05,0.18,Finance,https://www.calcalistech.com/ctechnews/article/s1ka1tjvj,"Series B",103,Israel,2022-12-06
+DataRobot,Boston,NULL,2022-08-23,0.26,Data,https://www.theinformation.com/briefings/datarobot-lays-off-26-as-business-challenges-mount,"Series G",1000,"United States",2022-08-23
+DataRobot,Boston,200,2020-03-27,NULL,Data,https://www.americaninno.com/boston/inno-news-boston/datarobot-cuts-workforce-as-coronavirus-roils-the-startup-economy/,"Series E",430,"United States",2020-03-28
+DataRobot,Boston,70,2022-05-11,0.07,Data,https://www.theinformation.com/briefings/ai-startup-datarobot-lays-off-7-in-cost-cutting-move,"Series G",1000,"United States",2022-05-11
+DataStax,"SF Bay Area",15,2020-04-14,NULL,Data,https://www.businessinsider.com/967-million-datastax-april-layoffs-third-cuts-under-ceo-kapoor-2020-4,"Series E",190,"United States",2020-04-15
+Datera,"SF Bay Area",NULL,2020-05-18,0.1,Infrastructure,https://blocksandfiles.com/2020/05/18/datera-funding-round-layoffs/,"Series C",63,"United States",2020-05-18
+Datree,"SF Bay Area",NULL,2023-07-27,1,Other,https://www.linkedin.com/feed/update/urn:li:activity:7090315185344716800/,Seed,11,"United States",2023-07-30
+Dayforce,"Toronto,Non-U.S.",NULL,2025-02-26,0.05,HR,https://www.marketwatch.com/story/dayforce-to-cut-about-5-of-workforce-in-efficiency-drive-2eabda38?mod=investing,Post-IPO,40,Canada,2025-02-28
+Daylight,"Los Angeles",NULL,2023-05-22,1,Finance,https://techcrunch.com/2023/05/22/daylight-the-lgbtq-neobank-calls-it-quits/,"Series A",20,"United States",2023-10-26
+DayTwo,"SF Bay Area",NULL,2024-08-13,1,Healthcare,https://www.calcalistech.com/ctechnews/article/rk4fbrd9c,"Series B",90,"United States",2024-08-14
+Dazn,"London,Non-U.S.",50,2022-05-26,0.02,Consumer,https://deadline.com/2022/05/dazn-50-roles-redundant-london-1235033389/,Unknown,NULL,"United Kingdom",2022-06-11
+"dbt Labs",Philadelphia,NULL,2023-05-18,0.15,Data,https://www.getdbt.com/blog/dbt-labs-update-a-message-from-ceo-tristan-handy/,"Series D",414,"United States",2023-05-18
+Deadspin,"New York City",11,2024-03-11,1,Media,https://variety.com/2024/digital/news/deadspin-staff-laid-off-site-sold-1235938325/,Acquired,NULL,"United States",2024-03-11
+DealShare,"Bengaluru,Non-U.S.",100,2023-01-27,0.06,Retail,https://www.moneycontrol.com/news/business/startup/tiger-global-backed-dealshare-lays-off-6-of-staff-9949751.html,"Series E",390,India,2023-01-27
+DealShare,"Bengaluru,Non-U.S.",130,2023-09-21,NULL,Retail,https://yourstory.com/2023/09/dealshare-shuts-b2b-business-lays-off-employees,"Series E",390,India,2023-09-24
+Dealtale,"Tel Aviv,Non-U.S.",70,2023-08-09,1,Sales,https://www.calcalistech.com/ctechnews/article/rkn8dlz32,Acquired,2,Israel,2023-08-11
+"Deep Instict","New York City",46,2023-07-25,0.15,Security,https://www.calcalistech.com/ctechnews/article/sj5p0va9n,Unknown,322,"United States",2023-07-26
+"Deep Instinct","New York City",NULL,2022-06-06,0.1,Security,https://news.crunchbase.com/job-market/cybersecurity-tech-layoffs-deep-instinct/,"Series D",259,"United States",2022-06-09
+"Deep Instinct","Tel Aviv,Non-U.S.",20,2025-05-04,0.1,Security,https://www.calcalistech.com/ctechnews/article/bjfqkgbglx,Unknown,322,Israel,2025-05-05
+Deepgram,"SF Bay Area",20,2023-10-11,0.2,AI,https://www.theinformation.com/articles/ai-startup-lays-off-workers-again-in-fresh-sign-of-sector-belt-tightening,"Series B",86,"United States",2023-10-12
+DeepVerge,"Dublin,Non-U.S.",50,2023-07-12,1,Healthcare,https://www.standard.co.uk/business/life-science-ai-firm-deepverge-lays-off-staff-tech-collapse-jobs-redundancy-skin-water-technology-b1093932.html,Post-IPO,20,Ireland,2023-07-13
+Deepwatch,"Tampa Bay",30,2023-07-13,0.07,Security,https://www.deepwatch.com/blog/a-message-from-deepwatchs-ceo/,"Series C",256,"United States",2023-07-14
+"Definitive Healthcare",Boston,55,2023-01-12,0.06,Healthcare,https://www.cmlviz.com/stocks/DH/news/b/2023/01/12/definitive-healthcare-to-cut-current-workforce-by-about-55-people,Post-IPO,NULL,"United States",2023-01-13
+Degreed,"SF Bay Area",NULL,2022-06-29,0.15,Education,https://www.linkedin.com/posts/degreed_a-note-from-degreed-ceo-david-blake-transparency-activity-6947962317351395328-Xzw7/,"Series D",411,"United States",2022-06-29
+DeHaat,"Patna,Non-U.S.",NULL,2023-01-15,0.05,Food,https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/layoffs-spread-to-dunzo-sharechat-rebel-foods-and-agri-tech-firms/articleshow/97016331.cms?from=mdr,"Series E",254,India,2023-01-16
+Deliv,"SF Bay Area",669,2020-05-13,1,Retail,https://www.mercurynews.com/2020/05/15/ccalifornia-unemployment-layoff-rock-delivery-startup-ymca-uber-ross-ui-edd-tech-job-economy/,"Series C",80,"United States",2020-05-07
+Deliveroo,"London,Non-U.S.",350,2023-02-09,0.09,Food,https://news.sky.com/story/deliveroo-to-cut-hundreds-of-jobs-globally-and-uk-to-be-worst-hit-12806890,Post-IPO,1700,"United Kingdom",2023-02-09
+Deliveroo,"London,Non-U.S.",367,2020-04-28,0.15,Food,https://layoffs.fyi/2020/06/24/deliveroo-layoff-list-showcases-over-100-of-its-global-employees/,"Series G",1500,"United Kingdom",2020-04-28
+"Deliveroo Australia","Melbourne,Non-U.S.",120,2022-11-15,1,Food,https://www.abc.net.au/news/2022-11-16/deliveroo-enters-voluntary-administration/101661932,Post-IPO,1700,Australia,2022-11-17
+"Delivery Hero","Berlin,Non-U.S.",100,2022-11-03,NULL,Food,https://mobile.twitter.com/GergelyOrosz/status/1588220445039497222,Post-IPO,8300,Germany,2022-11-05
+"Delivery Hero","Berlin,Non-U.S.",156,2023-01-30,0.04,Food,https://newsingermany.com/delivery-hero-lays-off-four-percent-of-employees-at-headquarters/,Post-IPO,9900,Germany,2023-01-31
+"Delivery Hero","Berlin,Non-U.S.",200,2024-07-31,NULL,Food,https://www.bloomberg.com/news/articles/2024-07-31/delivery-hero-to-combine-european-and-asian-businesses-cut-jobs,Post-IPO,9900,Germany,2024-08-06
+"Delivery Hero","Berlin,Non-U.S.",300,2021-12-22,NULL,Food,https://www.businessinsider.de/gruenderszene/food/nach-foodpanda-aus-delivery-hero-kuendigt-300-mitarbeitern-b/,Post-IPO,8300,Germany,2021-12-30
+Dell,Austin,6000,2024-03-25,0.05,Hardware,https://siliconangle.com/2024/03/25/dell-reduces-global-workforce-around-6000-jobs/,Post-IPO,NULL,"United States",2024-03-27
+Dell,Austin,6650,2023-02-06,0.05,Hardware,https://www.bloomberg.com/news/articles/2023-02-06/dell-dell-lays-off-about-6-650-employees-in-latest-tech-cuts#xj4y7vzkg,Post-IPO,NULL,"United States",2023-02-06
+Demandbase,"SF Bay Area",27,2022-09-07,0.03,Sales,"Internal memo","Series H",143,"United States",2022-09-09
+Deputy,"Sydney,Non-U.S.",60,2020-05-04,0.3,HR,https://www.afr.com/young-rich/young-rich-lister-shifts-gears-to-survive-20200403-p54gty,"Series B",106,Australia,2020-05-18
+"Descartes Labs","Santa Fe",12,2020-06-02,0.16,Data,https://www.santafenewmexican.com/news/local_news/descartes-labs-seeks-750-000-state-loan-to-make-lease-payments/article_b0f7eeaa-a4e6-11ea-8b9a-f34e580504e1.html,"Series B",58,"United States",2020-06-03
+"Desktop Metal",Boston,NULL,2022-06-13,0.12,Other,https://www.marketwatch.com/amp/story/desktop-metal-to-lay-off-about-12-of-workforce-271655121739,Post-IPO,811,"United States",2022-06-13
+"Desktop Metal",Boston,NULL,2024-01-24,0.2,Other,https://ir.desktopmetal.com/news/press-releases/detail/175/desktop-metal-intensifies-cost-reduction-plan-and-ongoing,Post-IPO,811,"United States",2024-01-25
+Detectify,"Stockholm,Non-U.S.",30,2023-08-18,NULL,Security,https://www.breakit.se/artikel/37377/sakrade-kapital-nu-far-annu-fler-ga-fran-detectify,Unknown,42,Sweden,2023-10-23
+Devo,Boston,NULL,2022-11-21,0.15,Security,https://tekdeeps.com/the-unicorn-devo-lays-off-15-of-its-global-team/,"Series F",481,"United States",2022-12-13
+"Dextrous Robotics",Memphis,NULL,2024-01-11,1,Logistics,https://www.therobotreport.com/dextrous-robotics-shuts-down/,Unknown,NULL,"United States",2024-01-12
+"DHI Group","New York City",53,2023-05-26,0.1,Recruiting,https://aimgroup.com/2023/05/26/dhi-group-to-cut-workforce-by-10/,Post-IPO,NULL,"United States",2023-06-06
+DialSource,Sacramento,5,2020-03-31,0.14,Marketing,"Company executive","Series B",26,"United States",2020-04-07
+Digimarc,Portland,90,2025-02-27,0.4,Other,https://www.oregonlive.com/silicon-forest/2025/02/digimarc-shares-plunge-as-oregon-company-lays-off-40-of-its-staff.html,Post-IPO,105,"United States",2025-03-05
+"Digital Currency Gruop",Stamford,10,2022-11-02,0.13,Crypto,https://www.coindesk.com/business/2022/11/02/digital-currency-group-promotes-mark-murphy-to-president-cuts-nearly-13-staff-report/,Unknown,NULL,"United States",2022-11-03
+"Digital River",Minneapolis,122,2025-01-28,NULL,Retail,https://www.startribune.com/digital-river-ecommerce-close-layoff-shut-down-microsoft-online-shop/601213069,"Private Equity",50,"United States",2025-02-02
+"Digital Surge","Brisbane,Non-U.S.",NULL,2022-12-09,1,Crypto,https://www.9news.com.au/technology/australian-cryptocurrency-exchange-digital-surge-collapses-into-administration/ebbeb40c-6310-4250-b123-600bc6755cc5,Unknown,NULL,Australia,2022-12-11
+DigitalOcean,"New York City",200,2023-02-15,0.11,Infrastructure,https://www.theregister.com/2023/02/15/digitalocean_layoffs/,Post-IPO,491,"United States",2023-02-15
+DISCO,Austin,75,2020-03-27,NULL,Legal,https://www.americaninno.com/austin/inno-news/layoffs-at-fast-rising-austin-startup-disco/,"Series E",133,"United States",2020-03-28
+Discord,"SF Bay Area",170,2024-01-11,0.17,Consumer,https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees,"Series H",995,"United States",2024-01-11
+Discord,"SF Bay Area",37,2023-08-03,0.04,Consumer,https://www.theinformation.com/briefings/discord-lays-off-4-of-workforce,"Series H",995,"United States",2023-08-04
+Dispatch,Boston,NULL,2020-04-17,0.38,Other,https://www.americaninno.com/boston/inno-news-boston/boston-startup-dispatch-announces-layoffs-amid-coronavirus-disruption/,"Series A",18,"United States",2020-04-19
+DispatchHealth,Denver,88,2024-01-29,NULL,Healthcare,https://homehealthcarenews.com/2024/01/layoffs-hit-at-home-care-innovator-dispatchhealth/,"Series E",733,"United States",2024-01-30
+"Divergent 3D","Los Angeles",57,2020-04-24,0.36,Transportation,https://techcrunch.com/2020/04/24/manufacturing-startup-divergent-3d-reduces-staff-by-one-third/,"Series B",88,"United States",2020-04-24
+"Divvy Homes","SF Bay Area",NULL,2020-03-25,0.08,"Real Estate",https://www.teamblind.com/post/Corona-based-layoffs-tracker-sHaHz6KO,"Series B",180,"United States",2020-03-30
+"Divvy Homes","SF Bay Area",40,2022-09-27,0.12,"Real Estate",https://www.theinformation.com/articles/andreessen-backed-divvy-homes-lays-off-12-of-staff-as-rates-rise,"Series B",180,"United States",2022-09-28
+"Divvy Homes","SF Bay Area",94,2023-09-11,NULL,"Real Estate",https://techcrunch.com/2023/09/11/divvy-homes-goes-from-2b-valuation-to-third-layoff-in-a-year/,"Series B",180,"United States",2023-09-09
+divvyDOSE,Davenport,62,2022-05-06,NULL,Healthcare,https://qctimes.com/business/local/online-pharmacy-that-said-it-would-add-200-300-jobs-lays-off-62-davenport-workers/article_15603279-2b4e-5f43-b452-123c5fd3f7a9.html,Acquired,0,"United States",2022-05-14
+Dock,"Sao Paulo,Non-U.S.",190,2022-11-07,0.12,Finance,https://www.infomoney.com.br/negocios/exclusivo-startup-dock-nao-passa-ilesa-e-faz-demissao-em-massa/,"Private Equity",280,Brazil,2022-11-08
+Docker,"SF Bay Area",NULL,2024-10-29,0.1,Infrastructure,"Internal memo","Series C",436,"United States",2024-10-30
+Docly,"London,Non-U.S.",8,2020-08-19,0.8,Healthcare,https://sifted.eu/articles/docly-slash-in-uk/,Seed,16,"United Kingdom",2020-08-20
+DocuSign,"SF Bay Area",440,2024-02-06,0.06,Sales,https://www.cnbc.com/2024/02/06/docusign-to-lay-off-6percent-of-workforce-or-about-440-jobs.html,Post-IPO,536,"United States",2024-02-06
+DocuSign,"SF Bay Area",671,2022-09-28,0.09,Sales,https://www.sfgate.com/news/article/san-francisco-tech-company-docusign-layoffs-17473918.php,Post-IPO,536,"United States",2022-09-28
+DocuSign,"SF Bay Area",680,2023-02-16,0.1,Sales,https://www.cnbc.com/2023/02/16/docusign-layoffs-company-to-cut-10percent-of-workforce.html,Post-IPO,536,"United States",2023-02-16
+Doma,"SF Bay Area",250,2022-08-04,0.13,Finance,https://www.inman.com/2022/08/19/doma-announces-more-layoffs-as-cumulative-losses-top-300m/amp/,Post-IPO,679,"United States",2022-08-05
+Doma,"SF Bay Area",310,2022-05-10,0.15,Finance,https://www.housingwire.com/articles/doma-lays-off-15-of-work-force-as-q1-revenue-declines/,Post-IPO,679,"United States",2022-05-12
+Doma,"SF Bay Area",515,2022-12-06,0.4,Finance,https://investor.doma.com/node/8161/html,Post-IPO,679,"United States",2022-12-07
+Domestika,"Madrid,Non-U.S.",89,2023-03-31,0.45,Education,https://www.lavanguardia.com/economia/20230331/8869692/domestika-prepara-ere-despedir-89-personas-espana.html,"Series D",130,Spain,2023-04-01
+Domestika,"SF Bay Area",150,2022-04-28,0.19,Education,https://www.epe.es/es/economia/20220428/domestika-tecnologica-despidos-ere-encubierto-13576187,"Series D",130,"United States",2022-07-25
+"Domino Data Lab","SF Bay Area",NULL,2022-11-07,0.25,Data,https://docs.google.com/spreadsheets/d/1YKzaAkolJv-rem3UidjYFKk6VW1FyITeTAJrc8z0_Xc/edit#gid=0,"Series F",223,"United States",2022-11-08
+Domio,"New York City",NULL,2020-11-18,0.5,"Real Estate",https://therealdeal.com/national/2020/11/18/short-term-rental-operator-domio-shuts-down/,"Series B",116,"United States",2020-11-19
+Domio,"New York City",NULL,2020-03-31,0.3,Travel,LinkedIn,"Series B",116,"United States",2020-04-07
+Domo,"Salt Lake City",NULL,2023-11-30,0.07,Data,https://finance.yahoo.com/news/q3-2024-domo-inc-earnings-134921438.html,Post-IPO,689,"United States",2023-12-02
+Domo,"Salt Lake City",90,2020-04-09,0.1,Data,https://www.ksl.com/article/46740514/domo-forced-to-lay-off-10-of-workforce-due-to-economic-impact-caused-by-covid-19,Post-IPO,689,"United States",2020-04-11
+Dooly,"Vancouver,Non-U.S.",12,2022-08-09,NULL,Sales,https://www.linkedin.com/feed/update/urn:li:activity:6962892415028387840/,"Series B",102,Canada,2022-08-10
+DoorDash,"SF Bay Area",1250,2022-11-30,0.06,Food,https://www.reuters.com/business/retail-consumer/doordash-cuts-1250-jobs-an-effort-rein-expenses-2022-11-30/,Post-IPO,2500,"United States",2022-11-30
+dot.LA,"Los Angeles",NULL,2023-06-12,1,Media,https://www.lastartups.com/dot-la-hits-delete-lays-off-entire-staff-amidst-shift-to-newsletter-only/,Seed,4,"United States",2023-06-14
+Dotscience,"London,Non-U.S.",10,2020-05-19,1,Product,https://layoffs.fyi/2020/05/22/devops-startup-dotscience-shuts-down/,Unknown,NULL,"United Kingdom",2020-05-20
+DoubleCloud,"Dubai,Non-U.S.",NULL,2024-09-30,1,Infrastructure,https://double.cloud/blog/posts/2024/10/doublecloud-final-update/,Unknown,NULL,"United Arab Emirates",2024-10-02
+Doubtnut,"Gurugram,Non-U.S.",NULL,2022-10-31,0.3,Education,https://entrackr.com/2023/04/exclusive-doubtnut-slashes-costs-by-80-raises-2-5-mn-in-internal-round/,"Series B",49,India,2023-04-14
+Dover,"SF Bay Area",23,2022-07-26,0.3,Recruiting,https://blog.dover.io/changes-to-our-team/,"Series A",22,"United States",2022-07-26
+Doximity,"SF Bay Area",100,2023-08-08,0.1,Healthcare,https://www.fiercehealthcare.com/health-tech/doximity-lays-10-workforce-stock-sinks-company-downgrades-revenue-guidance,Post-IPO,82,"United States",2023-08-09
+Dozee,"Bengaluru,Non-U.S.",40,2024-09-02,NULL,Healthcare,https://inc42.com/buzz/dozee-lays-off-around-40-employees/,"Series A",26,India,2024-09-04
+DraftKings,Boston,140,2023-02-01,0.04,Consumer,https://www.cnbc.com/2023/02/01/draftkings-cuts-140-jobs.html,Post-IPO,719,"United States",2023-02-01
+Dragos,Baltimore,50,2023-06-06,0.09,Security,https://www.dragos.com/blog/industry-news/dragos-ceos-email-to-employees-on-layoff/,"Series D",364,"United States",2023-06-06
+Drata,"San Diego",40,2024-09-26,0.09,Security,https://techcrunch.com/2024/09/26/security-compliance-unicorn-drata-lays-off-9-of-its-workforce/,"Series C",328,"United States",2024-09-26
+Drift,Boston,100,2023-09-07,0.25,Marketing,https://www.bizjournals.com/boston/news/2023/09/07/drift-second-round-layoffs.html,Acquired,107,"United States",2023-09-09
+Drift,Boston,59,2023-02-06,NULL,Marketing,https://www.bizjournals.com/boston/news/2023/02/06/drift-layoffs-2023-economic-conditions.html,Acquired,107,"United States",2023-02-07
+Drip,"Salt Lake City",20,2020-03-23,NULL,Marketing,LinkedIn,Acquired,0,"United States",2020-04-01
+"Drip Capital","SF Bay Area",75,2023-04-14,0.2,Finance,https://inc42.com/buzz/exclusive-trade-financing-startup-drip-capital-lays-off-20-employees/,"Series C",85,"United States",2023-04-15
+DriveWealth,"Jersey City",NULL,2023-01-26,0.2,Finance,https://techcrunch.com/2023/02/06/even-well-funded-fintech-companies-are-laying-off-workers/,"Series D",550,"United States",2023-02-01
+Drizly,Boston,100,2023-03-29,NULL,Retail,https://www.brewbound.com/news/drizly-employees-affected-by-layoff-tidal-wave/,Acquired,119,"United States",2023-03-31
+Drizly,Boston,168,2024-02-05,1,Retail,https://www.boston.com/news/business/2024/02/05/uber-drizly-to-lay-off-168-boston-workers/,Acquired,119,"United States",2024-02-06
+Drop,"Toronto,Non-U.S.",24,2022-11-01,NULL,Marketing,"Internal memo","Series B",56,Canada,2022-11-03
+Dropbox,"SF Bay Area",315,2021-01-13,0.15,Other,https://www.cnbc.com/2021/01/13/dropbox-to-cut-11percent-of-its-global-workforce.html,Post-IPO,1700,"United States",2021-01-13
+Dropbox,"SF Bay Area",500,2023-04-27,0.16,Other,https://blog.dropbox.com/topics/company/a-message-from-drew,Post-IPO,1700,"United States",2023-04-27
+Dropbox,"SF Bay Area",527,2024-10-30,0.2,Other,https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/,Post-IPO,1700,"United States",2024-10-30
+Dropp,"Berlin,Non-U.S.",60,2023-02-14,1,Retail,https://www.businessinsider.de/gruenderszene/business/dropp-insolvenz-betrieb-eingestellt-arive/,Unknown,2,Germany,2023-04-09
+DSCO,"Salt Lake City",12,2020-04-03,NULL,Retail,https://www.linkedin.com/posts/claytonperkins_recommendationsoverresumes-c19-activity-6651856309597675520-BGA9/,"Series A",4,"United States",2020-04-07
+"Duck Creek Technologies",Boston,NULL,2023-07-12,0.09,Finance,https://iireporter.com/duck-creek-reduces-workforce-by-nine-percent/,Acquired,357,"United States",2023-08-11
+"Dude Solutions",Raleigh,NULL,2020-04-15,0.2,Other,https://www.linkedin.com/pulse/some-great-people-impacted-c19-ed-roshitsh/?trackingId=0DmzbwQ3O78ObTV3BiRT9w%3D%3D,Acquired,100,"United States",2020-04-16
+Dukaan,"Bengaluru,Non-U.S.",23,2022-10-31,NULL,Retail,https://www.vccircle.com/saasplatform-dukaan-lays-off-23-employees,"Series A",17,India,2022-10-31
+Dukaan,"Bengaluru,Non-U.S.",56,2023-03-15,0.3,Retail,https://inc42.com/buzz/exclusive-lightspeed-backed-dukaan-lays-off-30-workforce/,"Series A",17,India,2023-03-16
+Dunzo,"Bengaluru,Non-U.S.",NULL,2023-01-16,0.03,Food,https://yourstory.com/2023/01/grocery-delivery-startup-dunzo-laid-off-3-of-its-workforce,Unknown,382,India,2023-01-16
+Dunzo,"Bengaluru,Non-U.S.",150,2023-09-26,0.3,Food,https://www.entrepreneur.com/en-in/news-and-trends/dunzo-announces-fresh-round-of-layoffs/459709,Unknown,458,India,2023-09-27
+Dunzo,"Bengaluru,Non-U.S.",150,2024-08-31,0.75,Food,https://inc42.com/buzz/dunzo-fires-150-more-employees-amid-funding-woes/,Unknown,458,India,2024-09-01
+Dunzo,"Bengaluru,Non-U.S.",300,2023-04-05,0.3,Food,https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/scoop-dunzo-secures-75m-via-convertible-notes-fires-30-staff-tim-cook-may-visit-india-as-apple-opens-first-company-owned-store/articleshow/99281436.cms,Unknown,382,India,2023-04-06
+Dutchie,Bend,50,2022-06-06,0.07,Other,https://www.geekwire.com/2022/dutchie-lays-off-7-of-workforce-citing-dramatic-market-shift-in-latest-cannabis-tech-company-cuts/,"Series D",603,"United States",2022-06-07
+"DUX Education","Bengaluru,Non-U.S.",NULL,2023-02-28,1,Education,https://inc42.com/buzz/edtech-startup-dux-education-to-cease-operations-by-april-2023/,Unknown,NULL,India,2023-03-03
+DwellWell,"Los Angeles",NULL,2023-12-04,1,"Real Estate",https://www.linkedin.com/feed/update/urn:li:activity:7137484656584622080/,Seed,6,"United States",2023-12-05
+dYdX,"SF Bay Area",NULL,2024-10-29,0.35,Crypto,https://cointelegraph.com/news/dydx-lays-off-thirty-five-percent-workforce-after-consensys-cuts,"Series C",87,"United States",2024-10-30
+"Dynamic Signal","SF Bay Area",35,2020-04-02,0.19,HR,LinkedIn,"Series E",114,"United States",2020-04-10
+Earnin,"SF Bay Area",50,2020-04-01,0.2,Finance,LinkedIn,"Series C",190,"United States",2020-04-03
+Earnix,"Tel Aviv,Non-U.S.",30,2023-05-04,0.1,Finance,https://www.calcalistech.com/ctechnews/article/hymylgzvh,Unknown,100,Israel,2023-05-04
+"Earth Rides",Nashville,NULL,2023-01-19,1,Transportation,https://fox17.com/news/local/google-apple-news-nashville-middle-tennessee-earth-rides-ride-share-company-randomly-shuts-down-employees-without-paychecks,Unknown,2,"United States",2023-01-29
+Easee,"Sandnes,Non-U.S.",200,2023-08-14,0.57,Energy,https://www.dn.no/teknologi/easee/jonas-helmikstol/kjetil-nasje/easee-med-masseoppsigelser-grunder-og-toppsjef-jonas-helmikstol-gar-av/2-1-1500472,Unknown,NULL,Norway,2023-08-19
+EasyKnock,"New York City",NULL,2024-12-09,1,"Real Estate",https://www.housingwire.com/articles/easyknock-fintech-abruptly-shuts-down/,"Series D",440,"United States",2024-12-11
+EasyPost,"Salt Lake City",75,2020-03-11,NULL,Logistics,https://www.bizjournals.com/louisville/news/2020/03/11/logistics-company-ceasing-operations-planning.html,"Series A",12,"United States",2020-03-31
+EasyPost,"SF Bay Area",50,2020-04-13,0.25,Logistics,LinkedIn,"Series A",12,"United States",2020-04-14
+"Eat Just","SF Bay Area",40,2023-02-24,NULL,Food,https://www.bloomberg.com/news/articles/2023-02-24/eat-just-to-cut-about-18-of-staff-in-plant-based-egg-division#xj4y7vzkg,Unknown,465,"United States",2023-02-27
+"Eat Just","SF Bay Area",40,2023-09-22,NULL,Food,https://news.bloomberglaw.com/daily-labor-report/vegan-egg-maker-eat-just-cuts-jobs-after-raising-money-1,Unknown,465,"United States",2023-10-02
+Eatsy,"Singapore,Non-U.S.",20,2020-08-08,1,Food,https://www.businesstimes.com.sg/garage/food-ordering-startup-eatsy-shutters-operations-0,Seed,1,Singapore,2020-08-10
+Eaze,"SF Bay Area",25,2022-06-01,NULL,Consumer,https://www.businessinsider.com/cannabis-tech-startup-eaze-laid-off-employees-2022-6,"Series D",202,"United States",2022-06-02
+Eaze,"SF Bay Area",500,2024-10-07,1,Consumer,https://www.sfgate.com/cannabis/article/eaze-california-layoffs-19820734.php,"Series D",202,"United States",2024-10-07
+Ebanx,"Curitiba,Non-U.S.",340,2022-06-21,0.2,Finance,https://www.reuters.com/technology/brazils-ebanx-lays-off-20-employees-cuts-sweep-tech-sector-2022-06-21/,"Series B",460,Brazil,2022-06-22
+Ebanx,"Curitiba,Non-U.S.",62,2020-05-27,0.08,Finance,https://exame.com/pme/comeca-uma-era-mais-pe-no-chao-para-as-startups-diz-fundador-do-ebanx/,Unknown,30,Brazil,2020-06-01
+eBay,"SF Bay Area",1000,2024-01-23,0.09,Retail,https://www.cnbc.com/2024/01/23/ebay-to-slash-about-1000-roles-or-approximately-9percent-of-full-time-employees.html,Post-IPO,1200,"United States",2024-01-24
+eBay,"SF Bay Area",500,2023-02-07,0.04,Retail,https://www.reuters.com/technology/ebay-lay-off-500-employees-2023-02-07/,Post-IPO,1200,"United States",2023-02-07
+eBay,"Tel Aviv,Non-U.S.",20,2023-12-17,NULL,Retail,https://www.calcalistech.com/ctechnews/article/h1d3zchia,Post-IPO,1200,Israel,2023-12-18
+eBay,"Tel Aviv,Non-U.S.",20,2025-02-26,NULL,Retail,https://www.calcalistech.com/ctechnews/article/bjgsl8n9yl,Post-IPO,1200,Israel,2025-02-28
+eBay,"Tel Aviv,Non-U.S.",200,2025-05-28,NULL,Retail,https://www.calcalistech.com/ctechnews/article/hywdt44mxx,Post-IPO,1200,Israel,2025-06-01
+Ecobee,"Toronto,Non-U.S.",47,2020-03-26,0.1,Energy,https://layoffs.fyi/2020/04/10/ecobee-laid-off-47-employees/,"Series C",149,Canada,2020-03-28
+"Eden / Managed By Q","New York City",40,2020-04-08,0.4,"Real Estate",https://layoffs.fyi/2020/04/08/remainder-of-managed-by-q-team-furloughed-or-laid-off-by-eden/,"Series B",40,"United States",2020-04-08
+Edgio,Phoenix,134,2023-06-06,0.12,Infrastructure,https://investors.edg.io/static-files/829cb878-ba70-4965-bb63-3c4629781a41https://seekingalpha.com/news/3978762-edgio-to-cut-12-of-its-workforce-to-reduce-cost,Post-IPO,462,"United States",2023-06-09
+Edgio,Phoenix,80,2024-03-04,0.1,Infrastructure,https://investors.edg.io/node/13996/html,Post-IPO,462,"United States",2024-03-07
+Edgio,Phoenix,95,2022-12-13,0.1,Infrastructure,https://www.marketscreener.com/amp/quote/stock/EDGIO-INC-52799/news/EDGIO-INC-Costs-Associated-with-Exit-or-Disposal-Activities-Change-in-Directors-or-Principal-Of-42549605/,Post-IPO,462,"United States",2022-12-15
+Edifecs,Seattle,30,2023-01-20,NULL,Healthcare,https://www.geekwire.com/2023/edifecs-lays-off-30-employees-in-the-u-s/,Unknown,1,"United States",2023-01-21
+"Editas Medicine",Boston,NULL,2023-01-09,0.2,Healthcare,https://endpts.com/editas-edits-pipeline-lays-off-20-and-says-bye-to-cso-to-kick-off-jpm23/,Post-IPO,656,"United States",2023-01-20
+Edmodo,"SF Bay Area",NULL,2022-08-16,1,Education,https://www.edsurge.com/news/2022-08-16-popular-k-12-tool-edmodo-shuts-down,Acquired,77,"United States",2022-08-16
+eGym,"Munich,Non-U.S.",100,2020-04-02,0.25,Fitness,https://www.tz.de/muenchen/stadt/muenchen-ort29098/corona-muenchen-kuendigung-video-videocall-start-up-mitarbeiter-erklaerung-firma-13637702.html,"Series D",109,Germany,2020-04-20
+"Eigen Labs",Seattle,29,2025-07-08,0.25,Crypto,https://blockworks.co/news/eigen-layoffs-25-eigencloud,Unknown,234,"United States",2025-07-11
+"Eight Sleep","New York City",NULL,2020-03-23,0.2,Retail,https://www.theinformation.com/articles/layoffs-accelerate-across-silicon-valley-startups,"Series C",70,"United States",2020-03-28
+"Eightfold AI","SF Bay Area",90,2023-02-03,0.15,HR,https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html,"Series E",396,"United States",2023-03-24
+Ejento,"SF Bay Area",84,2020-03-19,1,Recruiting,https://layoffs.fyi/list/ejento/,Unknown,NULL,"United States",2020-03-28
+Elastic,"SF Bay Area",NULL,2022-11-30,0.13,Data,https://www.elastic.co/blog/ceo-ash-kulkarni-email-to-elastic-employees,Post-IPO,162,"United States",2022-12-01
+Electric,"New York City",141,2023-02-13,0.25,Other,https://www.electric.ai/blog/open-letter-feb-2023,"Series D",212,"United States",2023-02-14
+Electric,"New York City",81,2022-08-30,NULL,Other,https://www.electric.ai/blog/an-open-letter-from-the-ceo,"Series D",212,"United States",2022-09-30
+"Electriq Global","Tel Aviv,Non-U.S.",NULL,2025-02-21,1,Energy,https://www.calcalistech.com/ctechnews/article/syqy71l91e,Unknown,8,Israel,2025-02-26
+"Electronic Arts","Baton Rouge",200,2023-02-28,NULL,Consumer,https://kotaku.com/ea-apex-legends-bugs-layoffs-respawn-zoom-1850168472,Post-IPO,2,"United States",2023-03-02
+"Electronic Arts","SF Bay Area",300,2025-04-29,NULL,Consumer,https://www.bloomberg.com/news/articles/2025-04-29/electronic-arts-lays-off-hundreds-cancels-titanfall-game,Post-IPO,2,"United States",2025-05-03
+"Electronic Arts","SF Bay Area",670,2024-02-28,0.05,Consumer,https://www.cnbc.com/2024/02/28/ea-layoffs-company-to-cut-5percent-of-workforce-or-about-670-employees.html,Post-IPO,2,"United States",2024-02-29
+"Electronic Arts","SF Bay Area",780,2023-03-29,0.06,Consumer,https://www.wsj.com/articles/electronic-arts-says-it-is-laying-off-6-of-workforce-d9c2b7e1?mod=djemalertNEWS,Post-IPO,2,"United States",2023-03-29
+Element,"London,Non-U.S.",NULL,2022-12-25,0.15,Other,https://news.ycombinator.com/item?id=34129623,"Series B",96,"United Kingdom",2023-03-01
+"Element AI","Montreal,Non-U.S.",62,2020-05-04,0.15,Other,https://www.theglobeandmail.com/business/article-element-ai-cuts-staff-adds-senior-executives-as-it-attempts-to-live/,"Series B",257,Canada,2020-05-06
+"Element Analytics","SF Bay Area",10,2020-03-25,NULL,Data,"Company executive","Series A",22,"United States",2020-04-18
+Elementor,"Tel Aviv,Non-U.S.",60,2022-06-15,0.15,Media,https://en.globes.co.il/en/article-elementor-begins-laying-off-15-of-workforce-1001415176,Unknown,65,Israel,2022-06-15
+Elinvar,"Berlin,Non-U.S.",43,2022-10-21,0.33,Finance,https://financefwd.com/de/elinvar-entlassungen-funding/,Unknown,30,Germany,2022-10-24
+Elliptic,"London,Non-U.S.",NULL,2020-04-09,0.3,Crypto,https://www.theblockcrypto.com/daily/61411/blockchain-analytics-chainalysis-elliptic-ciphertrace-coronavirus,"Series B",40,"United Kingdom",2020-04-30
+"Embark Trucks","SF Bay Area",230,2023-03-03,0.7,Transportation,https://techcrunch.com/2023/03/03/embark-trucks-lays-off-workers-explores-liquidation-of-self-driving-truck-assets/,Post-IPO,317,"United States",2023-03-03
+"Embark Vet",Boston,28,2023-04-28,NULL,Healthcare,https://docs.google.com/spreadsheets/d/12HLkzExDs4cXgF8FGl8M6D3Zilpr4iWMJHVGfGy4szk/edit#gid=113211201,"Series B",94,"United States",2023-05-10
+"Embark Vet",Boston,41,2023-01-11,NULL,Healthcare,https://www.linkedin.com/feed/update/urn:li:activity:7018765914254778368/,"Series B",94,"United States",2023-01-12
+Embroker,"SF Bay Area",30,2022-10-25,0.12,Finance,https://www.theinsurer.com/news/insurtech-embroker-lays-off-12-of-global-workforce/25922.article,"Series C",142,"United States",2022-10-26
+"Emma Sleep","Frankfurt,Non-U.S.",200,2024-06-19,0.18,Retail,https://www.wiwo.de/unternehmen/handel/matratzenhersteller-in-der-krise-emma-entlaesst-jeden-fuenften-mitarbeiter/29856880.html,Acquired,NULL,Germany,2024-06-23
+Emotive,"Los Angeles",30,2022-07-07,0.18,Marketing,https://dot.la/emotive-layoffs-2657628462.html,"Series B",78,"United States",2022-07-08
+"EMX Digital","New York City",100,2023-02-13,1,Marketing,https://www.businessinsider.com/big-village-bankruptcy-emx-digital-employees-furious-about-layoffs-severance-2023-2,Unknown,NULL,"United States",2023-02-24
+"Engine eCommerce",Fayetteville,NULL,2020-06-28,1,Retail,https://talkbusiness.net/2020/06/after-raising-millions-fayetteville-startup-headed-by-john-james-goes-dark/,Unknown,4,"United States",2020-07-09
+Enjoei,"Sao Paulo,Non-U.S.",31,2023-01-20,0.1,Retail,"https://www.terra.com.br/economia/dinheiro-em-dia/meu-negocio/depois-do-ipo-e-da-queda-enjoei-faz-a-sua-demissao-em-massa,e1d6c15174934d1010733071113dff43zabh1zv5.html",Unknown,14,Brazil,2023-01-23
+Enjoy,"SF Bay Area",400,2022-06-30,0.18,Retail,https://news.crunchbase.com/public/bankruptcy-enjoy-apple-ron-johnson/,Post-IPO,310,"United States",2022-06-30
+Enovix,"SF Bay Area",170,2024-05-06,0.33,Energy,https://www.theinformation.com/articles/battery-developer-enovix-lays-off-roughly-one-third-of-staff,Post-IPO,516,"United States",2024-05-07
+Enovix,"SF Bay Area",185,2023-10-05,NULL,Energy,https://www.theinformation.com/articles/the-electric-enovix-lays-off-185-engineers-and-shifts-most-of-its-operations-to-malaysia,Post-IPO,516,"United States",2023-10-06
+"Enphase Energy","SF Bay Area",350,2023-12-18,0.1,Energy,https://enphase.com/blog/employees/dec-2023-message-from-our-ceo,Post-IPO,116,"United States",2023-12-19
+"Enphase Energy","SF Bay Area",500,2024-11-11,0.17,Energy,https://www.sfgate.com/tech/article/enphase-energy-layoffs-workers-solar-19907535.php,Post-IPO,116,"United States",2024-11-12
+Envato,"Melbourne,Non-U.S.",100,2022-06-02,NULL,Marketing,https://www.smartcompany.com.au/technology/envato-redundancy-business-restructuring/,Unknown,NULL,Australia,2022-06-02
+Envoy,"SF Bay Area",58,2020-04-14,0.3,HR,https://www.forbes.com/sites/alexandrawilson1/2020/04/15/smart-office-startup-envoy-furloughs-and-lays-off-30-of-employees-cuts-salaries-of-others/#e0729a7b94cf,"Series B",59,"United States",2020-04-15
+"Epic Games",Raleigh,870,2023-09-28,0.16,Consumer,https://techcrunch.com/2023/09/28/fortnite-maker-epic-games-is-laying-off-16-of-its-workforce/,Unknown,6400,"United States",2023-09-28
+Epicery,"Paris,Non-U.S.",NULL,2024-12-31,1,Food,https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/,Acquired,7,France,2025-01-04
+EQRx,Boston,NULL,2023-02-24,0.18,Healthcare,https://www.biopharmadive.com/news/eqrx-biotech-layoffs-jobs-restructuring/643507/,Post-IPO,1900,"United States",2023-05-05
+Equitybee,"SF Bay Area",24,2023-02-08,0.25,Finance,https://www.calcalistech.com/ctechnews/article/h1jkvzwpo,"Series B",85,"United States",2023-02-09
+Equitybee,"SF Bay Area",25,2022-10-31,0.2,Finance,https://www.calcalistech.com/ctechnews/article/hkrqontns,"Series B",85,"United States",2022-10-31
+EquityZen,"New York City",30,2022-10-31,0.27,Finance,https://www.axios.com/2022/10/31/scoop-layoffs-hit-startup-stock-marketplace-equityzen,"Series B",11,"United States",2022-11-01
+Ericsson,"Stockholm,Non-U.S.",8500,2023-02-24,0.08,Other,https://www.reuters.com/business/media-telecom/ericsson-lay-off-8500-employees-memo-2023-02-24/,Post-IPO,663,Sweden,2023-02-24
+Ermetic,"SF Bay Area",30,2023-01-23,0.17,Security,https://www.calcalistech.com/ctechnews/article/h1abeu2io,"Series B",97,"United States",2023-01-25
+Eroad,"Auckland,Non-U.S.",200,2023-07-28,0.31,Transportation,https://businessdesk.co.nz/article/markets/eroad-investors-grill-management-on-buyout-offer,Unknown,46,"New Zealand",2023-08-01
+Eruditus,"Mumbai,Non-U.S.",40,2022-06-04,NULL,Education,https://inc42.com/buzz/softbank-backed-edtech-unicorn-eruditus-trims-workforce-lays-off-40-employees/,"Series E",1200,India,2022-06-06
+Esper,Seattle,NULL,2022-06-23,0.12,Other,https://www.geekwire.com/2022/seattle-startup-esper-cuts-12-of-staff-citing-current-economic-climate-as-tech-layoffs-continue/,"Series A",10,"United States",2022-06-23
+Esper,Seattle,NULL,2023-01-10,0.21,Other,https://www.geekwire.com/2023/esper-lays-off-21-of-workforce-due-to-unpredictable-business-environment-in-2023/,"Series A",10,"United States",2023-01-12
+Etermax,"Buenos Aires,Non-U.S.",40,2022-11-30,NULL,Other,https://www.clarin.com/economia/despidos-reestructuracion-tecnologicas-empresas-achican-pasar-2023_0_uxSUuShZhQ.html,Unknown,NULL,Argentina,2022-12-01
+"Ethos Life","SF Bay Area",18,2020-06-05,0.14,Finance,https://coverager.com/layoffs-at-ethos/,"Series C",106,"United States",2020-06-06
+"Ethos Life","SF Bay Area",40,2022-06-24,0.12,Finance,https://www.coverager.com/ethos-lays-off-40-employees/,"Series D",406,"United States",2022-06-26
+"Ethos Life","SF Bay Area",50,2023-02-21,NULL,Finance,https://www.coverager.com/ethos-conducts-another-round-of-layoffs/,"Series D",406,"United States",2023-02-24
+eToro,"Tel Aviv,Non-U.S.",100,2022-07-05,0.06,Finance,https://www.calcalistech.com/ctechnews/article/ryoxm611sc,Unknown,322,Israel,2022-07-05
+Etsy,"New York City",225,2023-12-13,0.11,Retail,https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html,Post-IPO,97,"United States",2023-12-13
+Eucalyptus,"Sydney,Non-U.S.",50,2022-07-22,0.2,Healthcare,https://www.news.com.au/finance/business/other-industries/australian-healthcare-startup-fires-20-per-cent-of-staff/news-story/c582a96f5cc55a99962c2c79aa7033a9,"Series C",69,Australia,2022-07-28
+"Euler Motors","New Delhi,Non-U.S.",NULL,2023-04-11,0.1,Transportation,https://entrackr.com/2023/04/ev-firm-euler-motors-lays-off-10-of-workforce-citing-restructuring/,"Series C",92,India,2023-04-11
+Eurora,"Tallinn,Non-U.S.",111,2023-09-11,NULL,Other,https://www.aripaev.ee/uudised/2023/09/11/maksuvolga-jaanud-idufirma-eurora-koondab-ule-100-tootaja,"Series A",42,Estonia,2023-09-11
+Eventbrite,"SF Bay Area",100,2024-08-07,0.11,Consumer,https://www.marketwatch.com/story/eventbrite-to-about-100-jobs-reducing-headcount-by-11-a5daf94b,Post-IPO,557,"United States",2024-08-08
+Eventbrite,"SF Bay Area",500,2020-04-08,0.45,Consumer,https://layoffs.fyi/2020/04/13/eventbrite-laid-off-500-employees/,Post-IPO,332,"United States",2020-04-08
+Eventbrite,"SF Bay Area",80,2023-02-28,0.08,Consumer,https://www.reuters.com/markets/us/ticketing-service-provider-eventbrite-lay-off-8-workforce-2023-02-28/,Post-IPO,557,"United States",2023-03-01
+Eventus,Austin,NULL,2023-05-05,0.33,Finance,https://www.thetradenews.com/eventus-cuts-staff-numbers-amid-challenging-funding-environment/,"Series B",45,"United States",2023-05-08
+EverBridge,Boston,200,2022-11-08,NULL,Other,https://www.bizjournals.com/boston/news/2022/11/08/everbridge-to-lay-off-200-workers.html,Post-IPO,476,"United States",2023-01-19
+EverC,"Tel Aviv,Non-U.S.",16,2024-07-17,0.1,Security,https://www.calcalistech.com/ctechnews/article/bjrddqr00r,Unknown,61,Israel,2024-07-18
+Everlane,"SF Bay Area",227,2020-03-27,NULL,Retail,https://www.vice.com/en_ca/article/akw9ej/everlane-reassures-workers-then-lays-off-and-furloughs-hundreds,Unknown,18,"United States",2020-03-29
+Everlane,"SF Bay Area",30,2023-01-05,0.17,Retail,https://www.theinformation.com/articles/everlane-slashes-17-of-corporate-employees,Unknown,176,"United States",2023-01-06
+Everlaw,"SF Bay Area",NULL,2023-05-12,0.1,Legal,https://www.law360.com/pulse/legal-tech/articles/1607469/e-discovery-co-everlaw-conducts-10-staff-reduction,"Series D",298,"United States",2023-05-13
+Everledger,"Brisbane,Non-U.S.",NULL,2023-05-08,1,Crypto,https://www.afr.com/technology/government-and-tencent-backed-aussie-blockchain-firm-collapses-20230503-p5d58l,Unknown,27,Australia,2023-05-15
+Evernote,"SF Bay Area",129,2023-02-17,NULL,Consumer,https://techcrunch.com/2023/02/27/bending-spoons-lays-off-129-evernote-staffers/,Acquired,290,"United States",2023-02-27
+Everquote,Evansville,100,2023-07-11,NULL,Finance,https://www.insurancejournal.com/news/national/2023/07/11/729444.htm,Post-IPO,53,"United States",2023-07-13
+Everybuddy,"Tel Aviv,Non-U.S.",NULL,2024-02-13,1,Consumer,https://www.calcalistech.com/ctechnews/article/rj28wryo6,"Series A",15,Israel,2024-02-15
+EVgo,"Los Angeles",40,2023-02-23,NULL,Transportation,https://www.businesswire.com/news/home/20230223005797/en/EVgo-Inc.-Aligns-Organization-Around-Growing-Its-Charging-Network,Post-IPO,400,"United States",2023-02-24
+Evolve,Denver,164,2023-05-29,0.14,Travel,https://skift.com/blog/evolve-lays-off-14-percent-of-its-staff/,"Series F",224,"United States",2023-09-14
+Evolve,Denver,175,2023-09-12,0.2,Travel,https://skift.com/2023/09/13/property-manager-evolve-lays-off-20-of-its-workforce/amp/,"Series F",224,"United States",2023-09-14
+Exabeam,"SF Bay Area",NULL,2023-10-25,0.2,Security,https://www.exabeam.com/company-news/company-update-october-25-2023/,"Series F",391,"United States",2023-10-26
