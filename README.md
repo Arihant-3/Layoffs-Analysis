@@ -60,7 +60,7 @@ The final dashboard includes:
 - Filters: Country, industry, year
 
 📸 **[Screenshot Preview](./assets/dashboard_screenshot.png)**  
-📁 **Power BI File:** [`Layoffs Dashboard`](./powerbi/layoffs_dashboard.pbix)
+📁 **Power BI File:** [`Layoffs Dashboard`](./Power_BI/layoffs_dashboard.pbix)
 
 ---
 
